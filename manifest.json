@@ -1,49 +1,49 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-13T13:50:00Z",
+  "generatedAt": "2026-05-13T14:15:00Z",
   "cdnBase": "https://cdn.jsdelivr.net/gh/MaheshThopukara/BrainPlay-content@main",
   "packs": [
     {
       "bankId": "emotion_detective",
-      "version": 2,
-      "path": "packs/emotion_detective.v2.json",
+      "version": 1,
+      "path": "packs/emotion_detective.v1.json",
       "sizeBytes": 1351308,
-      "sha256": "79a4b7116a9678d35abe6d22338ca8fe6dc120f002391bd36d264f6d370b371b"
+      "sha256": "1c70d0a79dc4cd80e8d1b51571068d3a740104f5b180e54def33f37922d98e53"
     },
     {
       "bankId": "what_would_you_say",
-      "version": 2,
-      "path": "packs/what_would_you_say.v2.json",
+      "version": 1,
+      "path": "packs/what_would_you_say.v1.json",
       "sizeBytes": 1606778,
-      "sha256": "ad171979c34a31a4fd13b98ba5558490cb8af5b19c895df777d584d30a3a58f6"
+      "sha256": "f264f0cddec60b55808572aa3e7f49c050941e5c8ea605cc74cdf695f334149d"
     },
     {
       "bankId": "odd_one_out",
-      "version": 2,
-      "path": "packs/odd_one_out.v2.json",
+      "version": 1,
+      "path": "packs/odd_one_out.v1.json",
       "sizeBytes": 1037346,
-      "sha256": "21995aa2b461f8408b9c2b1933ce3dcdfca2fa24fb1adc2682a7d2f6ce05f8e3"
+      "sha256": "38a53df94e013c7dae088629fa1591739768b8a78e0aa5e25953271cdc6920cf"
     },
     {
       "bankId": "echo_tiles",
-      "version": 2,
-      "path": "packs/echo_tiles.v2.json",
+      "version": 1,
+      "path": "packs/echo_tiles.v1.json",
       "sizeBytes": 1331805,
-      "sha256": "100fad2e0f0deb3eef4de4f452a4ea926c52c1a3b7392de7d41275b3bb4cb8be"
+      "sha256": "aafa49204c725aa5db4d86cba8260c09aa4719c8a314eb7fd16f9a1ee4dd7aeb"
     },
     {
       "bankId": "mirror_match",
-      "version": 2,
-      "path": "packs/mirror_match.v2.json",
+      "version": 1,
+      "path": "packs/mirror_match.v1.json",
       "sizeBytes": 701302,
-      "sha256": "a5dfe1e694e9824dbb32d5c707c9a02f3adff4246cc7cc98a04c20cf23b54ef0"
+      "sha256": "2fa347959f76a19b8b6946e6840fa0b9d2520e30a0e30732aec0f1284f2c0fad"
     },
     {
       "bankId": "clock_reader",
-      "version": 2,
-      "path": "packs/clock_reader.v2.json",
+      "version": 1,
+      "path": "packs/clock_reader.v1.json",
       "sizeBytes": 776546,
-      "sha256": "38da9a11d84678b4dfc0618721f96e9e35f339da39cadc427f194508b8f670a9"
+      "sha256": "efbf06091f4532fe503dc186ed080fe147f07c9e23e4ac93e2e9f11831420e46"
     },
     {
       "bankId": "pattern_detective",
