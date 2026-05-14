@@ -28,42 +28,42 @@
             "id": 1,
             "xFrac": 0.2456,
             "yFrac": 0.1352,
-            "radius": 0.09,
+            "radius": 0.11,
             "label": "Volcano peak"
           },
           {
             "id": 2,
             "xFrac": 0.5563,
             "yFrac": 0.3903,
-            "radius": 0.09,
+            "radius": 0.1,
             "label": "Back spot"
           },
           {
             "id": 3,
             "xFrac": 0.9169,
             "yFrac": 0.237,
-            "radius": 0.09,
+            "radius": 0.12,
             "label": "Right mountain"
           },
           {
             "id": 4,
             "xFrac": 0.7873,
             "yFrac": 0.558,
-            "radius": 0.09,
+            "radius": 0.1,
             "label": "Water ripple"
           },
           {
             "id": 5,
             "xFrac": 0.2087,
-            "yFrac": 0.8811,
-            "radius": 0.09,
-            "label": "Front legs"
+            "yFrac": 0.82,
+            "radius": 0.14,
+            "label": "Back-left leg/foot"
           },
           {
             "id": 6,
             "xFrac": 0.7707,
             "yFrac": 0.9343,
-            "radius": 0.09,
+            "radius": 0.1,
             "label": "Stone on ground"
           }
         ],
