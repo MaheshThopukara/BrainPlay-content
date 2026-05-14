@@ -75,6 +75,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/34328958"
         }
       }
+    },
+    {
+      "id": "swing_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Girl on a Swing",
+        "theme": "playground",
+        "imageWidth": 944,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/swing_001/original.jpg",
+          "sha256": "ad476bc35bd1d913230de20eae74a2379dd2c968b171841d4caea610faf62254",
+          "sizeBytes": 153662
+        },
+        "alteredImage": {
+          "path": "images/swing_001/altered.jpg",
+          "sha256": "5e3aa6cbc987dd88e5e1b31d16845faec3afc7cc58ca2c0195d6184afd33b06f",
+          "sizeBytes": 156025
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1252,
+            "yFrac": 0.0881,
+            "radius": 0.11,
+            "label": "Sun"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8552,
+            "yFrac": 0.1566,
+            "radius": 0.1,
+            "label": "Right rope"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6008,
+            "yFrac": 0.3386,
+            "radius": 0.09,
+            "label": "Cheek"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3894,
+            "yFrac": 0.4951,
+            "radius": 0.1,
+            "label": "Right hand"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3444,
+            "yFrac": 0.7221,
+            "radius": 0.11,
+            "label": "Left knee"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7906,
+            "yFrac": 0.816,
+            "radius": 0.1,
+            "label": "Wood seat"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328531"
+        }
+      }
     }
   ]
 }
