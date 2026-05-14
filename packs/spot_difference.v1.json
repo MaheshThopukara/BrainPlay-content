@@ -959,6 +959,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/25374812"
         }
       }
+    },
+    {
+      "id": "rabbit_magician_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Magic Rabbit",
+        "theme": "rabbit_magician",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/rabbit_magician_001/original.jpg",
+          "sha256": "c6b4cbc885f9899faf651732ba55518ec777c0da4c778b67787b063e176b2cf1",
+          "sizeBytes": 134001
+        },
+        "alteredImage": {
+          "path": "images/rabbit_magician_001/altered.jpg",
+          "sha256": "a073616841638c73acfb65ce238dc2ffd0eaaea3729d49782bf53e39ce6b49bf",
+          "sizeBytes": 140846
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.048,
+            "yFrac": 0.43,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.79,
+            "yFrac": 0.2036,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.39,
+            "yFrac": 0.475,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.77,
+            "yFrac": 0.36,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4252,
+            "yFrac": 0.5387,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.43,
+            "yFrac": 0.71,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7073,
+            "yFrac": 0.5472,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1145,
+            "yFrac": 0.684,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979816"
+        }
+      }
     }
   ]
 }
