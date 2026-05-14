@@ -26,44 +26,44 @@
         "hotspots": [
           {
             "id": 1,
-            "xFrac": 0.291,
-            "yFrac": 0.087,
+            "xFrac": 0.2456,
+            "yFrac": 0.1352,
             "radius": 0.09,
-            "label": "Volcano peak line"
+            "label": "Volcano peak"
           },
           {
             "id": 2,
-            "xFrac": 0.938,
-            "yFrac": 0.227,
-            "radius": 0.12,
-            "label": "Right mountain"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.557,
-            "yFrac": 0.395,
-            "radius": 0.07,
+            "xFrac": 0.5563,
+            "yFrac": 0.3903,
+            "radius": 0.09,
             "label": "Back spot"
           },
           {
+            "id": 3,
+            "xFrac": 0.9169,
+            "yFrac": 0.237,
+            "radius": 0.09,
+            "label": "Right mountain"
+          },
+          {
             "id": 4,
-            "xFrac": 0.791,
-            "yFrac": 0.562,
-            "radius": 0.08,
+            "xFrac": 0.7873,
+            "yFrac": 0.558,
+            "radius": 0.09,
             "label": "Water ripple"
           },
           {
             "id": 5,
-            "xFrac": 0.729,
-            "yFrac": 0.81,
+            "xFrac": 0.2087,
+            "yFrac": 0.8811,
             "radius": 0.09,
-            "label": "Right foot"
+            "label": "Front legs"
           },
           {
             "id": 6,
-            "xFrac": 0.773,
-            "yFrac": 0.943,
-            "radius": 0.07,
+            "xFrac": 0.7707,
+            "yFrac": 0.9343,
+            "radius": 0.09,
             "label": "Stone on ground"
           }
         ],
