@@ -437,6 +437,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584592"
         }
       }
+    },
+    {
+      "id": "dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Dog at the House",
+        "theme": "dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/dog_001/original.jpg",
+          "sha256": "247b1aaad2b12f0ef3a8239d349fb3902dacad4c53aa38e5d97a74165ee7a92e",
+          "sizeBytes": 133004
+        },
+        "alteredImage": {
+          "path": "images/dog_001/altered.jpg",
+          "sha256": "ae0933b267508b700916b2b84a5debe1cadaeb91742d9dd2e86c333cb798000e",
+          "sizeBytes": 136220
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3091,
+            "yFrac": 0.1084,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1351,
+            "yFrac": 0.3774,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2814,
+            "yFrac": 0.3973,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7002,
+            "yFrac": 0.3164,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1093,
+            "yFrac": 0.6052,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7239,
+            "yFrac": 0.5301,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8502,
+            "yFrac": 0.5737,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1467,
+            "yFrac": 0.9282,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584596"
+        }
+      }
     }
   ]
 }
