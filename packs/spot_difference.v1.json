@@ -249,6 +249,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584589"
         }
       }
+    },
+    {
+      "id": "carrot_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Carrot Garden",
+        "theme": "carrot",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/carrot_001/original.jpg",
+          "sha256": "cc52dc2e76f3ddaf806cdb45cb14f1882619dbbd6cf12d6ac2d18c435f7090e7",
+          "sizeBytes": 189168
+        },
+        "alteredImage": {
+          "path": "images/carrot_001/altered.jpg",
+          "sha256": "eb4d411faf9a48d562b1b95b4a83737503116ccc90eb3647bdd369f3a8761f51",
+          "sizeBytes": 190039
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6717,
+            "yFrac": 0.0614,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2897,
+            "yFrac": 0.198,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4683,
+            "yFrac": 0.247,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6934,
+            "yFrac": 0.1561,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1799,
+            "yFrac": 0.3485,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4615,
+            "yFrac": 0.4478,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8196,
+            "yFrac": 0.3407,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3481,
+            "yFrac": 0.6717,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8501,
+            "yFrac": 0.7332,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9026,
+            "yFrac": 0.8586,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584651"
+        }
+      }
     }
   ]
 }
