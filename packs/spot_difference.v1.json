@@ -524,6 +524,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584596"
         }
       }
+    },
+    {
+      "id": "bird_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bird on a Branch",
+        "theme": "bird",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bird_001/original.jpg",
+          "sha256": "624e1ac0cecce1e0d14ee7f6416d839057d82af1a14349e4d4226db9c167cb60",
+          "sizeBytes": 147231
+        },
+        "alteredImage": {
+          "path": "images/bird_001/altered.jpg",
+          "sha256": "17553b3478df905ab6fe25d4e5b5662bc26d6ca5cfd44ab26d31b553bd0ff45e",
+          "sizeBytes": 149081
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2571,
+            "yFrac": 0.1011,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6229,
+            "yFrac": 0.2396,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5764,
+            "yFrac": 0.4225,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8427,
+            "yFrac": 0.3352,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6983,
+            "yFrac": 0.5841,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6232,
+            "yFrac": 0.8801,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584588"
+        }
+      }
     }
   ]
 }
