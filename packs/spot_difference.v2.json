@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "bankId": "spot_difference",
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "dino_001",
@@ -26,44 +26,44 @@
         "hotspots": [
           {
             "id": 1,
-            "xFrac": 0.3021,
-            "yFrac": 0.0832,
-            "radius": 0.0848,
-            "label": "Volcano peak"
+            "xFrac": 0.291,
+            "yFrac": 0.087,
+            "radius": 0.09,
+            "label": "Volcano peak line"
           },
           {
             "id": 2,
-            "xFrac": 0.7332,
-            "yFrac": 0.2768,
-            "radius": 0.0848,
-            "label": "Mountain peak right"
+            "xFrac": 0.938,
+            "yFrac": 0.227,
+            "radius": 0.12,
+            "label": "Right mountain"
           },
           {
             "id": 3,
-            "xFrac": 0.9392,
-            "yFrac": 0.2216,
-            "radius": 0.0848,
-            "label": "Back spot pattern"
+            "xFrac": 0.557,
+            "yFrac": 0.395,
+            "radius": 0.07,
+            "label": "Back spot"
           },
           {
             "id": 4,
-            "xFrac": 0.7656,
-            "yFrac": 0.7936,
-            "radius": 0.0848,
+            "xFrac": 0.791,
+            "yFrac": 0.562,
+            "radius": 0.08,
             "label": "Water ripple"
           },
           {
             "id": 5,
-            "xFrac": 0.2409,
-            "yFrac": 0.8833,
-            "radius": 0.0567,
-            "label": "Front foot"
+            "xFrac": 0.729,
+            "yFrac": 0.81,
+            "radius": 0.09,
+            "label": "Right foot"
           },
           {
             "id": 6,
-            "xFrac": 0.7733,
-            "yFrac": 0.9427,
-            "radius": 0.0469,
+            "xFrac": 0.773,
+            "yFrac": 0.943,
+            "radius": 0.07,
             "label": "Stone on ground"
           }
         ],
