@@ -61,10 +61,10 @@
     },
     {
       "bankId": "spot_difference",
-      "version": 2,
-      "path": "packs/spot_difference.v2.json",
+      "version": 1,
+      "path": "packs/spot_difference.v1.json",
       "sizeBytes": 2071,
-      "sha256": "8eab5a7b10e9c569bd2a5599e977819dad37edeab72e2a23b95f444669765125"
+      "sha256": "c13b91e3e39e7b9940927ded5e355a28855ebb94482e5392599f2877ae1b9f26"
     }
   ]
 }

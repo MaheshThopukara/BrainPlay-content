@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "bankId": "spot_difference",
-  "version": 2,
+  "version": 1,
   "questions": [
     {
       "id": "dino_001",
