@@ -148,6 +148,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/34328531"
         }
       }
+    },
+    {
+      "id": "cat_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cats on the Farm",
+        "theme": "farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/cat_001/original.jpg",
+          "sha256": "c30594167fb1853c44e34c868217dff374deb26d4f5e2bb9511924514f0fe784",
+          "sizeBytes": 162184
+        },
+        "alteredImage": {
+          "path": "images/cat_001/altered.jpg",
+          "sha256": "5ba9549aebb7d9ba226a34e20a8a38a26b6b6a03f0870fa59f066bd5e7066e43",
+          "sizeBytes": 164092
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4779,
+            "yFrac": 0.0953,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7245,
+            "yFrac": 0.0906,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1609,
+            "yFrac": 0.1659,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1984,
+            "yFrac": 0.3729,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7808,
+            "yFrac": 0.3306,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8654,
+            "yFrac": 0.3471,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1773,
+            "yFrac": 0.5541,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9499,
+            "yFrac": 0.4671,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4732,
+            "yFrac": 0.8718,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9452,
+            "yFrac": 0.66,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584589"
+        }
+      }
     }
   ]
 }
