@@ -1046,6 +1046,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/19979816"
         }
       }
+    },
+    {
+      "id": "unicorn_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Candyland",
+        "theme": "unicorn",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_001/original.jpg",
+          "sha256": "809e2b5f2cabedd8a505dcd8abac0259187a379ba31a00317e3e514c26c88c63",
+          "sizeBytes": 161570
+        },
+        "alteredImage": {
+          "path": "images/unicorn_001/altered.jpg",
+          "sha256": "b65f9c4677c50f5f695777a14d047d22bb0046341483669174ae27f9b823c90a",
+          "sizeBytes": 158067
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1004,
+            "yFrac": 0.1024,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3784,
+            "yFrac": 0.1163,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9077,
+            "yFrac": 0.1912,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.68,
+            "yFrac": 0.23,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1332,
+            "yFrac": 0.5621,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7697,
+            "yFrac": 0.4733,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.958,
+            "yFrac": 0.5648,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0451,
+            "yFrac": 0.7589,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.3444,
+            "yFrac": 0.8894,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9217,
+            "yFrac": 0.853,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405533"
+        }
+      }
     }
   ]
 }
