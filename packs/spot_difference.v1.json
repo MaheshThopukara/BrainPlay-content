@@ -200,15 +200,15 @@
           },
           {
             "id": 5,
-            "xFrac": 0.7808,
-            "yFrac": 0.3306,
+            "xFrac": 0.7454,
+            "yFrac": 0.3733,
             "radius": 0.1,
             "label": "Diff 5"
           },
           {
             "id": 6,
-            "xFrac": 0.8654,
-            "yFrac": 0.3471,
+            "xFrac": 0.4074,
+            "yFrac": 0.4059,
             "radius": 0.1,
             "label": "Diff 6"
           },
