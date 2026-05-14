@@ -698,6 +698,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/19977926"
         }
       }
+    },
+    {
+      "id": "whale_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Whale in the Ocean",
+        "theme": "whale",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/whale_001/original.jpg",
+          "sha256": "dd4317c85a79e1b4fa6f30b8bc8e7de68eb0ff0d888bdfa21a680072a0e3eca6",
+          "sizeBytes": 129979
+        },
+        "alteredImage": {
+          "path": "images/whale_001/altered.jpg",
+          "sha256": "8f5e5bbc534c019d86f841631e7502a3e0f3dc834c79ac88cc5dd42f724fe5d3",
+          "sizeBytes": 131258
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3862,
+            "yFrac": 0.0618,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8546,
+            "yFrac": 0.0772,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8614,
+            "yFrac": 0.2277,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1356,
+            "yFrac": 0.5233,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7105,
+            "yFrac": 0.5655,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1146,
+            "yFrac": 0.7277,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8666,
+            "yFrac": 0.7746,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3015,
+            "yFrac": 0.8892,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5411,
+            "yFrac": 0.8244,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9364,
+            "yFrac": 0.8347,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325403"
+        }
+      }
     }
   ]
 }
