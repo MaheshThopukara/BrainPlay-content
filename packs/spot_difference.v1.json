@@ -597,6 +597,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584588"
         }
       }
+    },
+    {
+      "id": "easter_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Easter Bunny and Chick",
+        "theme": "easter",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/easter_001/original.jpg",
+          "sha256": "eaddd8a9c8f0dea174199db6fa26fd6abf174a3bc4b663b0bc49283af620a9ea",
+          "sizeBytes": 144450
+        },
+        "alteredImage": {
+          "path": "images/easter_001/altered.jpg",
+          "sha256": "f053d44d9d41d43238a035f8d8d42fcbd74696f79452fab0e02f926d46f06c96",
+          "sizeBytes": 144982
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2269,
+            "yFrac": 0.1386,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8919,
+            "yFrac": 0.2845,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4231,
+            "yFrac": 0.4423,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7191,
+            "yFrac": 0.3971,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1395,
+            "yFrac": 0.4734,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4835,
+            "yFrac": 0.7657,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5082,
+            "yFrac": 0.6361,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0438,
+            "yFrac": 0.8264,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5715,
+            "yFrac": 0.8749,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9194,
+            "yFrac": 0.8384,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19977926"
+        }
+      }
     }
   ]
 }
