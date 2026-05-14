@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-13T14:15:00Z",
+  "generatedAt": "2026-05-14T08:04:25Z",
   "cdnBase": "https://cdn.jsdelivr.net/gh/MaheshThopukara/BrainPlay-content@main",
   "packs": [
     {
@@ -58,6 +58,13 @@
       "path": "packs/sentence_factory.v1.json",
       "sizeBytes": 955376,
       "sha256": "677a258aea53c9b56522667a8add15c79a65d71a06873ad19e7e2f229a3ee328"
+    },
+    {
+      "bankId": "spot_difference",
+      "version": 1,
+      "path": "packs/spot_difference.v1.json",
+      "sizeBytes": 2104,
+      "sha256": "740a1d7c58d0d3454a8d2cd1ec12063f1aa320f05c514ab445e0a54aca0a1d3d"
     }
   ]
 }

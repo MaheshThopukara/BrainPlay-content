@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "bankId": "spot_difference",
+  "version": 1,
+  "questions": [
+    {
+      "id": "dino_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Brontosaurus by the Lake",
+        "theme": "dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/dino_001/original.jpg",
+          "sha256": "fcbdafb3cd28bdc4f2835548ed806cdfc0cf4b3b6f3dee4ad9eff1c56a64318d",
+          "sizeBytes": 136504
+        },
+        "alteredImage": {
+          "path": "images/dino_001/altered.jpg",
+          "sha256": "89d1add90e858fc63275abc4b87af6d1f4e6414c71e867e3f652ef1c1f7f1504",
+          "sizeBytes": 138464
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3021,
+            "yFrac": 0.0832,
+            "radius": 0.0848,
+            "label": "Volcano peak"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7332,
+            "yFrac": 0.2768,
+            "radius": 0.0848,
+            "label": "Mountain peak right"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9392,
+            "yFrac": 0.2216,
+            "radius": 0.0848,
+            "label": "Back spot pattern"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7656,
+            "yFrac": 0.7936,
+            "radius": 0.0848,
+            "label": "Water ripple"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2409,
+            "yFrac": 0.8833,
+            "radius": 0.0567,
+            "label": "Front foot"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7733,
+            "yFrac": 0.9427,
+            "radius": 0.0469,
+            "label": "Stone on ground"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328958"
+        }
+      }
+    }
+  ]
+}
