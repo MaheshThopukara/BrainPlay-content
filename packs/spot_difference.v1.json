@@ -886,6 +886,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584613"
         }
       }
+    },
+    {
+      "id": "vampire_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Vampire Halloween",
+        "theme": "vampire",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/vampire_001/original.jpg",
+          "sha256": "d66fd105d873e1be46f63b6155d8565245192651b40bbe8082523960f8b8dcbe",
+          "sizeBytes": 123705
+        },
+        "alteredImage": {
+          "path": "images/vampire_001/altered.jpg",
+          "sha256": "808d46617971acc650942b074cc433f21547045fd976a21c58549d1a2436be42",
+          "sizeBytes": 127374
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4781,
+            "yFrac": 0.0548,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8436,
+            "yFrac": 0.1131,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7296,
+            "yFrac": 0.69,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5169,
+            "yFrac": 0.4504,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1747,
+            "yFrac": 0.8514,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4353,
+            "yFrac": 0.9547,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25374812"
+        }
+      }
     }
   ]
 }
