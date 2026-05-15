@@ -1149,107 +1149,6 @@
       }
     },
     {
-      "id": "afro_american_mermaid_001",
-      "ageMin": 5,
-      "ageMax": 8,
-      "difficulty": "EASY",
-      "payload": {
-        "title": "Afro American Mermaid",
-        "theme": "afro_american_mermaid",
-        "imageWidth": 943,
-        "imageHeight": 943,
-        "originalImage": {
-          "path": "images/afro_american_mermaid_001/original.jpg",
-          "sha256": "649ba54224842aac50b1bc231ac5f5fa258b8697b23368190ef04593c41edd9b",
-          "sizeBytes": 262897
-        },
-        "alteredImage": {
-          "path": "images/afro_american_mermaid_001/altered.jpg",
-          "sha256": "e2c3d713f1e9f2b6950cfa0edad1fa0b73315988296d692c53ea542fb263594f",
-          "sizeBytes": 262746
-        },
-        "hotspots": [
-          {
-            "id": 1,
-            "xFrac": 0.1135,
-            "yFrac": 0.0719,
-            "radius": 0.1,
-            "label": "Diff 1"
-          },
-          {
-            "id": 2,
-            "xFrac": 0.5901,
-            "yFrac": 0.1399,
-            "radius": 0.1,
-            "label": "Diff 2"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.7159,
-            "yFrac": 0.0785,
-            "radius": 0.1,
-            "label": "Diff 3"
-          },
-          {
-            "id": 4,
-            "xFrac": 0.1323,
-            "yFrac": 0.1971,
-            "radius": 0.1,
-            "label": "Diff 4"
-          },
-          {
-            "id": 5,
-            "xFrac": 0.8315,
-            "yFrac": 0.2279,
-            "radius": 0.1,
-            "label": "Diff 5"
-          },
-          {
-            "id": 6,
-            "xFrac": 0.3883,
-            "yFrac": 0.3914,
-            "radius": 0.1,
-            "label": "Diff 6"
-          },
-          {
-            "id": 7,
-            "xFrac": 0.5386,
-            "yFrac": 0.3552,
-            "radius": 0.1,
-            "label": "Diff 7"
-          },
-          {
-            "id": 8,
-            "xFrac": 0.1257,
-            "yFrac": 0.563,
-            "radius": 0.1,
-            "label": "Diff 8"
-          },
-          {
-            "id": 9,
-            "xFrac": 0.7635,
-            "yFrac": 0.5788,
-            "radius": 0.1,
-            "label": "Diff 9"
-          },
-          {
-            "id": 10,
-            "xFrac": 0.5776,
-            "yFrac": 0.7295,
-            "radius": 0.1,
-            "label": "Diff 10"
-          }
-        ],
-        "attribution": {
-          "source": "Vecteezy",
-          "license": "Vecteezy Free (attribution required)",
-          "credit": "Vecteezy.com",
-          "url": "https://www.vecteezy.com",
-          "assetUrl": "https://www.vecteezy.com/vector-art/34329353"
-        }
-      }
-    },
-    {
       "id": "alien_in_space_001",
       "ageMin": 5,
       "ageMax": 8,
@@ -2162,6 +2061,93 @@
           "credit": "Vecteezy.com",
           "url": "https://www.vecteezy.com",
           "assetUrl": "https://www.vecteezy.com/vector-art/22663952"
+        }
+      }
+    },
+    {
+      "id": "afro_american_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Afro American Mermaid",
+        "theme": "afro_american_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/afro_american_mermaid_001/original.jpg",
+          "sha256": "649ba54224842aac50b1bc231ac5f5fa258b8697b23368190ef04593c41edd9b",
+          "sizeBytes": 262897
+        },
+        "alteredImage": {
+          "path": "images/afro_american_mermaid_001/altered.jpg",
+          "sha256": "e2c3d713f1e9f2b6950cfa0edad1fa0b73315988296d692c53ea542fb263594f",
+          "sizeBytes": 262746
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5901,
+            "yFrac": 0.1399,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1323,
+            "yFrac": 0.1971,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8315,
+            "yFrac": 0.2279,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3883,
+            "yFrac": 0.3914,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.86,
+            "yFrac": 0.88,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1257,
+            "yFrac": 0.563,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7635,
+            "yFrac": 0.5788,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5776,
+            "yFrac": 0.7295,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329353"
         }
       }
     }
