@@ -1149,58 +1149,6 @@
       }
     },
     {
-      "id": "alien_in_space_001",
-      "ageMin": 5,
-      "ageMax": 8,
-      "difficulty": "EASY",
-      "payload": {
-        "title": "Alien In Space",
-        "theme": "alien_in_space",
-        "imageWidth": 943,
-        "imageHeight": 943,
-        "originalImage": {
-          "path": "images/alien_in_space_001/original.jpg",
-          "sha256": "c1215c740f4c624c37b18351004b7b0582e4962ed464643f7ea704f450ad4cfa",
-          "sizeBytes": 190768
-        },
-        "alteredImage": {
-          "path": "images/alien_in_space_001/altered.jpg",
-          "sha256": "0706a8ba6df0bddba2223ed744d96882ba23658a007a477454aff66e6c03254f",
-          "sizeBytes": 192016
-        },
-        "hotspots": [
-          {
-            "id": 1,
-            "xFrac": 0.14,
-            "yFrac": 0.0971,
-            "radius": 0.1,
-            "label": "Diff 1"
-          },
-          {
-            "id": 2,
-            "xFrac": 0.3064,
-            "yFrac": 0.8201,
-            "radius": 0.1,
-            "label": "Diff 2"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.8449,
-            "yFrac": 0.956,
-            "radius": 0.1,
-            "label": "Diff 3"
-          }
-        ],
-        "attribution": {
-          "source": "Vecteezy",
-          "license": "Vecteezy Free (attribution required)",
-          "credit": "Vecteezy.com",
-          "url": "https://www.vecteezy.com",
-          "assetUrl": "https://www.vecteezy.com/vector-art/22663973"
-        }
-      }
-    },
-    {
       "id": "american_bully_dog_001",
       "ageMin": 5,
       "ageMax": 8,
@@ -2148,6 +2096,79 @@
           "credit": "Vecteezy.com",
           "url": "https://www.vecteezy.com",
           "assetUrl": "https://www.vecteezy.com/vector-art/34329353"
+        }
+      }
+    },
+    {
+      "id": "alien_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Alien In Space",
+        "theme": "alien_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/alien_in_space_001/original.jpg",
+          "sha256": "c1215c740f4c624c37b18351004b7b0582e4962ed464643f7ea704f450ad4cfa",
+          "sizeBytes": 190768
+        },
+        "alteredImage": {
+          "path": "images/alien_in_space_001/altered.jpg",
+          "sha256": "0706a8ba6df0bddba2223ed744d96882ba23658a007a477454aff66e6c03254f",
+          "sizeBytes": 192016
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.14,
+            "yFrac": 0.0971,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.38,
+            "yFrac": 0.49,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.84,
+            "yFrac": 0.58,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3064,
+            "yFrac": 0.8201,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8449,
+            "yFrac": 0.956,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.75,
+            "yFrac": 0.17,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663973"
         }
       }
     }
