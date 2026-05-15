@@ -1147,6 +1147,1023 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/23405533"
         }
       }
+    },
+    {
+      "id": "afro_american_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Afro American Mermaid",
+        "theme": "afro_american_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/afro_american_mermaid_001/original.jpg",
+          "sha256": "649ba54224842aac50b1bc231ac5f5fa258b8697b23368190ef04593c41edd9b",
+          "sizeBytes": 262897
+        },
+        "alteredImage": {
+          "path": "images/afro_american_mermaid_001/altered.jpg",
+          "sha256": "e2c3d713f1e9f2b6950cfa0edad1fa0b73315988296d692c53ea542fb263594f",
+          "sizeBytes": 262746
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1135,
+            "yFrac": 0.0719,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5901,
+            "yFrac": 0.1399,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7159,
+            "yFrac": 0.0785,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1323,
+            "yFrac": 0.1971,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8315,
+            "yFrac": 0.2279,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3883,
+            "yFrac": 0.3914,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5386,
+            "yFrac": 0.3552,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1257,
+            "yFrac": 0.563,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7635,
+            "yFrac": 0.5788,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5776,
+            "yFrac": 0.7295,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329353"
+        }
+      }
+    },
+    {
+      "id": "alien_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Alien In Space",
+        "theme": "alien_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/alien_in_space_001/original.jpg",
+          "sha256": "c1215c740f4c624c37b18351004b7b0582e4962ed464643f7ea704f450ad4cfa",
+          "sizeBytes": 190768
+        },
+        "alteredImage": {
+          "path": "images/alien_in_space_001/altered.jpg",
+          "sha256": "0706a8ba6df0bddba2223ed744d96882ba23658a007a477454aff66e6c03254f",
+          "sizeBytes": 192016
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.14,
+            "yFrac": 0.0971,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3064,
+            "yFrac": 0.8201,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8449,
+            "yFrac": 0.956,
+            "radius": 0.1,
+            "label": "Diff 3"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663973"
+        }
+      }
+    },
+    {
+      "id": "american_bully_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "American Bully Dog",
+        "theme": "american_bully_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/american_bully_dog_001/original.jpg",
+          "sha256": "99da8478bd0b616057cd1eb9251a51a1d7c7ecd272c6733b09353346d026d940",
+          "sizeBytes": 122631
+        },
+        "alteredImage": {
+          "path": "images/american_bully_dog_001/altered.jpg",
+          "sha256": "1db361aa0b8185a631f4637a7877ab4e05192bbae6ba0c930e404c1cc958c22d",
+          "sizeBytes": 127797
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2271,
+            "yFrac": 0.142,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4319,
+            "yFrac": 0.1171,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.733,
+            "yFrac": 0.0479,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2434,
+            "yFrac": 0.428,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4219,
+            "yFrac": 0.4687,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8044,
+            "yFrac": 0.3178,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0478,
+            "yFrac": 0.7792,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1001,
+            "yFrac": 0.6725,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1367,
+            "yFrac": 0.7751,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4472,
+            "yFrac": 0.7843,
+            "radius": 0.1,
+            "label": "Diff 10"
+          },
+          {
+            "id": 11,
+            "xFrac": 0.8631,
+            "yFrac": 0.7095,
+            "radius": 0.1,
+            "label": "Diff 11"
+          },
+          {
+            "id": 12,
+            "xFrac": 0.7946,
+            "yFrac": 0.9124,
+            "radius": 0.1,
+            "label": "Diff 12"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34812256"
+        }
+      }
+    },
+    {
+      "id": "angelfish_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Angelfish Animal",
+        "theme": "angelfish_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/angelfish_animal_001/original.jpg",
+          "sha256": "149b3dfc570342bd353809ec317f75c2c8f5154d15c80d5c0722e57f9a065939",
+          "sizeBytes": 148424
+        },
+        "alteredImage": {
+          "path": "images/angelfish_animal_001/altered.jpg",
+          "sha256": "cba05a5cf1b02a20d63a70179012e60d5cbdc909ae241e731cc0a4858c81df4f",
+          "sizeBytes": 146655
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1474,
+            "yFrac": 0.0912,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7642,
+            "yFrac": 0.1326,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.642,
+            "yFrac": 0.3851,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1365,
+            "yFrac": 0.6814,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.779,
+            "yFrac": 0.6901,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7895,
+            "yFrac": 0.9573,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667712"
+        }
+      }
+    },
+    {
+      "id": "angelfish_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Angelfish Animal",
+        "theme": "angelfish_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/angelfish_animal_002/original.jpg",
+          "sha256": "1183285c12d7bb3e10bc40fdeb7aefc6ba1daa6a0bb37e970dbe9506d33e6f4c",
+          "sizeBytes": 325001
+        },
+        "alteredImage": {
+          "path": "images/angelfish_animal_002/altered.jpg",
+          "sha256": "ff4faa565b29f92017651390a98bdf7b56b88eb76535f08f8ef0fdb49e5b555b",
+          "sizeBytes": 325619
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3242,
+            "yFrac": 0.3118,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7929,
+            "yFrac": 0.1929,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.173,
+            "yFrac": 0.3156,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8441,
+            "yFrac": 0.4642,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4818,
+            "yFrac": 0.5657,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7434,
+            "yFrac": 0.5931,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0252,
+            "yFrac": 0.7783,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0889,
+            "yFrac": 0.6799,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1105,
+            "yFrac": 0.7579,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.2036,
+            "yFrac": 0.8324,
+            "radius": 0.1,
+            "label": "Diff 10"
+          },
+          {
+            "id": 11,
+            "xFrac": 0.2768,
+            "yFrac": 0.8825,
+            "radius": 0.1,
+            "label": "Diff 11"
+          },
+          {
+            "id": 12,
+            "xFrac": 0.3954,
+            "yFrac": 0.808,
+            "radius": 0.1,
+            "label": "Diff 12"
+          },
+          {
+            "id": 13,
+            "xFrac": 0.8061,
+            "yFrac": 0.854,
+            "radius": 0.1,
+            "label": "Diff 13"
+          },
+          {
+            "id": 14,
+            "xFrac": 0.0147,
+            "yFrac": 0.9553,
+            "radius": 0.1,
+            "label": "Diff 14"
+          },
+          {
+            "id": 15,
+            "xFrac": 0.3719,
+            "yFrac": 0.9506,
+            "radius": 0.1,
+            "label": "Diff 15"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152682"
+        }
+      }
+    },
+    {
+      "id": "ankylosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ankylosaurus Dinosaur",
+        "theme": "ankylosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ankylosaurus_dinosaur_001/original.jpg",
+          "sha256": "7f25d8d44503523d336faa67e40936b54b93a118ed58c9e73697d6a426f62863",
+          "sizeBytes": 158457
+        },
+        "alteredImage": {
+          "path": "images/ankylosaurus_dinosaur_001/altered.jpg",
+          "sha256": "ddfbe8cd9732059dd9a2e258c7a56d3d7839ffe030d2051fde5420c34131b9b5",
+          "sizeBytes": 154264
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1807,
+            "yFrac": 0.169,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4436,
+            "yFrac": 0.1888,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6931,
+            "yFrac": 0.1958,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5309,
+            "yFrac": 0.4288,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.93,
+            "yFrac": 0.6039,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3632,
+            "yFrac": 0.7794,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3789,
+            "yFrac": 0.7141,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4439,
+            "yFrac": 0.6581,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6924,
+            "yFrac": 0.7672,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8256,
+            "yFrac": 0.7834,
+            "radius": 0.1,
+            "label": "Diff 10"
+          },
+          {
+            "id": 11,
+            "xFrac": 0.1472,
+            "yFrac": 0.878,
+            "radius": 0.1,
+            "label": "Diff 11"
+          },
+          {
+            "id": 12,
+            "xFrac": 0.595,
+            "yFrac": 0.7877,
+            "radius": 0.1,
+            "label": "Diff 12"
+          },
+          {
+            "id": 13,
+            "xFrac": 0.6447,
+            "yFrac": 0.9198,
+            "radius": 0.1,
+            "label": "Diff 13"
+          },
+          {
+            "id": 14,
+            "xFrac": 0.2506,
+            "yFrac": 0.9544,
+            "radius": 0.1,
+            "label": "Diff 14"
+          },
+          {
+            "id": 15,
+            "xFrac": 0.4964,
+            "yFrac": 0.9742,
+            "radius": 0.1,
+            "label": "Diff 15"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329379"
+        }
+      }
+    },
+    {
+      "id": "ant_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ant Animal",
+        "theme": "ant_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ant_animal_001/original.jpg",
+          "sha256": "f0a12c5300cc12d84d6b23b2691dc9139f6b2e816b270ea3673511eda5f43703",
+          "sizeBytes": 151947
+        },
+        "alteredImage": {
+          "path": "images/ant_animal_001/altered.jpg",
+          "sha256": "a55120c1fbb13e14e9e295bc7d93187cca41ace2ae89e3aeaf776ce2812e3d18",
+          "sizeBytes": 151510
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2789,
+            "yFrac": 0.3881,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7768,
+            "yFrac": 0.4925,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1354,
+            "yFrac": 0.8025,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7238,
+            "yFrac": 0.9129,
+            "radius": 0.1,
+            "label": "Diff 4"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325532"
+        }
+      }
+    },
+    {
+      "id": "astronaut_and_ufo_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut And Ufo",
+        "theme": "astronaut_and_ufo",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_and_ufo_001/original.jpg",
+          "sha256": "5ac4d21cf1905de930ba0ff4c452ee8d45c7e7aa6093b14b7c8251a3d50710f7",
+          "sizeBytes": 185781
+        },
+        "alteredImage": {
+          "path": "images/astronaut_and_ufo_001/altered.jpg",
+          "sha256": "a325b0bd44ed484be81afb2d31ad3d07c7e406a923965519ffab27df81c78751",
+          "sizeBytes": 185032
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3426,
+            "yFrac": 0.0851,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6639,
+            "yFrac": 0.1213,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9228,
+            "yFrac": 0.0468,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1199,
+            "yFrac": 0.4388,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5266,
+            "yFrac": 0.3628,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5418,
+            "yFrac": 0.4464,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.885,
+            "yFrac": 0.414,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2448,
+            "yFrac": 0.4746,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.3984,
+            "yFrac": 0.4777,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.6574,
+            "yFrac": 0.5518,
+            "radius": 0.1,
+            "label": "Diff 10"
+          },
+          {
+            "id": 11,
+            "xFrac": 0.1544,
+            "yFrac": 0.6902,
+            "radius": 0.1,
+            "label": "Diff 11"
+          },
+          {
+            "id": 12,
+            "xFrac": 0.1867,
+            "yFrac": 0.8577,
+            "radius": 0.1,
+            "label": "Diff 12"
+          },
+          {
+            "id": 13,
+            "xFrac": 0.3409,
+            "yFrac": 0.7934,
+            "radius": 0.1,
+            "label": "Diff 13"
+          },
+          {
+            "id": 14,
+            "xFrac": 0.7933,
+            "yFrac": 0.7985,
+            "radius": 0.1,
+            "label": "Diff 14"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22664125"
+        }
+      }
+    },
+    {
+      "id": "astronaut_holding_a_flag_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut Holding A Flag",
+        "theme": "astronaut_holding_a_flag",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_holding_a_flag_001/original.jpg",
+          "sha256": "2e6e838ba02368ae19e89db445c8b9ac77b74628433ed85460840d7a11c12bea",
+          "sizeBytes": 158534
+        },
+        "alteredImage": {
+          "path": "images/astronaut_holding_a_flag_001/altered.jpg",
+          "sha256": "f876d7b970513f0fdbf87303012607ad3f6eb865ebb2035f97e331344a706bb3",
+          "sizeBytes": 155380
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5319,
+            "yFrac": 0.123,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1071,
+            "yFrac": 0.4472,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2799,
+            "yFrac": 0.3573,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6073,
+            "yFrac": 0.3219,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3321,
+            "yFrac": 0.4952,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7969,
+            "yFrac": 0.6001,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1769,
+            "yFrac": 0.7389,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2537,
+            "yFrac": 0.939,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22664138"
+        }
+      }
+    },
+    {
+      "id": "astronaut_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut In Space",
+        "theme": "astronaut_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_in_space_001/original.jpg",
+          "sha256": "5f3eb17c0d12bb14fbf90373a3dd079b27974adc777da40f1b36870dd74347fd",
+          "sizeBytes": 174869
+        },
+        "alteredImage": {
+          "path": "images/astronaut_in_space_001/altered.jpg",
+          "sha256": "452457cb5b631dc107106f5c06f3bed911d4bc3b0e28e90e7926ddc05672769b",
+          "sizeBytes": 174800
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8335,
+            "yFrac": 0.0661,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1609,
+            "yFrac": 0.2399,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7651,
+            "yFrac": 0.24,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2732,
+            "yFrac": 0.3225,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3869,
+            "yFrac": 0.3977,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3988,
+            "yFrac": 0.3315,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5945,
+            "yFrac": 0.3217,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2902,
+            "yFrac": 0.6208,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5149,
+            "yFrac": 0.7247,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8339,
+            "yFrac": 0.686,
+            "radius": 0.1,
+            "label": "Diff 10"
+          },
+          {
+            "id": 11,
+            "xFrac": 0.2153,
+            "yFrac": 0.8774,
+            "radius": 0.1,
+            "label": "Diff 11"
+          },
+          {
+            "id": 12,
+            "xFrac": 0.2824,
+            "yFrac": 0.8992,
+            "radius": 0.1,
+            "label": "Diff 12"
+          },
+          {
+            "id": 13,
+            "xFrac": 0.4616,
+            "yFrac": 0.8466,
+            "radius": 0.1,
+            "label": "Diff 13"
+          },
+          {
+            "id": 14,
+            "xFrac": 0.5224,
+            "yFrac": 0.9164,
+            "radius": 0.1,
+            "label": "Diff 14"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663952"
+        }
+      }
     }
   ]
 }
