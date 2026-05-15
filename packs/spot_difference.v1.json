@@ -1149,121 +1149,6 @@
       }
     },
     {
-      "id": "american_bully_dog_001",
-      "ageMin": 5,
-      "ageMax": 8,
-      "difficulty": "EASY",
-      "payload": {
-        "title": "American Bully Dog",
-        "theme": "american_bully_dog",
-        "imageWidth": 943,
-        "imageHeight": 943,
-        "originalImage": {
-          "path": "images/american_bully_dog_001/original.jpg",
-          "sha256": "99da8478bd0b616057cd1eb9251a51a1d7c7ecd272c6733b09353346d026d940",
-          "sizeBytes": 122631
-        },
-        "alteredImage": {
-          "path": "images/american_bully_dog_001/altered.jpg",
-          "sha256": "1db361aa0b8185a631f4637a7877ab4e05192bbae6ba0c930e404c1cc958c22d",
-          "sizeBytes": 127797
-        },
-        "hotspots": [
-          {
-            "id": 1,
-            "xFrac": 0.2271,
-            "yFrac": 0.142,
-            "radius": 0.1,
-            "label": "Diff 1"
-          },
-          {
-            "id": 2,
-            "xFrac": 0.4319,
-            "yFrac": 0.1171,
-            "radius": 0.1,
-            "label": "Diff 2"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.733,
-            "yFrac": 0.0479,
-            "radius": 0.1,
-            "label": "Diff 3"
-          },
-          {
-            "id": 4,
-            "xFrac": 0.2434,
-            "yFrac": 0.428,
-            "radius": 0.1,
-            "label": "Diff 4"
-          },
-          {
-            "id": 5,
-            "xFrac": 0.4219,
-            "yFrac": 0.4687,
-            "radius": 0.1,
-            "label": "Diff 5"
-          },
-          {
-            "id": 6,
-            "xFrac": 0.8044,
-            "yFrac": 0.3178,
-            "radius": 0.1,
-            "label": "Diff 6"
-          },
-          {
-            "id": 7,
-            "xFrac": 0.0478,
-            "yFrac": 0.7792,
-            "radius": 0.1,
-            "label": "Diff 7"
-          },
-          {
-            "id": 8,
-            "xFrac": 0.1001,
-            "yFrac": 0.6725,
-            "radius": 0.1,
-            "label": "Diff 8"
-          },
-          {
-            "id": 9,
-            "xFrac": 0.1367,
-            "yFrac": 0.7751,
-            "radius": 0.1,
-            "label": "Diff 9"
-          },
-          {
-            "id": 10,
-            "xFrac": 0.4472,
-            "yFrac": 0.7843,
-            "radius": 0.1,
-            "label": "Diff 10"
-          },
-          {
-            "id": 11,
-            "xFrac": 0.8631,
-            "yFrac": 0.7095,
-            "radius": 0.1,
-            "label": "Diff 11"
-          },
-          {
-            "id": 12,
-            "xFrac": 0.7946,
-            "yFrac": 0.9124,
-            "radius": 0.1,
-            "label": "Diff 12"
-          }
-        ],
-        "attribution": {
-          "source": "Vecteezy",
-          "license": "Vecteezy Free (attribution required)",
-          "credit": "Vecteezy.com",
-          "url": "https://www.vecteezy.com",
-          "assetUrl": "https://www.vecteezy.com/vector-art/34812256"
-        }
-      }
-    },
-    {
       "id": "angelfish_animal_001",
       "ageMin": 5,
       "ageMax": 8,
@@ -2169,6 +2054,107 @@
           "credit": "Vecteezy.com",
           "url": "https://www.vecteezy.com",
           "assetUrl": "https://www.vecteezy.com/vector-art/22663973"
+        }
+      }
+    },
+    {
+      "id": "american_bully_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "American Bully Dog",
+        "theme": "american_bully_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/american_bully_dog_001/original.jpg",
+          "sha256": "99da8478bd0b616057cd1eb9251a51a1d7c7ecd272c6733b09353346d026d940",
+          "sizeBytes": 122631
+        },
+        "alteredImage": {
+          "path": "images/american_bully_dog_001/altered.jpg",
+          "sha256": "1db361aa0b8185a631f4637a7877ab4e05192bbae6ba0c930e404c1cc958c22d",
+          "sizeBytes": 127797
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2271,
+            "yFrac": 0.142,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4319,
+            "yFrac": 0.1171,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.733,
+            "yFrac": 0.0479,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2434,
+            "yFrac": 0.428,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4219,
+            "yFrac": 0.4687,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8044,
+            "yFrac": 0.3178,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1001,
+            "yFrac": 0.6725,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4472,
+            "yFrac": 0.7843,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8631,
+            "yFrac": 0.7095,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.7946,
+            "yFrac": 0.9124,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34812256"
         }
       }
     }
