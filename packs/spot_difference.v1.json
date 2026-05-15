@@ -1222,142 +1222,6 @@
       }
     },
     {
-      "id": "angelfish_animal_002",
-      "ageMin": 5,
-      "ageMax": 8,
-      "difficulty": "EASY",
-      "payload": {
-        "title": "Angelfish Animal",
-        "theme": "angelfish_animal",
-        "imageWidth": 943,
-        "imageHeight": 943,
-        "originalImage": {
-          "path": "images/angelfish_animal_002/original.jpg",
-          "sha256": "1183285c12d7bb3e10bc40fdeb7aefc6ba1daa6a0bb37e970dbe9506d33e6f4c",
-          "sizeBytes": 325001
-        },
-        "alteredImage": {
-          "path": "images/angelfish_animal_002/altered.jpg",
-          "sha256": "ff4faa565b29f92017651390a98bdf7b56b88eb76535f08f8ef0fdb49e5b555b",
-          "sizeBytes": 325619
-        },
-        "hotspots": [
-          {
-            "id": 1,
-            "xFrac": 0.3242,
-            "yFrac": 0.3118,
-            "radius": 0.1,
-            "label": "Diff 1"
-          },
-          {
-            "id": 2,
-            "xFrac": 0.7929,
-            "yFrac": 0.1929,
-            "radius": 0.1,
-            "label": "Diff 2"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.173,
-            "yFrac": 0.3156,
-            "radius": 0.1,
-            "label": "Diff 3"
-          },
-          {
-            "id": 4,
-            "xFrac": 0.8441,
-            "yFrac": 0.4642,
-            "radius": 0.1,
-            "label": "Diff 4"
-          },
-          {
-            "id": 5,
-            "xFrac": 0.4818,
-            "yFrac": 0.5657,
-            "radius": 0.1,
-            "label": "Diff 5"
-          },
-          {
-            "id": 6,
-            "xFrac": 0.7434,
-            "yFrac": 0.5931,
-            "radius": 0.1,
-            "label": "Diff 6"
-          },
-          {
-            "id": 7,
-            "xFrac": 0.0252,
-            "yFrac": 0.7783,
-            "radius": 0.1,
-            "label": "Diff 7"
-          },
-          {
-            "id": 8,
-            "xFrac": 0.0889,
-            "yFrac": 0.6799,
-            "radius": 0.1,
-            "label": "Diff 8"
-          },
-          {
-            "id": 9,
-            "xFrac": 0.1105,
-            "yFrac": 0.7579,
-            "radius": 0.1,
-            "label": "Diff 9"
-          },
-          {
-            "id": 10,
-            "xFrac": 0.2036,
-            "yFrac": 0.8324,
-            "radius": 0.1,
-            "label": "Diff 10"
-          },
-          {
-            "id": 11,
-            "xFrac": 0.2768,
-            "yFrac": 0.8825,
-            "radius": 0.1,
-            "label": "Diff 11"
-          },
-          {
-            "id": 12,
-            "xFrac": 0.3954,
-            "yFrac": 0.808,
-            "radius": 0.1,
-            "label": "Diff 12"
-          },
-          {
-            "id": 13,
-            "xFrac": 0.8061,
-            "yFrac": 0.854,
-            "radius": 0.1,
-            "label": "Diff 13"
-          },
-          {
-            "id": 14,
-            "xFrac": 0.0147,
-            "yFrac": 0.9553,
-            "radius": 0.1,
-            "label": "Diff 14"
-          },
-          {
-            "id": 15,
-            "xFrac": 0.3719,
-            "yFrac": 0.9506,
-            "radius": 0.1,
-            "label": "Diff 15"
-          }
-        ],
-        "attribution": {
-          "source": "Vecteezy",
-          "license": "Vecteezy Free (attribution required)",
-          "credit": "Vecteezy.com",
-          "url": "https://www.vecteezy.com",
-          "assetUrl": "https://www.vecteezy.com/vector-art/26152682"
-        }
-      }
-    },
-    {
       "id": "ankylosaurus_dinosaur_001",
       "ageMin": 5,
       "ageMax": 8,
@@ -2155,6 +2019,107 @@
           "credit": "Vecteezy.com",
           "url": "https://www.vecteezy.com",
           "assetUrl": "https://www.vecteezy.com/vector-art/34812256"
+        }
+      }
+    },
+    {
+      "id": "angelfish_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Angelfish Animal",
+        "theme": "angelfish_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/angelfish_animal_002/original.jpg",
+          "sha256": "1183285c12d7bb3e10bc40fdeb7aefc6ba1daa6a0bb37e970dbe9506d33e6f4c",
+          "sizeBytes": 325001
+        },
+        "alteredImage": {
+          "path": "images/angelfish_animal_002/altered.jpg",
+          "sha256": "ff4faa565b29f92017651390a98bdf7b56b88eb76535f08f8ef0fdb49e5b555b",
+          "sizeBytes": 325619
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7937,
+            "yFrac": 0.1946,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1742,
+            "yFrac": 0.3168,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3264,
+            "yFrac": 0.3133,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8415,
+            "yFrac": 0.4648,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4845,
+            "yFrac": 0.5686,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7451,
+            "yFrac": 0.5949,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0908,
+            "yFrac": 0.6826,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1521,
+            "yFrac": 0.8155,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.3976,
+            "yFrac": 0.8099,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8086,
+            "yFrac": 0.856,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152682"
         }
       }
     }
