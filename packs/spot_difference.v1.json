@@ -1222,142 +1222,6 @@
       }
     },
     {
-      "id": "ankylosaurus_dinosaur_001",
-      "ageMin": 5,
-      "ageMax": 8,
-      "difficulty": "EASY",
-      "payload": {
-        "title": "Ankylosaurus Dinosaur",
-        "theme": "ankylosaurus_dinosaur",
-        "imageWidth": 943,
-        "imageHeight": 943,
-        "originalImage": {
-          "path": "images/ankylosaurus_dinosaur_001/original.jpg",
-          "sha256": "7f25d8d44503523d336faa67e40936b54b93a118ed58c9e73697d6a426f62863",
-          "sizeBytes": 158457
-        },
-        "alteredImage": {
-          "path": "images/ankylosaurus_dinosaur_001/altered.jpg",
-          "sha256": "ddfbe8cd9732059dd9a2e258c7a56d3d7839ffe030d2051fde5420c34131b9b5",
-          "sizeBytes": 154264
-        },
-        "hotspots": [
-          {
-            "id": 1,
-            "xFrac": 0.1807,
-            "yFrac": 0.169,
-            "radius": 0.1,
-            "label": "Diff 1"
-          },
-          {
-            "id": 2,
-            "xFrac": 0.4436,
-            "yFrac": 0.1888,
-            "radius": 0.1,
-            "label": "Diff 2"
-          },
-          {
-            "id": 3,
-            "xFrac": 0.6931,
-            "yFrac": 0.1958,
-            "radius": 0.1,
-            "label": "Diff 3"
-          },
-          {
-            "id": 4,
-            "xFrac": 0.5309,
-            "yFrac": 0.4288,
-            "radius": 0.1,
-            "label": "Diff 4"
-          },
-          {
-            "id": 5,
-            "xFrac": 0.93,
-            "yFrac": 0.6039,
-            "radius": 0.1,
-            "label": "Diff 5"
-          },
-          {
-            "id": 6,
-            "xFrac": 0.3632,
-            "yFrac": 0.7794,
-            "radius": 0.1,
-            "label": "Diff 6"
-          },
-          {
-            "id": 7,
-            "xFrac": 0.3789,
-            "yFrac": 0.7141,
-            "radius": 0.1,
-            "label": "Diff 7"
-          },
-          {
-            "id": 8,
-            "xFrac": 0.4439,
-            "yFrac": 0.6581,
-            "radius": 0.1,
-            "label": "Diff 8"
-          },
-          {
-            "id": 9,
-            "xFrac": 0.6924,
-            "yFrac": 0.7672,
-            "radius": 0.1,
-            "label": "Diff 9"
-          },
-          {
-            "id": 10,
-            "xFrac": 0.8256,
-            "yFrac": 0.7834,
-            "radius": 0.1,
-            "label": "Diff 10"
-          },
-          {
-            "id": 11,
-            "xFrac": 0.1472,
-            "yFrac": 0.878,
-            "radius": 0.1,
-            "label": "Diff 11"
-          },
-          {
-            "id": 12,
-            "xFrac": 0.595,
-            "yFrac": 0.7877,
-            "radius": 0.1,
-            "label": "Diff 12"
-          },
-          {
-            "id": 13,
-            "xFrac": 0.6447,
-            "yFrac": 0.9198,
-            "radius": 0.1,
-            "label": "Diff 13"
-          },
-          {
-            "id": 14,
-            "xFrac": 0.2506,
-            "yFrac": 0.9544,
-            "radius": 0.1,
-            "label": "Diff 14"
-          },
-          {
-            "id": 15,
-            "xFrac": 0.4964,
-            "yFrac": 0.9742,
-            "radius": 0.1,
-            "label": "Diff 15"
-          }
-        ],
-        "attribution": {
-          "source": "Vecteezy",
-          "license": "Vecteezy Free (attribution required)",
-          "credit": "Vecteezy.com",
-          "url": "https://www.vecteezy.com",
-          "assetUrl": "https://www.vecteezy.com/vector-art/34329379"
-        }
-      }
-    },
-    {
       "id": "ant_animal_001",
       "ageMin": 5,
       "ageMax": 8,
@@ -2120,6 +1984,93 @@
           "credit": "Vecteezy.com",
           "url": "https://www.vecteezy.com",
           "assetUrl": "https://www.vecteezy.com/vector-art/26152682"
+        }
+      }
+    },
+    {
+      "id": "ankylosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ankylosaurus Dinosaur",
+        "theme": "ankylosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ankylosaurus_dinosaur_001/original.jpg",
+          "sha256": "7f25d8d44503523d336faa67e40936b54b93a118ed58c9e73697d6a426f62863",
+          "sizeBytes": 158457
+        },
+        "alteredImage": {
+          "path": "images/ankylosaurus_dinosaur_001/altered.jpg",
+          "sha256": "ddfbe8cd9732059dd9a2e258c7a56d3d7839ffe030d2051fde5420c34131b9b5",
+          "sizeBytes": 154264
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1818,
+            "yFrac": 0.1695,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4464,
+            "yFrac": 0.1908,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6953,
+            "yFrac": 0.1983,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5336,
+            "yFrac": 0.4321,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.052,
+            "yFrac": 0.4803,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9326,
+            "yFrac": 0.6076,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4449,
+            "yFrac": 0.6597,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1493,
+            "yFrac": 0.8814,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329379"
         }
       }
     }
