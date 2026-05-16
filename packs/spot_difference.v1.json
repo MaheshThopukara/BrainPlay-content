@@ -2908,6 +2908,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/27584480"
         }
       }
+    },
+    {
+      "id": "bear_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bear Animal",
+        "theme": "bear_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bear_animal_001/original.jpg",
+          "sha256": "ebba06c5d14fb3a0cd62018a8e4355fcb7f769a322627ec9dbfbd38d22fcf06c",
+          "sizeBytes": 116276
+        },
+        "alteredImage": {
+          "path": "images/bear_animal_001/altered.jpg",
+          "sha256": "07f8ec0066d22ca88f4803e6318ea7a84e29f604ffd180c15bab31a1451c6c91",
+          "sizeBytes": 117692
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5811,
+            "yFrac": 0.1261,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2489,
+            "yFrac": 0.3469,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7088,
+            "yFrac": 0.4842,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9048,
+            "yFrac": 0.6112,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8436,
+            "yFrac": 0.8929,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2,
+            "yFrac": 0.85,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325469"
+        }
+      }
     }
   ]
 }
