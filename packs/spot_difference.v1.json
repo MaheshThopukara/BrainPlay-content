@@ -2069,6 +2069,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22664188"
         }
       }
+    },
+    {
+      "id": "astronaut_sitting_on_earth_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut Sitting On Earth",
+        "theme": "astronaut_sitting_on_earth",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_sitting_on_earth_001/original.jpg",
+          "sha256": "6f62db6c78ac77b292029b3967ed1ebb1c4992febddb08667e290dd984ea1d8c",
+          "sizeBytes": 156023
+        },
+        "alteredImage": {
+          "path": "images/astronaut_sitting_on_earth_001/altered.jpg",
+          "sha256": "8afd48caaf271d99c62aa0e55e038da728495c59c47d06cdaa365e18e0bd4e48",
+          "sizeBytes": 158735
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.471,
+            "yFrac": 0.0486,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1192,
+            "yFrac": 0.1147,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3259,
+            "yFrac": 0.2564,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5067,
+            "yFrac": 0.3101,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1299,
+            "yFrac": 0.4084,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6441,
+            "yFrac": 0.4205,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8033,
+            "yFrac": 0.5028,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6102,
+            "yFrac": 0.6132,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1367,
+            "yFrac": 0.7292,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4886,
+            "yFrac": 0.9586,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663961"
+        }
+      }
     }
   ]
 }
