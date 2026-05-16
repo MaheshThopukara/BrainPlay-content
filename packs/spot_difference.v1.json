@@ -2473,6 +2473,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22664064"
         }
       }
+    },
+    {
+      "id": "australian_shepherd_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Australian Shepherd Dog",
+        "theme": "australian_shepherd_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/australian_shepherd_dog_001/original.jpg",
+          "sha256": "4ab9461d274e9cb77f4fa8eae472ec67be786fd523cd77260046572597bfca6e",
+          "sizeBytes": 141573
+        },
+        "alteredImage": {
+          "path": "images/australian_shepherd_dog_001/altered.jpg",
+          "sha256": "ca4d399eb79449258529bc3275c16da53b8db74d6a642c53ea52108c5e082779",
+          "sizeBytes": 146564
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5336,
+            "yFrac": 0.0832,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8887,
+            "yFrac": 0.2516,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3081,
+            "yFrac": 0.373,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0989,
+            "yFrac": 0.4773,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5203,
+            "yFrac": 0.4918,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7573,
+            "yFrac": 0.4593,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9372,
+            "yFrac": 0.54,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1741,
+            "yFrac": 0.6491,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5538,
+            "yFrac": 0.7124,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9441,
+            "yFrac": 0.7433,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584464"
+        }
+      }
     }
   ]
 }
