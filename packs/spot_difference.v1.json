@@ -3444,6 +3444,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584586"
         }
       }
+    },
+    {
+      "id": "big_castle_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Big Castle",
+        "theme": "big_castle",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/big_castle_001/original.jpg",
+          "sha256": "ef6de47944c8203b4505c5d7db3c29259c0065c9fd9b4d10f500917352beaa5e",
+          "sizeBytes": 153010
+        },
+        "alteredImage": {
+          "path": "images/big_castle_001/altered.jpg",
+          "sha256": "a9d286cd3e84b94db1a223c4b95fbff3331eb941d1aa64b01b6f3ffb6b733e3c",
+          "sizeBytes": 153314
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4111,
+            "yFrac": 0.1874,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5664,
+            "yFrac": 0.3909,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2756,
+            "yFrac": 0.4269,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0879,
+            "yFrac": 0.5876,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7168,
+            "yFrac": 0.5372,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4979,
+            "yFrac": 0.6115,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2853,
+            "yFrac": 0.747,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7551,
+            "yFrac": 0.9465,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328608"
+        }
+      }
     }
   ]
 }
