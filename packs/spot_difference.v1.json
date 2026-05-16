@@ -2981,6 +2981,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/36325469"
         }
       }
+    },
+    {
+      "id": "beautiful_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Beautiful Mermaid",
+        "theme": "beautiful_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/beautiful_mermaid_001/original.jpg",
+          "sha256": "60641642df1ae327a0dd8f9738638e65b0caec9aa76cfd8977ddffef1a1e4d4d",
+          "sizeBytes": 191650
+        },
+        "alteredImage": {
+          "path": "images/beautiful_mermaid_001/altered.jpg",
+          "sha256": "d6b1207e52cd160ea406ad23f541f260a092c234437aa8b12773f1e49704434b",
+          "sizeBytes": 196864
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2636,
+            "yFrac": 0.0488,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9478,
+            "yFrac": 0.0721,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6834,
+            "yFrac": 0.1257,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2356,
+            "yFrac": 0.2443,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4689,
+            "yFrac": 0.3202,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9356,
+            "yFrac": 0.3187,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2406,
+            "yFrac": 0.6334,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6259,
+            "yFrac": 0.5939,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.2393,
+            "yFrac": 0.8649,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8036,
+            "yFrac": 0.8923,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328612"
+        }
+      }
     }
   ]
 }
