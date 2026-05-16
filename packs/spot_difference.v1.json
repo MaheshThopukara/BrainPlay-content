@@ -2003,6 +2003,72 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/34329379"
         }
       }
+    },
+    {
+      "id": "astronaut_peace_sign_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut Peace Sign",
+        "theme": "astronaut_peace_sign",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_peace_sign_001/original.jpg",
+          "sha256": "20c34329568c25c050154dd0570371674347c2fa5d8b5c0cb4bdd9569aee0084",
+          "sizeBytes": 140990
+        },
+        "alteredImage": {
+          "path": "images/astronaut_peace_sign_001/altered.jpg",
+          "sha256": "47da70dadf1c8f27b08547339bc792bf9764f103bcca97daa6d370667d658789",
+          "sizeBytes": 142362
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.9226,
+            "yFrac": 0.0502,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2907,
+            "yFrac": 0.292,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4136,
+            "yFrac": 0.4535,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1086,
+            "yFrac": 0.6179,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2785,
+            "yFrac": 0.9478,
+            "radius": 0.1,
+            "label": "Diff 5"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22664188"
+        }
+      }
     }
   ]
 }
