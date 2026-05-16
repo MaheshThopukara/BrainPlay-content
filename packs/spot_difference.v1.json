@@ -4603,6 +4603,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661717"
         }
       }
+    },
+    {
+      "id": "boy_hugging_tree_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Hugging Tree",
+        "theme": "boy_hugging_tree",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_hugging_tree_001/original.jpg",
+          "sha256": "c0d91f369f73544fecba1d76cd120cdb8d0258ee5454ce41dc87bd463444be96",
+          "sizeBytes": 125044
+        },
+        "alteredImage": {
+          "path": "images/boy_hugging_tree_001/altered.jpg",
+          "sha256": "d7004a0a79f1e041869ea2480c89a3d610c0e83c39c4b673e44ecc84b1f3950e",
+          "sizeBytes": 132698
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1289,
+            "yFrac": 0.0759,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.95,
+            "yFrac": 0.1,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3792,
+            "yFrac": 0.634,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9197,
+            "yFrac": 0.7773,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.707,
+            "yFrac": 0.9153,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2225,
+            "yFrac": 0.9407,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661632"
+        }
+      }
     }
   ]
 }
