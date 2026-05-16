@@ -2170,6 +2170,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22663961"
         }
       }
+    },
+    {
+      "id": "astronaut_space_rocket_ship_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Astronaut Space Rocket Ship",
+        "theme": "astronaut_space_rocket_ship",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/astronaut_space_rocket_ship_001/original.jpg",
+          "sha256": "765df09c053a9d1e442e72ba6b4fe15f08741f90c00b6a2bef6f75e55a941d81",
+          "sizeBytes": 196687
+        },
+        "alteredImage": {
+          "path": "images/astronaut_space_rocket_ship_001/altered.jpg",
+          "sha256": "d1db06edbe351263ff4caa271837d4afab0c73be8ea04d12a38790d01e30e7d6",
+          "sizeBytes": 204629
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2101,
+            "yFrac": 0.1399,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5764,
+            "yFrac": 0.1419,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9052,
+            "yFrac": 0.1357,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4155,
+            "yFrac": 0.2526,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8419,
+            "yFrac": 0.2745,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7548,
+            "yFrac": 0.5051,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.05,
+            "yFrac": 0.78,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4934,
+            "yFrac": 0.8173,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.85,
+            "yFrac": 0.78,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.23,
+            "yFrac": 0.66,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663986"
+        }
+      }
     }
   ]
 }
