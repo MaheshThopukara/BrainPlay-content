@@ -4255,6 +4255,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/27584490"
         }
       }
+    },
+    {
+      "id": "boy_biking_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Biking",
+        "theme": "boy_biking",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_biking_001/original.jpg",
+          "sha256": "1668f37d7e7b5c2d84b27eb95a45b69d860a5b8ff66cf19727682fed219db1ad",
+          "sizeBytes": 157650
+        },
+        "alteredImage": {
+          "path": "images/boy_biking_001/altered.jpg",
+          "sha256": "1cb682486f69cb9185a333fe081ae9437cc1d26961591b2d03a6f859392a1a9e",
+          "sizeBytes": 158885
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5819,
+            "yFrac": 0.2366,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0667,
+            "yFrac": 0.3267,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2238,
+            "yFrac": 0.439,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.874,
+            "yFrac": 0.4908,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.677,
+            "yFrac": 0.6339,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3893,
+            "yFrac": 0.8777,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7481,
+            "yFrac": 0.8569,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.45,
+            "yFrac": 0.1,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661818"
+        }
+      }
     }
   ]
 }
