@@ -1592,57 +1592,57 @@
         "hotspots": [
           {
             "id": 1,
-            "xFrac": 0.5901,
-            "yFrac": 0.1399,
+            "xFrac": 0.5898,
+            "yFrac": 0.1403,
             "radius": 0.1,
             "label": "Diff 1"
           },
           {
             "id": 2,
-            "xFrac": 0.1323,
-            "yFrac": 0.1971,
+            "xFrac": 0.134,
+            "yFrac": 0.1963,
             "radius": 0.1,
             "label": "Diff 2"
           },
           {
             "id": 3,
-            "xFrac": 0.8315,
-            "yFrac": 0.2279,
+            "xFrac": 0.8853,
+            "yFrac": 0.2322,
             "radius": 0.1,
             "label": "Diff 3"
           },
           {
             "id": 4,
-            "xFrac": 0.3883,
-            "yFrac": 0.3914,
+            "xFrac": 0.3914,
+            "yFrac": 0.392,
             "radius": 0.1,
             "label": "Diff 4"
           },
           {
             "id": 5,
-            "xFrac": 0.86,
-            "yFrac": 0.88,
+            "xFrac": 0.1186,
+            "yFrac": 0.4669,
             "radius": 0.1,
             "label": "Diff 5"
           },
           {
             "id": 6,
-            "xFrac": 0.1257,
-            "yFrac": 0.563,
+            "xFrac": 0.748,
+            "yFrac": 0.585,
             "radius": 0.1,
             "label": "Diff 6"
           },
           {
             "id": 7,
-            "xFrac": 0.7635,
-            "yFrac": 0.5788,
+            "xFrac": 0.579,
+            "yFrac": 0.7282,
             "radius": 0.1,
             "label": "Diff 7"
           },
           {
             "id": 8,
-            "xFrac": 0.5776,
-            "yFrac": 0.7295,
+            "xFrac": 0.88,
+            "yFrac": 0.92,
             "radius": 0.1,
             "label": "Diff 8"
           }
