@@ -4676,6 +4676,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661632"
         }
       }
+    },
+    {
+      "id": "boy_picking_up_litter_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Picking Up Litter",
+        "theme": "boy_picking_up_litter",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_picking_up_litter_001/original.jpg",
+          "sha256": "b7593d5dd6c5fc962897e07d51ee48db6e249a284c829bbee9de3e535dd08139",
+          "sizeBytes": 160140
+        },
+        "alteredImage": {
+          "path": "images/boy_picking_up_litter_001/altered.jpg",
+          "sha256": "dd1d2b9bf6c911c979906bf9755d0cd208537dd71273e4a79073dc0271f2db7b",
+          "sizeBytes": 166980
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5249,
+            "yFrac": 0.2885,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0696,
+            "yFrac": 0.4339,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5174,
+            "yFrac": 0.5352,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5828,
+            "yFrac": 0.569,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7712,
+            "yFrac": 0.567,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0807,
+            "yFrac": 0.7038,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4984,
+            "yFrac": 0.7464,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2635,
+            "yFrac": 0.9024,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7547,
+            "yFrac": 0.9373,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.3,
+            "yFrac": 0.15,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661626"
+        }
+      }
     }
   ]
 }
