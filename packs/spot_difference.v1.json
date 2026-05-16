@@ -3632,6 +3632,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/34328602"
         }
       }
+    },
+    {
+      "id": "big_worm_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Big Worm Farm",
+        "theme": "big_worm_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/big_worm_farm_001/original.jpg",
+          "sha256": "1b5d12c6b09d50e3c25fe01420743e3cc01ba5320a181e7194c18e0047aab18b",
+          "sizeBytes": 174680
+        },
+        "alteredImage": {
+          "path": "images/big_worm_farm_001/altered.jpg",
+          "sha256": "ff054560524c19e1854fc6b75711582d6ffa49bf040fcbf332c018aae4abe980",
+          "sizeBytes": 174384
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2476,
+            "yFrac": 0.0357,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6414,
+            "yFrac": 0.2028,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5137,
+            "yFrac": 0.2922,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8823,
+            "yFrac": 0.3216,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0975,
+            "yFrac": 0.4223,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2681,
+            "yFrac": 0.4169,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.55,
+            "yFrac": 0.55,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1038,
+            "yFrac": 0.6262,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7954,
+            "yFrac": 0.6944,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1719,
+            "yFrac": 0.8638,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584590"
+        }
+      }
     }
   ]
 }
