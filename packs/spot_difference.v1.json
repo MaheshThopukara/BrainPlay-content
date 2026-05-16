@@ -1752,73 +1752,59 @@
         "hotspots": [
           {
             "id": 1,
-            "xFrac": 0.2271,
-            "yFrac": 0.142,
+            "xFrac": 0.7326,
+            "yFrac": 0.0531,
             "radius": 0.1,
             "label": "Diff 1"
           },
           {
             "id": 2,
-            "xFrac": 0.4319,
-            "yFrac": 0.1171,
+            "xFrac": 0.7811,
+            "yFrac": 0.3303,
             "radius": 0.1,
             "label": "Diff 2"
           },
           {
             "id": 3,
-            "xFrac": 0.733,
-            "yFrac": 0.0479,
+            "xFrac": 0.2479,
+            "yFrac": 0.4279,
             "radius": 0.1,
             "label": "Diff 3"
           },
           {
             "id": 4,
-            "xFrac": 0.2434,
-            "yFrac": 0.428,
+            "xFrac": 0.4234,
+            "yFrac": 0.4735,
             "radius": 0.1,
             "label": "Diff 4"
           },
           {
             "id": 5,
-            "xFrac": 0.4219,
-            "yFrac": 0.4687,
+            "xFrac": 0.1266,
+            "yFrac": 0.6951,
             "radius": 0.1,
             "label": "Diff 5"
           },
           {
             "id": 6,
-            "xFrac": 0.8044,
-            "yFrac": 0.3178,
+            "xFrac": 0.8544,
+            "yFrac": 0.7059,
             "radius": 0.1,
             "label": "Diff 6"
           },
           {
             "id": 7,
-            "xFrac": 0.1001,
-            "yFrac": 0.6725,
+            "xFrac": 0.4441,
+            "yFrac": 0.7933,
             "radius": 0.1,
             "label": "Diff 7"
           },
           {
             "id": 8,
-            "xFrac": 0.4472,
-            "yFrac": 0.7843,
+            "xFrac": 0.8178,
+            "yFrac": 0.942,
             "radius": 0.1,
             "label": "Diff 8"
-          },
-          {
-            "id": 9,
-            "xFrac": 0.8631,
-            "yFrac": 0.7095,
-            "radius": 0.1,
-            "label": "Diff 9"
-          },
-          {
-            "id": 10,
-            "xFrac": 0.7946,
-            "yFrac": 0.9124,
-            "radius": 0.1,
-            "label": "Diff 10"
           }
         ],
         "attribution": {
