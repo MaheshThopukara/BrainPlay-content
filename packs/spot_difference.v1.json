@@ -2835,6 +2835,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/27584417"
         }
       }
+    },
+    {
+      "id": "beagle_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Beagle Dog",
+        "theme": "beagle_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/beagle_dog_001/original.jpg",
+          "sha256": "84bc0f5c2d65a8c4b02a0610dc78a8b474f1843457ce077f34df8a0996b8e62c",
+          "sizeBytes": 128207
+        },
+        "alteredImage": {
+          "path": "images/beagle_dog_001/altered.jpg",
+          "sha256": "a57df1db3a3236acf0554557f4fd7efe1de6f8647d18baf8a1759806e15d16ef",
+          "sizeBytes": 133779
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4995,
+            "yFrac": 0.1192,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8863,
+            "yFrac": 0.2133,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1506,
+            "yFrac": 0.3768,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5753,
+            "yFrac": 0.376,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1701,
+            "yFrac": 0.7561,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.95,
+            "yFrac": 0.7,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584480"
+        }
+      }
     }
   ]
 }
