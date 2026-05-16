@@ -3357,6 +3357,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/36325578"
         }
       }
+    },
+    {
+      "id": "bees_with_beehive_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bees With Beehive Farm",
+        "theme": "bees_with_beehive_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bees_with_beehive_farm_001/original.jpg",
+          "sha256": "44b449da58309b04a0b6a1facd6a94acf05f9e687b970989021ef67f8494cb7d",
+          "sizeBytes": 151156
+        },
+        "alteredImage": {
+          "path": "images/bees_with_beehive_farm_001/altered.jpg",
+          "sha256": "6d075c87f3e7e0e69708d1247c279b53da3ad97783049e8b05149138a7c07354",
+          "sizeBytes": 154949
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3329,
+            "yFrac": 0.0821,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1191,
+            "yFrac": 0.1843,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8515,
+            "yFrac": 0.2211,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.41,
+            "yFrac": 0.2637,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0936,
+            "yFrac": 0.7249,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5601,
+            "yFrac": 0.8063,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7273,
+            "yFrac": 0.7781,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7943,
+            "yFrac": 0.8534,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584586"
+        }
+      }
     }
   ]
 }
