@@ -4502,6 +4502,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661715"
         }
       }
+    },
+    {
+      "id": "boy_holding_love_earth_sign_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Holding Love Earth Sign",
+        "theme": "boy_holding_love_earth_sign",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_holding_love_earth_sign_001/original.jpg",
+          "sha256": "d065dec776f79b6d9bc63352a69f0ce06097e44aa371d94592d4b0128226c4c8",
+          "sizeBytes": 190830
+        },
+        "alteredImage": {
+          "path": "images/boy_holding_love_earth_sign_001/altered.jpg",
+          "sha256": "f41504b25826aa1abf464fe0d0870f20ecdd2b499f1faece00f68176f330a403",
+          "sizeBytes": 199491
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3297,
+            "yFrac": 0.0402,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8,
+            "yFrac": 0.2807,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5166,
+            "yFrac": 0.3869,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.702,
+            "yFrac": 0.5468,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2283,
+            "yFrac": 0.611,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2686,
+            "yFrac": 0.8667,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5122,
+            "yFrac": 0.9099,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7607,
+            "yFrac": 0.8553,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.75,
+            "yFrac": 0.45,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.15,
+            "yFrac": 0.25,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661717"
+        }
+      }
     }
   ]
 }
