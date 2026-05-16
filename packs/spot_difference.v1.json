@@ -4777,6 +4777,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661626"
         }
       }
+    },
+    {
+      "id": "boy_planting_seedling_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Planting Seedling",
+        "theme": "boy_planting_seedling",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_planting_seedling_001/original.jpg",
+          "sha256": "8bcac02ec9c6571164f99fa90b8bdc8561080dd176e0047e86b97e81735003f8",
+          "sizeBytes": 193048
+        },
+        "alteredImage": {
+          "path": "images/boy_planting_seedling_001/altered.jpg",
+          "sha256": "14b31dc579d076754a2d765dc4fd5a94f8a417714f71d1bb63de4843a6e890af",
+          "sizeBytes": 193418
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4849,
+            "yFrac": 0.1168,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4313,
+            "yFrac": 0.5816,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8245,
+            "yFrac": 0.5289,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6303,
+            "yFrac": 0.6478,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1091,
+            "yFrac": 0.89,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6057,
+            "yFrac": 0.8937,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/21813676"
+        }
+      }
     }
   ]
 }
