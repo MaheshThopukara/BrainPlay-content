@@ -3155,6 +3155,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/26152676"
         }
       }
+    },
+    {
+      "id": "beaver_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Beaver Animal",
+        "theme": "beaver_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/beaver_animal_002/original.jpg",
+          "sha256": "1719eb518f5733199add33e22bb29c41fe688b842a602f64ca772cd65567a8b7",
+          "sizeBytes": 121029
+        },
+        "alteredImage": {
+          "path": "images/beaver_animal_002/altered.jpg",
+          "sha256": "3a72063fba920697fd21adbbf00a82d360f59628bcf887fe93c1da355a0a16b2",
+          "sizeBytes": 120509
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1417,
+            "yFrac": 0.1608,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.702,
+            "yFrac": 0.1804,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8729,
+            "yFrac": 0.2771,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1021,
+            "yFrac": 0.3692,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1941,
+            "yFrac": 0.4121,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5761,
+            "yFrac": 0.4914,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9131,
+            "yFrac": 0.4286,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.632,
+            "yFrac": 0.7441,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9067,
+            "yFrac": 0.7568,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.2973,
+            "yFrac": 0.8354,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667649"
+        }
+      }
     }
   ]
 }
