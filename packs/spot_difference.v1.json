@@ -4415,6 +4415,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661720"
         }
       }
+    },
+    {
+      "id": "boy_holding_earth_balloon_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Holding Earth Balloon",
+        "theme": "boy_holding_earth_balloon",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_holding_earth_balloon_001/original.jpg",
+          "sha256": "86b4972c9234af73de5d0b7a37e6074c87a23b11725dc7b09f21cc45be583430",
+          "sizeBytes": 170598
+        },
+        "alteredImage": {
+          "path": "images/boy_holding_earth_balloon_001/altered.jpg",
+          "sha256": "d90709a76b0da1f895c936d5a3ba282e0d31e48b1604c620c7dbe2f93e1ad45c",
+          "sizeBytes": 164855
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6387,
+            "yFrac": 0.1356,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8902,
+            "yFrac": 0.2499,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6592,
+            "yFrac": 0.3465,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0994,
+            "yFrac": 0.6101,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8581,
+            "yFrac": 0.6068,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5421,
+            "yFrac": 0.7134,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7257,
+            "yFrac": 0.8418,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1448,
+            "yFrac": 0.8592,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661715"
+        }
+      }
     }
   ]
 }
