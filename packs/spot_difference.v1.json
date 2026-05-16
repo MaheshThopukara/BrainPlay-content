@@ -5038,6 +5038,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661624"
         }
       }
+    },
+    {
+      "id": "boy_searching_for_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Searching For Easter Egg",
+        "theme": "boy_searching_for_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_searching_for_easter_egg_001/original.jpg",
+          "sha256": "acc92f84bb95d6af1c2bdb439ffd36cf43e9d8a0e88545b4a048830b5726e9a9",
+          "sizeBytes": 212505
+        },
+        "alteredImage": {
+          "path": "images/boy_searching_for_easter_egg_001/altered.jpg",
+          "sha256": "f0c46f1d87ce027bc821ba44d10b670ae4f28f56ae154093cd7a903a61ba681d",
+          "sizeBytes": 211249
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.85,
+            "yFrac": 0.05,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.25,
+            "yFrac": 0.25,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6851,
+            "yFrac": 0.4594,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2448,
+            "yFrac": 0.5578,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3544,
+            "yFrac": 0.5507,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6667,
+            "yFrac": 0.645,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7203,
+            "yFrac": 0.8226,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1685,
+            "yFrac": 0.8917,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19977919"
+        }
+      }
     }
   ]
 }
