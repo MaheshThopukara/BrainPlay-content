@@ -3256,6 +3256,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22667649"
         }
       }
+    },
+    {
+      "id": "bee_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bee Animal",
+        "theme": "bee_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bee_animal_001/original.jpg",
+          "sha256": "9f462c091bb1f49883120889ff1b26a4cb6bc1d244d3275b092e85d08d65e937",
+          "sizeBytes": 172964
+        },
+        "alteredImage": {
+          "path": "images/bee_animal_001/altered.jpg",
+          "sha256": "e1ea30d158f4be3de252ebf2c57a8aaf383d0c9891659568887cc67ca3f93c9c",
+          "sizeBytes": 182515
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4477,
+            "yFrac": 0.2442,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7948,
+            "yFrac": 0.2093,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3705,
+            "yFrac": 0.4016,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1233,
+            "yFrac": 0.4287,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6842,
+            "yFrac": 0.4636,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4049,
+            "yFrac": 0.5414,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2574,
+            "yFrac": 0.7232,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6869,
+            "yFrac": 0.7432,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9018,
+            "yFrac": 0.7849,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4879,
+            "yFrac": 0.9155,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325578"
+        }
+      }
     }
   ]
 }
