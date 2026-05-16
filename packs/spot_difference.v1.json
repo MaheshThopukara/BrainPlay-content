@@ -4850,6 +4850,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/21813676"
         }
       }
+    },
+    {
+      "id": "boy_planting_trees_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Planting Trees",
+        "theme": "boy_planting_trees",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_planting_trees_001/original.jpg",
+          "sha256": "01b2bee0a3857c56777fc5610f953322619efdf967b17601e29505482901989d",
+          "sizeBytes": 167248
+        },
+        "alteredImage": {
+          "path": "images/boy_planting_trees_001/altered.jpg",
+          "sha256": "bf1cd31ccb3135d7fc3cf384c32e6361bc4b6b884a27c0da1c994a31c385d954",
+          "sizeBytes": 165909
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4968,
+            "yFrac": 0.143,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2077,
+            "yFrac": 0.4298,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.67,
+            "yFrac": 0.5135,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.45,
+            "yFrac": 0.58,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8876,
+            "yFrac": 0.7037,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.485,
+            "yFrac": 0.7645,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1996,
+            "yFrac": 0.8968,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9045,
+            "yFrac": 0.9203,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661627"
+        }
+      }
     }
   ]
 }
