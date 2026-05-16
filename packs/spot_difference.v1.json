@@ -4342,6 +4342,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661818"
         }
       }
+    },
+    {
+      "id": "boy_conserving_water_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Conserving Water",
+        "theme": "boy_conserving_water",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_conserving_water_001/original.jpg",
+          "sha256": "6b2c45e65c943842c57d1fd7d2bef349d0b822ef3199ba50d44f70d5d9138251",
+          "sizeBytes": 150618
+        },
+        "alteredImage": {
+          "path": "images/boy_conserving_water_001/altered.jpg",
+          "sha256": "c382c9506387bf6d02ff2fc9a015080ceaa22702c333eba20c21ca21fa2f9ccf",
+          "sizeBytes": 147891
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2562,
+            "yFrac": 0.3177,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2828,
+            "yFrac": 0.4785,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5632,
+            "yFrac": 0.5201,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1226,
+            "yFrac": 0.6011,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6722,
+            "yFrac": 0.8948,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2253,
+            "yFrac": 0.9568,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661720"
+        }
+      }
     }
   ]
 }
