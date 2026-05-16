@@ -1244,31 +1244,45 @@
         "hotspots": [
           {
             "id": 1,
-            "xFrac": 0.2789,
-            "yFrac": 0.3881,
+            "xFrac": 0.761,
+            "yFrac": 0.119,
             "radius": 0.1,
             "label": "Diff 1"
           },
           {
             "id": 2,
-            "xFrac": 0.7768,
-            "yFrac": 0.4925,
+            "xFrac": 0.2763,
+            "yFrac": 0.3661,
             "radius": 0.1,
             "label": "Diff 2"
           },
           {
             "id": 3,
-            "xFrac": 0.1354,
-            "yFrac": 0.8025,
+            "xFrac": 0.778,
+            "yFrac": 0.4907,
             "radius": 0.1,
             "label": "Diff 3"
           },
           {
             "id": 4,
-            "xFrac": 0.7238,
-            "yFrac": 0.9129,
+            "xFrac": 0.4563,
+            "yFrac": 0.6903,
             "radius": 0.1,
             "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.14,
+            "yFrac": 0.8011,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7276,
+            "yFrac": 0.9152,
+            "radius": 0.1,
+            "label": "Diff 6"
           }
         ],
         "attribution": {
