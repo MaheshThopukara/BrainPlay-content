@@ -3806,6 +3806,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/36325543"
         }
       }
+    },
+    {
+      "id": "black_hole_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Black Hole",
+        "theme": "black_hole",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/black_hole_001/original.jpg",
+          "sha256": "49360dbd7f91cf54930711214a92d7a20bdb886c580b45fbf1a91a9b9efc24df",
+          "sizeBytes": 105250
+        },
+        "alteredImage": {
+          "path": "images/black_hole_001/altered.jpg",
+          "sha256": "990ec12ac1b46739b5acbe6dd8942f2886683b649a6e30d952da770650ab9a68",
+          "sizeBytes": 101841
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1245,
+            "yFrac": 0.1148,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5994,
+            "yFrac": 0.1084,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9338,
+            "yFrac": 0.3108,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4739,
+            "yFrac": 0.5068,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0975,
+            "yFrac": 0.6506,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8708,
+            "yFrac": 0.8742,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22664107"
+        }
+      }
     }
   ]
 }
