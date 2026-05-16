@@ -2748,6 +2748,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/26152677"
         }
       }
+    },
+    {
+      "id": "basset_hound_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Basset Hound Dog",
+        "theme": "basset_hound_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/basset_hound_dog_001/original.jpg",
+          "sha256": "d24f08b69265f66ed98aaaca12d35403530ac2e54e7bad4c2ce68c50e11744b2",
+          "sizeBytes": 115487
+        },
+        "alteredImage": {
+          "path": "images/basset_hound_dog_001/altered.jpg",
+          "sha256": "35f8dde95ebe3ae9528511befc2086810e6f67618eb7060a26a5b59affec1902",
+          "sizeBytes": 117538
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1204,
+            "yFrac": 0.0767,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4585,
+            "yFrac": 0.1144,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5927,
+            "yFrac": 0.4685,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7263,
+            "yFrac": 0.4536,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5474,
+            "yFrac": 0.8067,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9158,
+            "yFrac": 0.8443,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.05,
+            "yFrac": 0.27,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2,
+            "yFrac": 0.62,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584417"
+        }
+      }
     }
   ]
 }
