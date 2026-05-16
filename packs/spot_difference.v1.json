@@ -4937,6 +4937,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/22661627"
         }
       }
+    },
+    {
+      "id": "boy_recycling_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Recycling",
+        "theme": "boy_recycling",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_recycling_001/original.jpg",
+          "sha256": "3099506942cc4f0f4d6effaccf3b4c201dc6db652d952347ea8dd83e91e83cff",
+          "sizeBytes": 152852
+        },
+        "alteredImage": {
+          "path": "images/boy_recycling_001/altered.jpg",
+          "sha256": "10802ed34b15726f768a45dbfae73c94bf83b74d33da64436f07d01e916a2ddf",
+          "sizeBytes": 154415
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.15,
+            "yFrac": 0.1,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3893,
+            "yFrac": 0.1405,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2996,
+            "yFrac": 0.3493,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9339,
+            "yFrac": 0.3932,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1532,
+            "yFrac": 0.5189,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3341,
+            "yFrac": 0.5568,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9273,
+            "yFrac": 0.5535,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3054,
+            "yFrac": 0.6435,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.3682,
+            "yFrac": 0.8212,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1032,
+            "yFrac": 0.9248,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661624"
+        }
+      }
     }
   ]
 }
