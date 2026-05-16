@@ -3082,6 +3082,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/34328612"
         }
       }
+    },
+    {
+      "id": "beaver_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Beaver Animal",
+        "theme": "beaver_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/beaver_animal_001/original.jpg",
+          "sha256": "5ad13171c601ee84318303f684e7c76ba6f853d9529755b14858180fdc48a150",
+          "sizeBytes": 144775
+        },
+        "alteredImage": {
+          "path": "images/beaver_animal_001/altered.jpg",
+          "sha256": "691a620758309d4646dc4b7c72860c08b6613686e31781959f1e190557dff34e",
+          "sizeBytes": 138821
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.85,
+            "yFrac": 0.65,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2707,
+            "yFrac": 0.1236,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8724,
+            "yFrac": 0.1787,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3182,
+            "yFrac": 0.3577,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4823,
+            "yFrac": 0.659,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.267,
+            "yFrac": 0.7815,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152676"
+        }
+      }
     }
   ]
 }
