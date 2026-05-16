@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-16T06:21:38Z",
+  "generatedAt": "2026-05-16T06:23:47Z",
   "cdnBase": "https://raw.githubusercontent.com/MaheshThopukara/BrainPlay-content/main",
   "packs": [
     {
@@ -63,8 +63,8 @@
       "bankId": "spot_difference",
       "version": 1,
       "path": "packs/spot_difference.v1.json",
-      "sizeBytes": 62503,
-      "sha256": "ca136deb10cd77f4f30edc88818fd98bece0d29c99c35df651c379ca18bd36d5"
+      "sizeBytes": 65180,
+      "sha256": "fcfc86b3b647ff976d9234115f61b808d097c0bc9d9a9a9520e65b94d7e16ba9"
     }
   ]
 }
