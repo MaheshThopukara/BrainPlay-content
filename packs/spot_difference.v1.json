@@ -4067,6 +4067,107 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/26152632"
         }
       }
+    },
+    {
+      "id": "boston_terrier_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boston Terrier Dog",
+        "theme": "boston_terrier_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boston_terrier_dog_001/original.jpg",
+          "sha256": "5d29e5a2cde494370ec8d807459b2117f9ecc8fcf689874c5c8079eb9b6e3eaf",
+          "sizeBytes": 115219
+        },
+        "alteredImage": {
+          "path": "images/boston_terrier_dog_001/altered.jpg",
+          "sha256": "b223e1d6f29deb7c2ffb5984057917101643bbb7ac3d10af39b12f9e84dc3735",
+          "sizeBytes": 128505
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.15,
+            "yFrac": 0.15,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6309,
+            "yFrac": 0.1845,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9393,
+            "yFrac": 0.2266,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4384,
+            "yFrac": 0.388,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1674,
+            "yFrac": 0.4759,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5451,
+            "yFrac": 0.5772,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4523,
+            "yFrac": 0.6621,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7068,
+            "yFrac": 0.7972,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.2854,
+            "yFrac": 0.946,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9156,
+            "yFrac": 0.9501,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584438"
+        }
+      }
     }
   ]
 }
