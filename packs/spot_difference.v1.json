@@ -3733,6 +3733,79 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584590"
         }
       }
+    },
+    {
+      "id": "bird_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bird Animal",
+        "theme": "bird_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bird_animal_001/original.jpg",
+          "sha256": "6fb8b56cc58495530e7223c0fd3ad4cf51b4f80bf355f04fda9f0a8787e83a40",
+          "sizeBytes": 128241
+        },
+        "alteredImage": {
+          "path": "images/bird_animal_001/altered.jpg",
+          "sha256": "66afcd140f3f95695c4fd2bedece91619b122039d53f2df955e10309776d63c8",
+          "sizeBytes": 132460
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1921,
+            "yFrac": 0.1282,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4816,
+            "yFrac": 0.3014,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0917,
+            "yFrac": 0.4041,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0857,
+            "yFrac": 0.6494,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8695,
+            "yFrac": 0.6868,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4344,
+            "yFrac": 0.779,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325543"
+        }
+      }
     }
   ]
 }
