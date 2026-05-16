@@ -2574,6 +2574,93 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/27584464"
         }
       }
+    },
+    {
+      "id": "axolotl_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Axolotl Animal",
+        "theme": "axolotl_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/axolotl_animal_001/original.jpg",
+          "sha256": "11d1a7371bcb87758ef6f1a4b56e578bb303075cd09c2cf4206bb39b6f29b771",
+          "sizeBytes": 170970
+        },
+        "alteredImage": {
+          "path": "images/axolotl_animal_001/altered.jpg",
+          "sha256": "db9ff596a2d386ce9e39e0e5a5ad1d13189b8f346896d2550430f21df304680f",
+          "sizeBytes": 168366
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.0683,
+            "yFrac": 0.0779,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5101,
+            "yFrac": 0.1831,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7058,
+            "yFrac": 0.2728,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3401,
+            "yFrac": 0.4013,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6822,
+            "yFrac": 0.5066,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1037,
+            "yFrac": 0.513,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6369,
+            "yFrac": 0.7715,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3994,
+            "yFrac": 0.9039,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667709"
+        }
+      }
     }
   ]
 }
