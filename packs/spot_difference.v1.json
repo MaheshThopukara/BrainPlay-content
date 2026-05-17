@@ -5125,6 +5125,799 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/19977919"
         }
       }
+    },
+    {
+      "id": "boy_showing_windmill_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Showing Windmill",
+        "theme": "boy_showing_windmill",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_showing_windmill_001/original.jpg",
+          "sha256": "1c4db78e05113fbc33c64c15e08d0eba1cb782c679040491c5ef489fd1c8c3b8",
+          "sizeBytes": 156796
+        },
+        "alteredImage": {
+          "path": "images/boy_showing_windmill_001/altered.jpg",
+          "sha256": "7a87bb3d6f6d5371538f3e3ebe4863c58b532fee63115dd5dbafe74f4f4491d2",
+          "sizeBytes": 155299
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6984,
+            "yFrac": 0.0723,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.898,
+            "yFrac": 0.1362,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2078,
+            "yFrac": 0.2174,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4666,
+            "yFrac": 0.5073,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9024,
+            "yFrac": 0.7967,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.416,
+            "yFrac": 0.8841,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661625"
+        }
+      }
+    },
+    {
+      "id": "boy_using_telescope_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy Using Telescope",
+        "theme": "boy_using_telescope",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_using_telescope_001/original.jpg",
+          "sha256": "5f2faace7f27424741ea9909576fd0187352690d7cc59f18f435028f0935e97c",
+          "sizeBytes": 144858
+        },
+        "alteredImage": {
+          "path": "images/boy_using_telescope_001/altered.jpg",
+          "sha256": "089582907f193728834561df73d2a7d91a383dd9149e3235b26d437a4df8f4f4",
+          "sizeBytes": 145111
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4619,
+            "yFrac": 0.3273,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.699,
+            "yFrac": 0.2753,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8425,
+            "yFrac": 0.4045,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4966,
+            "yFrac": 0.6963,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1253,
+            "yFrac": 0.9037,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8,
+            "yFrac": 0.6,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22715329"
+        }
+      }
+    },
+    {
+      "id": "boy_with_solar_panel_house_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Boy With Solar Panel House",
+        "theme": "boy_with_solar_panel_house",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/boy_with_solar_panel_house_001/original.jpg",
+          "sha256": "56c65cf6886592ea1166f2ac9b03428ab4b196deb619ffa1c9563620f701c5ec",
+          "sizeBytes": 167051
+        },
+        "alteredImage": {
+          "path": "images/boy_with_solar_panel_house_001/altered.jpg",
+          "sha256": "9a3bc2f5a9ba80275c6617bb626a55b74b82e6228e1386ead7f847212fbcab09",
+          "sizeBytes": 168907
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.0859,
+            "yFrac": 0.0669,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6469,
+            "yFrac": 0.1927,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5751,
+            "yFrac": 0.2689,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2393,
+            "yFrac": 0.5364,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1911,
+            "yFrac": 0.7541,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3185,
+            "yFrac": 0.9323,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6742,
+            "yFrac": 0.9425,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.65,
+            "yFrac": 0.65,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22661621"
+        }
+      }
+    },
+    {
+      "id": "brachiosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Brachiosaurus Dinosaur",
+        "theme": "brachiosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/brachiosaurus_dinosaur_001/original.jpg",
+          "sha256": "f48c870eae5c99da37fb2d3ab82a9c610cdbcecd4b1e647293bc8c25971e5e43",
+          "sizeBytes": 114539
+        },
+        "alteredImage": {
+          "path": "images/brachiosaurus_dinosaur_001/altered.jpg",
+          "sha256": "3482cefc4c1b9a841e43d08211d1c32324e135d89e45e8956cdc4942abe4b928",
+          "sizeBytes": 115916
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1766,
+            "yFrac": 0.101,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8254,
+            "yFrac": 0.1095,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6244,
+            "yFrac": 0.4479,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4411,
+            "yFrac": 0.7709,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9744,
+            "yFrac": 0.7798,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.114,
+            "yFrac": 0.8888,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329328"
+        }
+      }
+    },
+    {
+      "id": "bulldog_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bulldog Dog",
+        "theme": "bulldog_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bulldog_dog_001/original.jpg",
+          "sha256": "87b3f7374dc1bafa7bfd7b37eb23e2ce0530a7d6730fe0541fa2706c2cf3c66e",
+          "sizeBytes": 115759
+        },
+        "alteredImage": {
+          "path": "images/bulldog_dog_001/altered.jpg",
+          "sha256": "de1bde7d42af1beb106a2411748878d161fec6b3cadc4ba641081c9f2422c0b3",
+          "sizeBytes": 115665
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1977,
+            "yFrac": 0.0663,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7705,
+            "yFrac": 0.2206,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2819,
+            "yFrac": 0.3204,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9515,
+            "yFrac": 0.7576,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.232,
+            "yFrac": 0.8646,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.561,
+            "yFrac": 0.8616,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.05,
+            "yFrac": 0.85,
+            "radius": 0.1,
+            "label": "Diff 7"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584255"
+        }
+      }
+    },
+    {
+      "id": "bunny_basket_of_easter_eggs_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Basket Of Easter Eggs",
+        "theme": "bunny_basket_of_easter_eggs",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_basket_of_easter_eggs_001/original.jpg",
+          "sha256": "9f5921d10f717b4c9cbf0f1692d93b136a892ca674f677e0863aef5195343aad",
+          "sizeBytes": 224167
+        },
+        "alteredImage": {
+          "path": "images/bunny_basket_of_easter_eggs_001/altered.jpg",
+          "sha256": "215c3b387954376d667b5295395a1d13a799c412323098edd2f076d5fb1850f8",
+          "sizeBytes": 219217
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2593,
+            "yFrac": 0.1366,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9084,
+            "yFrac": 0.1517,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7126,
+            "yFrac": 0.3134,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6083,
+            "yFrac": 0.4213,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1576,
+            "yFrac": 0.6082,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8604,
+            "yFrac": 0.9043,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979772"
+        }
+      }
+    },
+    {
+      "id": "bunny_carrying_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Carrying Easter Egg",
+        "theme": "bunny_carrying_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_carrying_easter_egg_001/original.jpg",
+          "sha256": "2cde47ac8801913f5521851455fb7f38c6518b720756b7f68d8bfef5174783ba",
+          "sizeBytes": 204504
+        },
+        "alteredImage": {
+          "path": "images/bunny_carrying_easter_egg_001/altered.jpg",
+          "sha256": "05c19b4f7c91c459eefb2c75a03d711e30a0c0ee308d0f752f20c090b5252948",
+          "sizeBytes": 206904
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3852,
+            "yFrac": 0.0949,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7426,
+            "yFrac": 0.3502,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1592,
+            "yFrac": 0.5528,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6565,
+            "yFrac": 0.5685,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7505,
+            "yFrac": 0.6525,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4,
+            "yFrac": 0.5,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/20119230"
+        }
+      }
+    },
+    {
+      "id": "bunny_easter_eggs_in_basket_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Easter Eggs In Basket",
+        "theme": "bunny_easter_eggs_in_basket",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_easter_eggs_in_basket_001/original.jpg",
+          "sha256": "a92baf60ca473d91277c7f56ab47f7190e2e087fa3ca48831346bf6c24401ff1",
+          "sizeBytes": 232310
+        },
+        "alteredImage": {
+          "path": "images/bunny_easter_eggs_in_basket_001/altered.jpg",
+          "sha256": "fa02f9d8d68baf4e0004b0d0a97482a6823c25898667f96548da83ab381c246d",
+          "sizeBytes": 230294
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.65,
+            "yFrac": 0.1,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2595,
+            "yFrac": 0.2848,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9141,
+            "yFrac": 0.3193,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1174,
+            "yFrac": 0.4453,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4327,
+            "yFrac": 0.4808,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7766,
+            "yFrac": 0.5585,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5816,
+            "yFrac": 0.602,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4172,
+            "yFrac": 0.8603,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979796"
+        }
+      }
+    },
+    {
+      "id": "bunny_holding_happy_easter_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Holding Happy Easter",
+        "theme": "bunny_holding_happy_easter",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_holding_happy_easter_001/original.jpg",
+          "sha256": "8a0859a7e4de85e31539b96695a196388449f7d7a0eb08c5723d0c6a712236f0",
+          "sizeBytes": 236253
+        },
+        "alteredImage": {
+          "path": "images/bunny_holding_happy_easter_001/altered.jpg",
+          "sha256": "5ece238a1d72da14c6c1ca47e0a97c3e16be9b5b120f20b01898491553046dd5",
+          "sizeBytes": 233726
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1581,
+            "yFrac": 0.0408,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.818,
+            "yFrac": 0.1117,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4288,
+            "yFrac": 0.3102,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.377,
+            "yFrac": 0.4756,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9441,
+            "yFrac": 0.4718,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.182,
+            "yFrac": 0.6576,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4981,
+            "yFrac": 0.6579,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2042,
+            "yFrac": 0.9175,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19943349"
+        }
+      }
+    },
+    {
+      "id": "bunny_hugging_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Hugging Easter Egg",
+        "theme": "bunny_hugging_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_hugging_easter_egg_001/original.jpg",
+          "sha256": "9c3c0e24bfd74f11193904b5c3ceb56e4738b1039d9cb82788a278af0759eef6",
+          "sizeBytes": 234834
+        },
+        "alteredImage": {
+          "path": "images/bunny_hugging_easter_egg_001/altered.jpg",
+          "sha256": "3a10e531eeaec5db7ea2864aa06cc853fda5d353f66d2b9a11df4f67f1fa9df6",
+          "sizeBytes": 231165
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5014,
+            "yFrac": 0.0579,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1306,
+            "yFrac": 0.1075,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6406,
+            "yFrac": 0.2063,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.219,
+            "yFrac": 0.4878,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9548,
+            "yFrac": 0.6028,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2656,
+            "yFrac": 0.7544,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.45,
+            "yFrac": 0.5,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.75,
+            "yFrac": 0.35,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/20002763"
+        }
+      }
     }
   ]
 }
