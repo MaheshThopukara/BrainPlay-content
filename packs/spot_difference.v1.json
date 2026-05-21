@@ -5918,6 +5918,4202 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/20002763"
         }
       }
+    },
+    {
+      "id": "bunny_juggling_easter_eggs_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Juggling Easter Eggs",
+        "theme": "bunny_juggling_easter_eggs",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_juggling_easter_eggs_001/original.jpg",
+          "sha256": "35eb974f410df0b1bb5d5b59f699b27aa97fbb35490b216c04461ed2cd1bbab3",
+          "sizeBytes": 228501
+        },
+        "alteredImage": {
+          "path": "images/bunny_juggling_easter_eggs_001/altered.jpg",
+          "sha256": "ba9ac002222d988adc3deea9e7a72b5690b60fb173ff166a5c91c819a7e2b73d",
+          "sizeBytes": 224914
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.487,
+            "yFrac": 0.1418,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1646,
+            "yFrac": 0.4066,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7989,
+            "yFrac": 0.4778,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3862,
+            "yFrac": 0.5739,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.241,
+            "yFrac": 0.6076,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6416,
+            "yFrac": 0.769,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979659"
+        }
+      }
+    },
+    {
+      "id": "bunny_painting_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny Painting Easter Egg",
+        "theme": "bunny_painting_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_painting_easter_egg_001/original.jpg",
+          "sha256": "3391f91617617c2463a652cb58a6ad9e879a3fb5e9771b7bc88f2b16f0e5a06e",
+          "sizeBytes": 210735
+        },
+        "alteredImage": {
+          "path": "images/bunny_painting_easter_egg_001/altered.jpg",
+          "sha256": "b8ccb28c3d709055e07f80aacc742e230e6cdf846da2b9302e2fd0b14f67bb30",
+          "sizeBytes": 212738
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4401,
+            "yFrac": 0.036,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6464,
+            "yFrac": 0.2254,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3109,
+            "yFrac": 0.4726,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1048,
+            "yFrac": 0.6883,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8822,
+            "yFrac": 0.7115,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1194,
+            "yFrac": 0.9038,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19977942"
+        }
+      }
+    },
+    {
+      "id": "bunny_with_big_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Bunny With Big Easter Egg",
+        "theme": "bunny_with_big_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/bunny_with_big_easter_egg_001/original.jpg",
+          "sha256": "082128314d3b0fbe6c22cbf5fbe40457297879745b8267079012338c95e4b4f8",
+          "sizeBytes": 243418
+        },
+        "alteredImage": {
+          "path": "images/bunny_with_big_easter_egg_001/altered.jpg",
+          "sha256": "9e57ebb248f45da7359256dd5b61c78f9d490c8a461e32a3b6bad6e298ba55d6",
+          "sizeBytes": 239251
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.274,
+            "yFrac": 0.096,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8993,
+            "yFrac": 0.3101,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0435,
+            "yFrac": 0.4629,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5887,
+            "yFrac": 0.4628,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6627,
+            "yFrac": 0.7658,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2832,
+            "yFrac": 0.9134,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19943236"
+        }
+      }
+    },
+    {
+      "id": "butterflies_over_easter_eggs_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Butterflies Over Easter Eggs",
+        "theme": "butterflies_over_easter_eggs",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/butterflies_over_easter_eggs_001/original.jpg",
+          "sha256": "36be9a205b55825e59f206aec2d8c1a2fdb0ad9e00e64adaa35aeb2ac1ed0b96",
+          "sizeBytes": 271865
+        },
+        "alteredImage": {
+          "path": "images/butterflies_over_easter_eggs_001/altered.jpg",
+          "sha256": "e110c1d16da01cc4f5e2ade3d86c66fe354833b6725909cdc0622c8cb3ad076f",
+          "sizeBytes": 268243
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1277,
+            "yFrac": 0.1541,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7507,
+            "yFrac": 0.1654,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4664,
+            "yFrac": 0.2982,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0741,
+            "yFrac": 0.4929,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5559,
+            "yFrac": 0.6429,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7754,
+            "yFrac": 0.599,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9561,
+            "yFrac": 0.6981,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.241,
+            "yFrac": 0.8418,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/20119229"
+        }
+      }
+    },
+    {
+      "id": "butterfly_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Butterfly Farm",
+        "theme": "butterfly_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/butterfly_farm_001/original.jpg",
+          "sha256": "01fcfd18bfd81e27c97d3d7a8fa5d9552fafa67dd5b42bb6fd6f002b500e4dc5",
+          "sizeBytes": 165321
+        },
+        "alteredImage": {
+          "path": "images/butterfly_farm_001/altered.jpg",
+          "sha256": "6f02809f6a460cf4b9f15de57d475c647d3faecb8ec45a2e31db59b06ad4dd74",
+          "sizeBytes": 167536
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8696,
+            "yFrac": 0.2544,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5311,
+            "yFrac": 0.2906,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5401,
+            "yFrac": 0.3416,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9474,
+            "yFrac": 0.3513,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1052,
+            "yFrac": 0.4703,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4032,
+            "yFrac": 0.6872,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8534,
+            "yFrac": 0.7566,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2036,
+            "yFrac": 0.9515,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584587"
+        }
+      }
+    },
+    {
+      "id": "carnotaurus_dinosaur_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Carnotaurus Dinosaur",
+        "theme": "carnotaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/carnotaurus_dinosaur_002/original.jpg",
+          "sha256": "27a97d3d8758fa7f1458fe69e6274ce86247173e220b696c3d1c1b33594c973b",
+          "sizeBytes": 134812
+        },
+        "alteredImage": {
+          "path": "images/carnotaurus_dinosaur_002/altered.jpg",
+          "sha256": "80a9b56aad42d2fbec68a0c2f44598c4ec8d6e6a20420e3c6fb7296325287490",
+          "sizeBytes": 139726
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4566,
+            "yFrac": 0.0811,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8734,
+            "yFrac": 0.0552,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0834,
+            "yFrac": 0.3874,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2902,
+            "yFrac": 0.4753,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.151,
+            "yFrac": 0.8008,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6296,
+            "yFrac": 0.92,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329381"
+        }
+      }
+    },
+    {
+      "id": "cat_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cat Mermaid",
+        "theme": "cat_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/cat_mermaid_001/original.jpg",
+          "sha256": "971ba47e0f347ec539a26a425f827dc568bc405760c4481eacf972cd46e47093",
+          "sizeBytes": 172688
+        },
+        "alteredImage": {
+          "path": "images/cat_mermaid_001/altered.jpg",
+          "sha256": "fbedeae602a838cbda2dd3b3c0a31ef79ef69219dee547f6ca88bf94598ecba6",
+          "sizeBytes": 173633
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2156,
+            "yFrac": 0.0703,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4542,
+            "yFrac": 0.1817,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8827,
+            "yFrac": 0.1716,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3288,
+            "yFrac": 0.4759,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1371,
+            "yFrac": 0.5518,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7732,
+            "yFrac": 0.6015,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328611"
+        }
+      }
+    },
+    {
+      "id": "cat_unicorn_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cat Unicorn",
+        "theme": "cat_unicorn",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/cat_unicorn_001/original.jpg",
+          "sha256": "058d2697f9761782cf90b0df9da6f6c01b16ce1eaf97cfd96d3bea4df6b21f0f",
+          "sizeBytes": 124264
+        },
+        "alteredImage": {
+          "path": "images/cat_unicorn_001/altered.jpg",
+          "sha256": "0acec39ff120b49ef28e68c328dc6ebf303c99fbf174d317f73e91f6d53ae7d7",
+          "sizeBytes": 124983
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6192,
+            "yFrac": 0.171,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.628,
+            "yFrac": 0.4116,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1776,
+            "yFrac": 0.4307,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0845,
+            "yFrac": 0.8278,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3581,
+            "yFrac": 0.8314,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8295,
+            "yFrac": 0.8575,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328593"
+        }
+      }
+    },
+    {
+      "id": "chick_pop_out_in_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Chick Pop Out In Easter Egg",
+        "theme": "chick_pop_out_in_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/chick_pop_out_in_easter_egg_001/original.jpg",
+          "sha256": "92714cdf44ea7ffc16f49b51ca18a7ebfa39d1d5bcbef9c0ed1f2f8d3c5d1814",
+          "sizeBytes": 133485
+        },
+        "alteredImage": {
+          "path": "images/chick_pop_out_in_easter_egg_001/altered.jpg",
+          "sha256": "68e67591bbafdbcb39e4ca5669f9b16885adac23f193f91360af2207ffdf566a",
+          "sizeBytes": 136156
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2424,
+            "yFrac": 0.0413,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.844,
+            "yFrac": 0.149,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1047,
+            "yFrac": 0.6403,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7068,
+            "yFrac": 0.7442,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8563,
+            "yFrac": 0.7531,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0684,
+            "yFrac": 0.8645,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/20002762"
+        }
+      }
+    },
+    {
+      "id": "chicken_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Chicken Animal",
+        "theme": "chicken_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/chicken_animal_001/original.jpg",
+          "sha256": "c3368933787d3c013dd55b9ca6b3df534583cb3f4e06d361af06a65b805a6acc",
+          "sizeBytes": 143671
+        },
+        "alteredImage": {
+          "path": "images/chicken_animal_001/altered.jpg",
+          "sha256": "9e5293636cae124b9846820953c1a681a56276cd7ba29d7e166e1ecd75b5f1c5",
+          "sizeBytes": 144162
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8884,
+            "yFrac": 0.0606,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2307,
+            "yFrac": 0.1314,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6065,
+            "yFrac": 0.1402,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2627,
+            "yFrac": 0.4775,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9252,
+            "yFrac": 0.4673,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1227,
+            "yFrac": 0.7555,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7719,
+            "yFrac": 0.7307,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4342,
+            "yFrac": 0.8569,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325338"
+        }
+      }
+    },
+    {
+      "id": "chihuahua_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Chihuahua Dog",
+        "theme": "chihuahua_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/chihuahua_dog_001/original.jpg",
+          "sha256": "61251ea82cc70196bc930b904019a5eef478a28abcddc530609e97a2c7a13c3b",
+          "sizeBytes": 121354
+        },
+        "alteredImage": {
+          "path": "images/chihuahua_dog_001/altered.jpg",
+          "sha256": "c8b22eeee07671abe5a0c921264e5d2e83129ff088eb1f5c43f7ea2fced25a00",
+          "sizeBytes": 126169
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3749,
+            "yFrac": 0.0851,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4536,
+            "yFrac": 0.2495,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9203,
+            "yFrac": 0.2981,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3126,
+            "yFrac": 0.421,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.128,
+            "yFrac": 0.4527,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.825,
+            "yFrac": 0.4807,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5908,
+            "yFrac": 0.7861,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5727,
+            "yFrac": 0.9188,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584448"
+        }
+      }
+    },
+    {
+      "id": "child_basket_of_easter_eggs_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Child Basket Of Easter Eggs",
+        "theme": "child_basket_of_easter_eggs",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/child_basket_of_easter_eggs_001/original.jpg",
+          "sha256": "564abf2f9ea6f1fa9f0baedd39dc08312306f0b0778bfe9549a805826aae8a8c",
+          "sizeBytes": 202076
+        },
+        "alteredImage": {
+          "path": "images/child_basket_of_easter_eggs_001/altered.jpg",
+          "sha256": "b64f7c0942f16f9b445ec1cc00b44517947b9cbd2c9baff40b249ae077b121a0",
+          "sizeBytes": 201318
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2325,
+            "yFrac": 0.1038,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5542,
+            "yFrac": 0.2602,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6711,
+            "yFrac": 0.282,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4772,
+            "yFrac": 0.3426,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.604,
+            "yFrac": 0.4058,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9222,
+            "yFrac": 0.3864,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2619,
+            "yFrac": 0.5885,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1295,
+            "yFrac": 0.76,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.3698,
+            "yFrac": 0.7862,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8362,
+            "yFrac": 0.907,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979698"
+        }
+      }
+    },
+    {
+      "id": "child_picking_shamrock_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Child Picking Shamrock",
+        "theme": "child_picking_shamrock",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/child_picking_shamrock_001/original.jpg",
+          "sha256": "d10043c838edf678e7a4ad99f7e6255003e8fe39b0a960c70fdc31f7ffb64df4",
+          "sizeBytes": 170543
+        },
+        "alteredImage": {
+          "path": "images/child_picking_shamrock_001/altered.jpg",
+          "sha256": "b84689fbb0b1b6d1d5d0935f4a7f8fb035981e69da274605f478bb193208ea71",
+          "sizeBytes": 166479
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.739,
+            "yFrac": 0.0459,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2004,
+            "yFrac": 0.133,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0366,
+            "yFrac": 0.2516,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2473,
+            "yFrac": 0.3333,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5375,
+            "yFrac": 0.537,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2253,
+            "yFrac": 0.758,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8289,
+            "yFrac": 0.8088,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7225,
+            "yFrac": 0.8932,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22671033"
+        }
+      }
+    },
+    {
+      "id": "christian_archangel_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Archangel",
+        "theme": "christian_archangel",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_archangel_001/original.jpg",
+          "sha256": "3d699f48f0b796275d18c99ecbae42bb77912d552d89d8615c891affa8a4ce3e",
+          "sizeBytes": 141366
+        },
+        "alteredImage": {
+          "path": "images/christian_archangel_001/altered.jpg",
+          "sha256": "e1990aa8b48e6c73a5a9a00d52ac5c1ad7cc0a73d0a4eed85fd243c34bc74c76",
+          "sizeBytes": 143986
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8445,
+            "yFrac": 0.152,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2133,
+            "yFrac": 0.299,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5074,
+            "yFrac": 0.2629,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2378,
+            "yFrac": 0.5177,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5953,
+            "yFrac": 0.5441,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7979,
+            "yFrac": 0.5376,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4762,
+            "yFrac": 0.8242,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6197,
+            "yFrac": 0.9653,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325313"
+        }
+      }
+    },
+    {
+      "id": "christian_baby_jesus_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Baby Jesus",
+        "theme": "christian_baby_jesus",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_baby_jesus_001/original.jpg",
+          "sha256": "f05b2204ab0b6b3ec1a1a201d7de3845c40917a3f018111321eb9ae5f80b8a32",
+          "sizeBytes": 181138
+        },
+        "alteredImage": {
+          "path": "images/christian_baby_jesus_001/altered.jpg",
+          "sha256": "c69b213d3008955bd75b5bd9860aae40f1ea3d9943483f19526d3a708fcecec2",
+          "sizeBytes": 181982
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.9163,
+            "yFrac": 0.055,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.071,
+            "yFrac": 0.2303,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5019,
+            "yFrac": 0.2747,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8704,
+            "yFrac": 0.3853,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6754,
+            "yFrac": 0.4802,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.106,
+            "yFrac": 0.5839,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3469,
+            "yFrac": 0.6478,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9045,
+            "yFrac": 0.7845,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1027,
+            "yFrac": 0.9205,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5901,
+            "yFrac": 0.9095,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325443"
+        }
+      }
+    },
+    {
+      "id": "christian_children_with_bible_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Children With Bible",
+        "theme": "christian_children_with_bible",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_children_with_bible_001/original.jpg",
+          "sha256": "0fa31b62b01c9bec5bb6e556d4a7baf40028937ce30102ed1a4b40f9f5654f1c",
+          "sizeBytes": 183140
+        },
+        "alteredImage": {
+          "path": "images/christian_children_with_bible_001/altered.jpg",
+          "sha256": "a59a734d98d4ae7a87478fa112d44ec7ba5a73e0331bf0bd0ff03c913b73bc3e",
+          "sizeBytes": 180842
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1808,
+            "yFrac": 0.3497,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6011,
+            "yFrac": 0.4277,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3418,
+            "yFrac": 0.6665,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8955,
+            "yFrac": 0.7109,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1613,
+            "yFrac": 0.8933,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6708,
+            "yFrac": 0.9305,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325582"
+        }
+      }
+    },
+    {
+      "id": "christian_children_with_bible_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Children With Bible",
+        "theme": "christian_children_with_bible",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_children_with_bible_002/original.jpg",
+          "sha256": "bbb9e4494a859f7dce7c76557b82302f99ae1c1ac1ec5b855294267e9b5edd50",
+          "sizeBytes": 223356
+        },
+        "alteredImage": {
+          "path": "images/christian_children_with_bible_002/altered.jpg",
+          "sha256": "ac1588c5c9c9ae2c6851d396530556cf9282fab5e12d0711ef342b39b91bbc72",
+          "sizeBytes": 224494
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4367,
+            "yFrac": 0.1389,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7039,
+            "yFrac": 0.441,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9249,
+            "yFrac": 0.5709,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2568,
+            "yFrac": 0.6436,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0953,
+            "yFrac": 0.8438,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7356,
+            "yFrac": 0.9409,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325710"
+        }
+      }
+    },
+    {
+      "id": "christian_church_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Church",
+        "theme": "christian_church",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_church_001/original.jpg",
+          "sha256": "abe50febbe31c3ea7d63c85ac61c919c2c88d8245ab235ffe33aa485238a9dd9",
+          "sizeBytes": 188216
+        },
+        "alteredImage": {
+          "path": "images/christian_church_001/altered.jpg",
+          "sha256": "7a99ab16264f10a93dc46c3883492fe7f97aa28ce3ac59246491693d2d1a61fc",
+          "sizeBytes": 190296
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4995,
+            "yFrac": 0.0804,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1611,
+            "yFrac": 0.088,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5423,
+            "yFrac": 0.4971,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7939,
+            "yFrac": 0.4674,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2814,
+            "yFrac": 0.8272,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4985,
+            "yFrac": 0.8152,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7989,
+            "yFrac": 0.8016,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0265,
+            "yFrac": 0.8995,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325309"
+        }
+      }
+    },
+    {
+      "id": "christian_david_playing_harp_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian David Playing Harp",
+        "theme": "christian_david_playing_harp",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_david_playing_harp_001/original.jpg",
+          "sha256": "917b69b742b9e3deab3567712899cbfa418c8cce9fd047dc898ca9e7fa862077",
+          "sizeBytes": 242011
+        },
+        "alteredImage": {
+          "path": "images/christian_david_playing_harp_001/altered.jpg",
+          "sha256": "c5e4dd966c22233d6e921fb870bd98bbe8d936bf013e65b574432dd2e25d7ca9",
+          "sizeBytes": 246188
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2181,
+            "yFrac": 0.0622,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.44,
+            "yFrac": 0.0931,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8679,
+            "yFrac": 0.1585,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2174,
+            "yFrac": 0.3159,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5745,
+            "yFrac": 0.3813,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7909,
+            "yFrac": 0.6205,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1112,
+            "yFrac": 0.7002,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4832,
+            "yFrac": 0.9529,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325273"
+        }
+      }
+    },
+    {
+      "id": "christian_jesus_with_children_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Jesus With Children",
+        "theme": "christian_jesus_with_children",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_jesus_with_children_001/original.jpg",
+          "sha256": "dcbf06fa9d8065a18b1b3ba2ea202c46635095c1eaef87d1133686813222088c",
+          "sizeBytes": 230542
+        },
+        "alteredImage": {
+          "path": "images/christian_jesus_with_children_001/altered.jpg",
+          "sha256": "eed5168afa93ab4511ae351eac5387801b3f5cd966d9dec6cfc6eaba9bf1b416",
+          "sizeBytes": 231695
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3003,
+            "yFrac": 0.2277,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1244,
+            "yFrac": 0.4298,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4885,
+            "yFrac": 0.467,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.332,
+            "yFrac": 0.6208,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7729,
+            "yFrac": 0.8007,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4708,
+            "yFrac": 0.8923,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325257"
+        }
+      }
+    },
+    {
+      "id": "christian_joseph_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Joseph",
+        "theme": "christian_joseph",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_joseph_001/original.jpg",
+          "sha256": "26658aff652acf82945529a3a3fe99e651377c1581eedcffa96badbb64d91396",
+          "sizeBytes": 181717
+        },
+        "alteredImage": {
+          "path": "images/christian_joseph_001/altered.jpg",
+          "sha256": "39eaa29a7135028c8a5fdc8143a4069e1151a9aafe514432582f8d9206569249",
+          "sizeBytes": 182037
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5019,
+            "yFrac": 0.2591,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7267,
+            "yFrac": 0.3503,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1849,
+            "yFrac": 0.4294,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9208,
+            "yFrac": 0.475,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5129,
+            "yFrac": 0.6322,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0638,
+            "yFrac": 0.7147,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8943,
+            "yFrac": 0.791,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4909,
+            "yFrac": 0.86,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325402"
+        }
+      }
+    },
+    {
+      "id": "christian_mary_and_joseph_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Mary And Joseph",
+        "theme": "christian_mary_and_joseph",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_mary_and_joseph_001/original.jpg",
+          "sha256": "21161d8d3452de7bbe4488e66e53eb7ecde7a307c5bc882943d91be77ea6ae89",
+          "sizeBytes": 178618
+        },
+        "alteredImage": {
+          "path": "images/christian_mary_and_joseph_001/altered.jpg",
+          "sha256": "178c490f16a167050eadf748f1079b841f28cc9812f2574c64d421bb33d57dc6",
+          "sizeBytes": 182940
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1507,
+            "yFrac": 0.0774,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4781,
+            "yFrac": 0.0578,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7862,
+            "yFrac": 0.1502,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5332,
+            "yFrac": 0.3238,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1569,
+            "yFrac": 0.3479,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7601,
+            "yFrac": 0.3922,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5693,
+            "yFrac": 0.6604,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3436,
+            "yFrac": 0.7075,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8913,
+            "yFrac": 0.7035,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.0698,
+            "yFrac": 0.8575,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325333"
+        }
+      }
+    },
+    {
+      "id": "christian_praying_child_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Praying Child",
+        "theme": "christian_praying_child",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_praying_child_001/original.jpg",
+          "sha256": "59d6c4a113c7ded518d30306bebff284ca6c8c3465da6eb1698aafe3a7592885",
+          "sizeBytes": 167883
+        },
+        "alteredImage": {
+          "path": "images/christian_praying_child_001/altered.jpg",
+          "sha256": "4dc7a7976f520c06c5cc2ddf34198c5152c5d93093222c4d51e7b0423259df89",
+          "sizeBytes": 170114
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1204,
+            "yFrac": 0.069,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.534,
+            "yFrac": 0.2864,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9372,
+            "yFrac": 0.4111,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3552,
+            "yFrac": 0.5349,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7975,
+            "yFrac": 0.5921,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1746,
+            "yFrac": 0.7507,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4454,
+            "yFrac": 0.9278,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8271,
+            "yFrac": 0.8775,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325339"
+        }
+      }
+    },
+    {
+      "id": "christian_priest_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Priest",
+        "theme": "christian_priest",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_priest_001/original.jpg",
+          "sha256": "0cabd7e776bec9241ddf25ed83394ac8c33461600d221d9703b6cdebecb151d3",
+          "sizeBytes": 133854
+        },
+        "alteredImage": {
+          "path": "images/christian_priest_001/altered.jpg",
+          "sha256": "8c5891312ce145b95ee115a84ae8ea8b949c249ae1d48035b678d383b9416815",
+          "sizeBytes": 136073
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5143,
+            "yFrac": 0.0297,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0895,
+            "yFrac": 0.2146,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7894,
+            "yFrac": 0.2679,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6761,
+            "yFrac": 0.4899,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.186,
+            "yFrac": 0.6613,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9459,
+            "yFrac": 0.6731,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3317,
+            "yFrac": 0.7463,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7073,
+            "yFrac": 0.9461,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325684"
+        }
+      }
+    },
+    {
+      "id": "christian_shepherd_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christian Shepherd",
+        "theme": "christian_shepherd",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christian_shepherd_001/original.jpg",
+          "sha256": "0ac51cf7cda26385de2d6a940622361f1e9a29b39c3a1c224bc0ad10dd7e12e6",
+          "sizeBytes": 172552
+        },
+        "alteredImage": {
+          "path": "images/christian_shepherd_001/altered.jpg",
+          "sha256": "a4ac0243d836fab14b4420b94ccca030023b9f41af1116e833dd5b7d33bdf0c9",
+          "sizeBytes": 178429
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2581,
+            "yFrac": 0.2626,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0376,
+            "yFrac": 0.4362,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.657,
+            "yFrac": 0.4363,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8651,
+            "yFrac": 0.577,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4884,
+            "yFrac": 0.6065,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1785,
+            "yFrac": 0.7857,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325527"
+        }
+      }
+    },
+    {
+      "id": "christmas_boy_opening_gift_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Boy Opening Gift",
+        "theme": "christmas_boy_opening_gift",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_boy_opening_gift_001/original.jpg",
+          "sha256": "e46bd0d2400aa33da12c71a2807c35f99b088dc9a5b2776fecc26dd387f2b996",
+          "sizeBytes": 161395
+        },
+        "alteredImage": {
+          "path": "images/christmas_boy_opening_gift_001/altered.jpg",
+          "sha256": "1070e1f948fe8d27332bad2fa1830eb407ac4f1c50aded738606cf8e61482a20",
+          "sizeBytes": 166626
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2506,
+            "yFrac": 0.0626,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9326,
+            "yFrac": 0.139,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3758,
+            "yFrac": 0.2121,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3073,
+            "yFrac": 0.2922,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6116,
+            "yFrac": 0.2992,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0989,
+            "yFrac": 0.452,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.987,
+            "yFrac": 0.4706,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3103,
+            "yFrac": 0.5776,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7725,
+            "yFrac": 0.6799,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9025,
+            "yFrac": 0.8374,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584118"
+        }
+      }
+    },
+    {
+      "id": "christmas_boy_riding_sleigh_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Boy Riding Sleigh",
+        "theme": "christmas_boy_riding_sleigh",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_boy_riding_sleigh_001/original.jpg",
+          "sha256": "a55741339dabd581c48bdb9aeb4f21ec406152b7fa8dc85f544f137bad2ed28d",
+          "sizeBytes": 157018
+        },
+        "alteredImage": {
+          "path": "images/christmas_boy_riding_sleigh_001/altered.jpg",
+          "sha256": "9b4bf4ad78b5cc7ed83c4b5fea31fadfda13758a257e22a8ab1685cee2f014ba",
+          "sizeBytes": 160944
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1379,
+            "yFrac": 0.0549,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2218,
+            "yFrac": 0.4221,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7815,
+            "yFrac": 0.3464,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6881,
+            "yFrac": 0.5304,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.372,
+            "yFrac": 0.6284,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.686,
+            "yFrac": 0.9347,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584050"
+        }
+      }
+    },
+    {
+      "id": "christmas_girl_and_reindeer_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Girl And Reindeer",
+        "theme": "christmas_girl_and_reindeer",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_girl_and_reindeer_001/original.jpg",
+          "sha256": "acf0975f9bd9eb779948bff4694001987f6a3449f8b11afaf2e3f559bd409eb5",
+          "sizeBytes": 146053
+        },
+        "alteredImage": {
+          "path": "images/christmas_girl_and_reindeer_001/altered.jpg",
+          "sha256": "b60d42b728061157713e870aac3b838fb2ade756836836617286b3e47e05986d",
+          "sizeBytes": 147612
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7457,
+            "yFrac": 0.1003,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3524,
+            "yFrac": 0.2437,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1639,
+            "yFrac": 0.4154,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5347,
+            "yFrac": 0.4038,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9401,
+            "yFrac": 0.3743,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7672,
+            "yFrac": 0.9436,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584285"
+        }
+      }
+    },
+    {
+      "id": "christmas_reindeer_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Reindeer",
+        "theme": "christmas_reindeer",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_reindeer_002/original.jpg",
+          "sha256": "c06c62bdf1d2f8cc1db80cff946a2434ae8927b8c1d6ba291762935d3e29afc6",
+          "sizeBytes": 116965
+        },
+        "alteredImage": {
+          "path": "images/christmas_reindeer_002/altered.jpg",
+          "sha256": "609c57031c2d91d32b106027413193634a37b725995cf6843cc4a6eefd88b08a",
+          "sizeBytes": 117144
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7499,
+            "yFrac": 0.1238,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2915,
+            "yFrac": 0.1932,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5759,
+            "yFrac": 0.2586,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9478,
+            "yFrac": 0.4087,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3653,
+            "yFrac": 0.5659,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7331,
+            "yFrac": 0.7581,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584443"
+        }
+      }
+    },
+    {
+      "id": "christmas_santa_claus_list_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Santa Claus List",
+        "theme": "christmas_santa_claus_list",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_santa_claus_list_001/original.jpg",
+          "sha256": "9d9e10fa71590a8e16824cb3198946b4a58a359042b1669b3baca057849ee623",
+          "sizeBytes": 148594
+        },
+        "alteredImage": {
+          "path": "images/christmas_santa_claus_list_001/altered.jpg",
+          "sha256": "5ac5ef2ea43246564e0e29b3957de40f31e73c9084411643e4b90f81df11b5a4",
+          "sizeBytes": 158026
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5679,
+            "yFrac": 0.1063,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4121,
+            "yFrac": 0.203,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8815,
+            "yFrac": 0.2138,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6195,
+            "yFrac": 0.3734,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7736,
+            "yFrac": 0.505,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3544,
+            "yFrac": 0.6179,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3117,
+            "yFrac": 0.7372,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5999,
+            "yFrac": 0.8141,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.2087,
+            "yFrac": 0.9727,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8319,
+            "yFrac": 0.9668,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584054"
+        }
+      }
+    },
+    {
+      "id": "christmas_tree_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Tree",
+        "theme": "christmas_tree",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_tree_001/original.jpg",
+          "sha256": "b014bb641e29d0758e637dde1be892ad361337f17a73e7963cf302051f389b98",
+          "sizeBytes": 142719
+        },
+        "alteredImage": {
+          "path": "images/christmas_tree_001/altered.jpg",
+          "sha256": "993d6bd3b3ffa8895728af279253e88d0fe411e58a73fcd435e95cddecc61d89",
+          "sizeBytes": 143020
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4869,
+            "yFrac": 0.129,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.429,
+            "yFrac": 0.299,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3123,
+            "yFrac": 0.4842,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6589,
+            "yFrac": 0.4928,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4635,
+            "yFrac": 0.7403,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2528,
+            "yFrac": 0.7908,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584291"
+        }
+      }
+    },
+    {
+      "id": "christmas_winter_house_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Christmas Winter House",
+        "theme": "christmas_winter_house",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/christmas_winter_house_001/original.jpg",
+          "sha256": "4d51547f29c34252e0b46e541e0f33b994e5302a987fddaf845e7e79ce6d2eaf",
+          "sizeBytes": 148355
+        },
+        "alteredImage": {
+          "path": "images/christmas_winter_house_001/altered.jpg",
+          "sha256": "6eb5458b7905f47f00fefbd6b21624a7b6725970548d7471b1d75655b704d9c4",
+          "sizeBytes": 150129
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5285,
+            "yFrac": 0.1466,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.098,
+            "yFrac": 0.2545,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.686,
+            "yFrac": 0.3416,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6388,
+            "yFrac": 0.7284,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2265,
+            "yFrac": 0.9094,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7027,
+            "yFrac": 0.9627,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584473"
+        }
+      }
+    },
+    {
+      "id": "coonhound_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Coonhound Dog",
+        "theme": "coonhound_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/coonhound_dog_001/original.jpg",
+          "sha256": "3d427ee58b132be512582af32395a73751cdbb13786c081944979c6d10b40018",
+          "sizeBytes": 118522
+        },
+        "alteredImage": {
+          "path": "images/coonhound_dog_001/altered.jpg",
+          "sha256": "eed40b1a1b0ca484f2a0d42eb9fde94ae01c97e126f96a46f4c71914485e9750",
+          "sizeBytes": 119919
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1308,
+            "yFrac": 0.0887,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6894,
+            "yFrac": 0.2331,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1944,
+            "yFrac": 0.3913,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5093,
+            "yFrac": 0.388,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5232,
+            "yFrac": 0.7488,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8688,
+            "yFrac": 0.8366,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34812283"
+        }
+      }
+    },
+    {
+      "id": "corgi_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Corgi Dog",
+        "theme": "corgi_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/corgi_dog_001/original.jpg",
+          "sha256": "3334a220a082ddb37ee3ec368a770a56bdaedbb63ade50e991567d49b9153c4f",
+          "sizeBytes": 144520
+        },
+        "alteredImage": {
+          "path": "images/corgi_dog_001/altered.jpg",
+          "sha256": "9788f8b0766658b288bad62cb45da09068b192da8ab36b797ce8ce6634759d8e",
+          "sizeBytes": 147720
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3335,
+            "yFrac": 0.0774,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7955,
+            "yFrac": 0.0327,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6692,
+            "yFrac": 0.1725,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8631,
+            "yFrac": 0.264,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2292,
+            "yFrac": 0.3605,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.518,
+            "yFrac": 0.4022,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9189,
+            "yFrac": 0.5422,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.11,
+            "yFrac": 0.7056,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4258,
+            "yFrac": 0.7162,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.7802,
+            "yFrac": 0.8194,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584296"
+        }
+      }
+    },
+    {
+      "id": "cow_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cow Animal",
+        "theme": "cow_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/cow_animal_001/original.jpg",
+          "sha256": "575c97e52b3da91926e648b65696dae4d7a7701fa48a5acdeb36f2c75e73b36c",
+          "sizeBytes": 120797
+        },
+        "alteredImage": {
+          "path": "images/cow_animal_001/altered.jpg",
+          "sha256": "c370ee99ddcf5a4b6bd2c1b6a68bf6027a60567e4f27c7cb598131844f66b693",
+          "sizeBytes": 121611
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2607,
+            "yFrac": 0.1825,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6335,
+            "yFrac": 0.1924,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9006,
+            "yFrac": 0.344,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4173,
+            "yFrac": 0.559,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7173,
+            "yFrac": 0.7431,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2355,
+            "yFrac": 0.8812,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325405"
+        }
+      }
+    },
+    {
+      "id": "cowboy_american_indian_girl_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy American Indian Girl",
+        "theme": "cowboy_american_indian_girl",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_american_indian_girl_001/original.jpg",
+          "sha256": "77c01ecbd6fb7195d04b4b33e977c45c943b3a1c50dcf2b9c4ff2ae02c2c0883",
+          "sizeBytes": 209921
+        },
+        "alteredImage": {
+          "path": "images/cowboy_american_indian_girl_001/altered.jpg",
+          "sha256": "e5766a9cd8355a7ef9cc4b6ad1a952e46989adb07f6dd91ed4f73411a178bca8",
+          "sizeBytes": 218592
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3729,
+            "yFrac": 0.0756,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3983,
+            "yFrac": 0.3228,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8231,
+            "yFrac": 0.2781,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1863,
+            "yFrac": 0.5084,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6244,
+            "yFrac": 0.5294,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4009,
+            "yFrac": 0.6736,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5974,
+            "yFrac": 0.7763,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8437,
+            "yFrac": 0.7387,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.116,
+            "yFrac": 0.8291,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.3777,
+            "yFrac": 0.9638,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325444"
+        }
+      }
+    },
+    {
+      "id": "cowboy_boots_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Boots",
+        "theme": "cowboy_boots",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_boots_001/original.jpg",
+          "sha256": "a7386d4f7938257225b23836c89fff5f4e5e467b619eea34bfe75a15957b9cf2",
+          "sizeBytes": 194740
+        },
+        "alteredImage": {
+          "path": "images/cowboy_boots_001/altered.jpg",
+          "sha256": "142b259faafaf35766972414fba985773d4fd58781522e9efe340e581d8cf859",
+          "sizeBytes": 201299
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3856,
+            "yFrac": 0.1499,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.706,
+            "yFrac": 0.2549,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0681,
+            "yFrac": 0.3197,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3831,
+            "yFrac": 0.4147,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8312,
+            "yFrac": 0.5765,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3299,
+            "yFrac": 0.7368,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8968,
+            "yFrac": 0.7991,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.219,
+            "yFrac": 0.9642,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325639"
+        }
+      }
+    },
+    {
+      "id": "cowboy_bottle_tequila_lemon_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Bottle Tequila Lemon",
+        "theme": "cowboy_bottle_tequila_lemon",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_bottle_tequila_lemon_001/original.jpg",
+          "sha256": "68897d57e772a71d4b4c8093b3dd7d23401ab456518dff2cdebf89170fc3d535",
+          "sizeBytes": 202369
+        },
+        "alteredImage": {
+          "path": "images/cowboy_bottle_tequila_lemon_001/altered.jpg",
+          "sha256": "affa4a75d5e16ef982dfc53d3eba21c47dae73695f3281e1f4b88961fd65da83",
+          "sizeBytes": 209146
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3807,
+            "yFrac": 0.0879,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7998,
+            "yFrac": 0.2003,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1756,
+            "yFrac": 0.2955,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5696,
+            "yFrac": 0.3539,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8646,
+            "yFrac": 0.3657,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.181,
+            "yFrac": 0.5019,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7126,
+            "yFrac": 0.5041,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0647,
+            "yFrac": 0.6911,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7393,
+            "yFrac": 0.7875,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.2653,
+            "yFrac": 0.9244,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325425"
+        }
+      }
+    },
+    {
+      "id": "cowboy_bull_rider_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Bull Rider",
+        "theme": "cowboy_bull_rider",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_bull_rider_001/original.jpg",
+          "sha256": "f6aefd7125c44b8c40a7f870502c458e68065f2f49caf06de4f499c46fd1530e",
+          "sizeBytes": 202814
+        },
+        "alteredImage": {
+          "path": "images/cowboy_bull_rider_001/altered.jpg",
+          "sha256": "cc1bf8ebcacc8094f60eab2e805904d65590086273f318dda7b7c8eca05c2457",
+          "sizeBytes": 203967
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6471,
+            "yFrac": 0.0784,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4253,
+            "yFrac": 0.2402,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0299,
+            "yFrac": 0.2877,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7791,
+            "yFrac": 0.3662,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3057,
+            "yFrac": 0.403,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9569,
+            "yFrac": 0.4969,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0858,
+            "yFrac": 0.622,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.686,
+            "yFrac": 0.6265,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7937,
+            "yFrac": 0.7742,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.449,
+            "yFrac": 0.9572,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325580"
+        }
+      }
+    },
+    {
+      "id": "cowboy_bull_skull_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Bull Skull",
+        "theme": "cowboy_bull_skull",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_bull_skull_001/original.jpg",
+          "sha256": "835da9825ef6bbfeae51a76c33de9770d13ea5b6af6ccfcb47f903f5f821e3ad",
+          "sizeBytes": 187295
+        },
+        "alteredImage": {
+          "path": "images/cowboy_bull_skull_001/altered.jpg",
+          "sha256": "1eefe1bb2f64240ae00edf50fa7f9c2b3fb5743c48afd0891dad4654ac4a75b2",
+          "sizeBytes": 182721
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6872,
+            "yFrac": 0.076,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4445,
+            "yFrac": 0.2891,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5989,
+            "yFrac": 0.5235,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1364,
+            "yFrac": 0.6471,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8529,
+            "yFrac": 0.8947,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2761,
+            "yFrac": 0.9465,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325260"
+        }
+      }
+    },
+    {
+      "id": "cowboy_campfire_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Campfire",
+        "theme": "cowboy_campfire",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_campfire_001/original.jpg",
+          "sha256": "40c0be768fc5968368b121dd3a55d540d2b2d3fd063f8622076a8a61f7a7e2a0",
+          "sizeBytes": 198164
+        },
+        "alteredImage": {
+          "path": "images/cowboy_campfire_001/altered.jpg",
+          "sha256": "822e8b2f9d3eccdbad654223b8f5ae40b57274ba045bb3fd9b3c24f68416284f",
+          "sizeBytes": 202270
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4884,
+            "yFrac": 0.0931,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6439,
+            "yFrac": 0.3758,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1689,
+            "yFrac": 0.468,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6786,
+            "yFrac": 0.7056,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2666,
+            "yFrac": 0.9006,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8997,
+            "yFrac": 0.8809,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325591"
+        }
+      }
+    },
+    {
+      "id": "cowboy_covered_wagon_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Covered Wagon",
+        "theme": "cowboy_covered_wagon",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_covered_wagon_001/original.jpg",
+          "sha256": "f64b29b9484c01236ddd43fe6f5b7a493e21047a5f4624c4dad554de2c7c7e4b",
+          "sizeBytes": 192846
+        },
+        "alteredImage": {
+          "path": "images/cowboy_covered_wagon_001/altered.jpg",
+          "sha256": "483aed1592d1f9d91111742fffa2abb0e60e1e182ddebdf3f21c120e90fec2f3",
+          "sizeBytes": 197593
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1399,
+            "yFrac": 0.3227,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6817,
+            "yFrac": 0.3398,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3316,
+            "yFrac": 0.5392,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9699,
+            "yFrac": 0.5502,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1265,
+            "yFrac": 0.7673,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6076,
+            "yFrac": 0.7365,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325305"
+        }
+      }
+    },
+    {
+      "id": "cowboy_dance_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Dance",
+        "theme": "cowboy_dance",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_dance_001/original.jpg",
+          "sha256": "3e8419daca840409d0d0b5bc5b269d664d0f22b3ce60ef07c749b61af2d07e6f",
+          "sizeBytes": 207161
+        },
+        "alteredImage": {
+          "path": "images/cowboy_dance_001/altered.jpg",
+          "sha256": "f5dfeee04e33e5d61771b10a0e8f09b9178b852fb6d1b80acaf72bb253e612e7",
+          "sizeBytes": 213468
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5002,
+            "yFrac": 0.0491,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4252,
+            "yFrac": 0.2946,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9452,
+            "yFrac": 0.3396,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3087,
+            "yFrac": 0.5975,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5611,
+            "yFrac": 0.7111,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0545,
+            "yFrac": 0.7651,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8309,
+            "yFrac": 0.7475,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3318,
+            "yFrac": 0.8742,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325648"
+        }
+      }
+    },
+    {
+      "id": "cowboy_duel_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Duel",
+        "theme": "cowboy_duel",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_duel_001/original.jpg",
+          "sha256": "9773f8ee910285b1ed2f403e931b088f3bb013c7d817e5aa19d8d4df0da7ffa2",
+          "sizeBytes": 202410
+        },
+        "alteredImage": {
+          "path": "images/cowboy_duel_001/altered.jpg",
+          "sha256": "89ff881b19601d49398d8c45d8acaf1b949a529edc170a4c94ae28cbcaef7366",
+          "sizeBytes": 212032
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3046,
+            "yFrac": 0.0318,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1525,
+            "yFrac": 0.3423,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.662,
+            "yFrac": 0.3588,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9437,
+            "yFrac": 0.3536,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.499,
+            "yFrac": 0.4964,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9339,
+            "yFrac": 0.6524,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3903,
+            "yFrac": 0.7002,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1077,
+            "yFrac": 0.7757,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9247,
+            "yFrac": 0.8562,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5677,
+            "yFrac": 0.8714,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325407"
+        }
+      }
+    },
+    {
+      "id": "cowboy_girl_with_a_rope_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Girl With A Rope",
+        "theme": "cowboy_girl_with_a_rope",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_girl_with_a_rope_001/original.jpg",
+          "sha256": "a6fffc03f22a0ccd0a307cfac2f2e5013d9b2900e786569309dafeeca7c5e388",
+          "sizeBytes": 223101
+        },
+        "alteredImage": {
+          "path": "images/cowboy_girl_with_a_rope_001/altered.jpg",
+          "sha256": "7965769d2b25b12900858650929d21adc8a6ff85b272080ca2bbf57461d2bb7c",
+          "sizeBytes": 225793
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1348,
+            "yFrac": 0.1157,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1744,
+            "yFrac": 0.3995,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4512,
+            "yFrac": 0.3423,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5373,
+            "yFrac": 0.4639,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8451,
+            "yFrac": 0.4133,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3466,
+            "yFrac": 0.5582,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0488,
+            "yFrac": 0.6196,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1467,
+            "yFrac": 0.8324,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325704"
+        }
+      }
+    },
+    {
+      "id": "cowboy_hat_cactus_bull_skull_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Hat Cactus Bull Skull",
+        "theme": "cowboy_hat_cactus_bull_skull",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_hat_cactus_bull_skull_001/original.jpg",
+          "sha256": "1baec94126512b7c8aa664d6327b828bc80364acd12b2a148bdce1740a7b644c",
+          "sizeBytes": 203474
+        },
+        "alteredImage": {
+          "path": "images/cowboy_hat_cactus_bull_skull_001/altered.jpg",
+          "sha256": "b28a70ad692c0d7bf0ad5175e50fec363148b26821c63bf282a4466308d89c83",
+          "sizeBytes": 206162
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1244,
+            "yFrac": 0.0546,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4633,
+            "yFrac": 0.1178,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4093,
+            "yFrac": 0.4099,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9064,
+            "yFrac": 0.4366,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0468,
+            "yFrac": 0.6577,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.567,
+            "yFrac": 0.8759,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325577"
+        }
+      }
+    },
+    {
+      "id": "cowboy_horse_riding_saddle_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Horse Riding Saddle",
+        "theme": "cowboy_horse_riding_saddle",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_horse_riding_saddle_001/original.jpg",
+          "sha256": "c48c188fca010fb0c9ed3a80834e31a063b41998d89aa2f378c306860f7e6a64",
+          "sizeBytes": 181984
+        },
+        "alteredImage": {
+          "path": "images/cowboy_horse_riding_saddle_001/altered.jpg",
+          "sha256": "b286834aae244c8c8bba751065563be699cb11fbcb0c9013c2c13674af1cb81d",
+          "sizeBytes": 187532
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1301,
+            "yFrac": 0.1312,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4486,
+            "yFrac": 0.0697,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8127,
+            "yFrac": 0.1641,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3199,
+            "yFrac": 0.4135,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7414,
+            "yFrac": 0.53,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3812,
+            "yFrac": 0.6632,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7268,
+            "yFrac": 0.6907,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3117,
+            "yFrac": 0.8894,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325603"
+        }
+      }
+    },
+    {
+      "id": "cowboy_horse_riding_with_gun_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Horse Riding With Gun",
+        "theme": "cowboy_horse_riding_with_gun",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_horse_riding_with_gun_001/original.jpg",
+          "sha256": "f09879689b717ab42355905febcb2278b7e990292987aa8af19e56e3f12423a5",
+          "sizeBytes": 200466
+        },
+        "alteredImage": {
+          "path": "images/cowboy_horse_riding_with_gun_001/altered.jpg",
+          "sha256": "a3cf273b1dc74980a4f57534e989b32dad3448522ec2cbf92c5279611244a780",
+          "sizeBytes": 202119
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.9518,
+            "yFrac": 0.1412,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4613,
+            "yFrac": 0.2241,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2452,
+            "yFrac": 0.3162,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6923,
+            "yFrac": 0.3978,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0859,
+            "yFrac": 0.5121,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.625,
+            "yFrac": 0.7248,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0919,
+            "yFrac": 0.9695,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8538,
+            "yFrac": 0.9403,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325412"
+        }
+      }
+    },
+    {
+      "id": "cowboy_horse_rodeo_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy Horse Rodeo",
+        "theme": "cowboy_horse_rodeo",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_horse_rodeo_001/original.jpg",
+          "sha256": "6357805607984cc358ecb054dcbd63725cc763a5b06f67f7fbda853a237dfb89",
+          "sizeBytes": 196720
+        },
+        "alteredImage": {
+          "path": "images/cowboy_horse_rodeo_001/altered.jpg",
+          "sha256": "86a9715203c20e989f8e07555f6050ea07d518587a1079f2d678afc32e61f0b5",
+          "sizeBytes": 200989
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4207,
+            "yFrac": 0.1153,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2973,
+            "yFrac": 0.3007,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7782,
+            "yFrac": 0.3103,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0842,
+            "yFrac": 0.3741,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0967,
+            "yFrac": 0.5778,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3438,
+            "yFrac": 0.5789,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7766,
+            "yFrac": 0.6366,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1188,
+            "yFrac": 0.7932,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4723,
+            "yFrac": 0.8213,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.6868,
+            "yFrac": 0.9444,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325545"
+        }
+      }
+    },
+    {
+      "id": "cowboy_in_the_desert_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Cowboy In The Desert",
+        "theme": "cowboy_in_the_desert",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/cowboy_in_the_desert_001/original.jpg",
+          "sha256": "2bfaa8064c88fc5d8f39b4d36d23db21522035eef1c0cd11bacb811f328ebc3e",
+          "sizeBytes": 177628
+        },
+        "alteredImage": {
+          "path": "images/cowboy_in_the_desert_001/altered.jpg",
+          "sha256": "d352c1277b4248ea6dd71202d8c9e7d2c6815d166d82e856eeccdfd0cf19e5eb",
+          "sizeBytes": 187014
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.473,
+            "yFrac": 0.0219,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5608,
+            "yFrac": 0.233,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.766,
+            "yFrac": 0.4142,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0993,
+            "yFrac": 0.4889,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3091,
+            "yFrac": 0.5432,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8207,
+            "yFrac": 0.5704,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2676,
+            "yFrac": 0.8781,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7035,
+            "yFrac": 0.9258,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325688"
+        }
+      }
     }
   ]
 }
