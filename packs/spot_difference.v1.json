@@ -14352,6 +14352,4300 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/17584600"
         }
       }
+    },
+    {
+      "id": "golden_retriever_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Golden Retriever Dog",
+        "theme": "golden_retriever_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/golden_retriever_dog_001/original.jpg",
+          "sha256": "bc8f3b6d65ee89a7e93cf2f6ae9269da68d0675c23859cbf2a14c58c3c3f56bc",
+          "sizeBytes": 119398
+        },
+        "alteredImage": {
+          "path": "images/golden_retriever_dog_001/altered.jpg",
+          "sha256": "72919ca5e007f6e426da4b69368724b6be88f70bae6db53f8b413a5aa52a09fe",
+          "sizeBytes": 133843
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4183,
+            "yFrac": 0.1101,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8394,
+            "yFrac": 0.313,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1736,
+            "yFrac": 0.3843,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5487,
+            "yFrac": 0.6251,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8918,
+            "yFrac": 0.7539,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5001,
+            "yFrac": 0.8271,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584423"
+        }
+      }
+    },
+    {
+      "id": "goose_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Goose Farm",
+        "theme": "goose_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/goose_farm_001/original.jpg",
+          "sha256": "03fe222d6f40590870724b7e09bb42ec9700f1f23a3034a584578a627d9e6354",
+          "sizeBytes": 143972
+        },
+        "alteredImage": {
+          "path": "images/goose_farm_001/altered.jpg",
+          "sha256": "d6633a16897bbb6617174df9685e18c8a566929a3130d9dfd280ee5585905151",
+          "sizeBytes": 149652
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4684,
+            "yFrac": 0.2019,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.124,
+            "yFrac": 0.3608,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8856,
+            "yFrac": 0.4662,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4405,
+            "yFrac": 0.5318,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1864,
+            "yFrac": 0.7481,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6389,
+            "yFrac": 0.8524,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584603"
+        }
+      }
+    },
+    {
+      "id": "great_white_shark_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Great White Shark Animal",
+        "theme": "great_white_shark_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/great_white_shark_animal_001/original.jpg",
+          "sha256": "6b8c33b9c9fef912e32c1f89c7baa6fdb70274b9f0c9dc37ce8314d0c756c98a",
+          "sizeBytes": 136542
+        },
+        "alteredImage": {
+          "path": "images/great_white_shark_animal_001/altered.jpg",
+          "sha256": "68e4301d31ef9a957b1eb102c093d4ad5d24bbffdac44eb6899844bfe977b51e",
+          "sizeBytes": 134913
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5533,
+            "yFrac": 0.133,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8061,
+            "yFrac": 0.283,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1667,
+            "yFrac": 0.3541,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6359,
+            "yFrac": 0.5319,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7994,
+            "yFrac": 0.6089,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5837,
+            "yFrac": 0.7111,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1089,
+            "yFrac": 0.8343,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.53,
+            "yFrac": 0.9201,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667471"
+        }
+      }
+    },
+    {
+      "id": "grim_reaper_halloween_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Grim Reaper Halloween",
+        "theme": "grim_reaper_halloween",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/grim_reaper_halloween_001/original.jpg",
+          "sha256": "14fb47bb9c434fe86dc084a5aae754d64519da32664ce5d59596ae061864530a",
+          "sizeBytes": 131923
+        },
+        "alteredImage": {
+          "path": "images/grim_reaper_halloween_001/altered.jpg",
+          "sha256": "4941a152a17864ac83312d58ca142fd35200015f167c70c37055d175b93de2e2",
+          "sizeBytes": 133245
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3371,
+            "yFrac": 0.0877,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5172,
+            "yFrac": 0.2413,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5645,
+            "yFrac": 0.4961,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8276,
+            "yFrac": 0.4647,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7524,
+            "yFrac": 0.5664,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0558,
+            "yFrac": 0.6388,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2611,
+            "yFrac": 0.7405,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6548,
+            "yFrac": 0.8882,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25374820"
+        }
+      }
+    },
+    {
+      "id": "hammerhead_shark_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hammerhead Shark Animal",
+        "theme": "hammerhead_shark_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hammerhead_shark_animal_001/original.jpg",
+          "sha256": "91e6a4167b4316fa0c9b28a3c8d2dfab33687823f27bfddc59d2c637a119e020",
+          "sizeBytes": 155951
+        },
+        "alteredImage": {
+          "path": "images/hammerhead_shark_animal_001/altered.jpg",
+          "sha256": "c41972133f696ba2fc8eda56c1166c04cb7964a05e825a0c0cb376ca60115146",
+          "sizeBytes": 159752
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8997,
+            "yFrac": 0.0517,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2072,
+            "yFrac": 0.1295,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.324,
+            "yFrac": 0.252,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4776,
+            "yFrac": 0.2269,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8714,
+            "yFrac": 0.2847,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3796,
+            "yFrac": 0.4844,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.544,
+            "yFrac": 0.7532,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7829,
+            "yFrac": 0.8429,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.0642,
+            "yFrac": 0.9506,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9041,
+            "yFrac": 0.9573,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667440"
+        }
+      }
+    },
+    {
+      "id": "hammerhead_shark_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hammerhead Shark Animal",
+        "theme": "hammerhead_shark_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hammerhead_shark_animal_002/original.jpg",
+          "sha256": "19cf75c184ed6a22d5d09c62a636f4a0c5b36dc7e2abdaac80023ee62a3d194d",
+          "sizeBytes": 211784
+        },
+        "alteredImage": {
+          "path": "images/hammerhead_shark_animal_002/altered.jpg",
+          "sha256": "55aa1e42767f38d6d103a3fd03f4cc604e0fa9cbd87f062a3c089b33cd04a4eb",
+          "sizeBytes": 210907
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7083,
+            "yFrac": 0.1412,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0532,
+            "yFrac": 0.3528,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6358,
+            "yFrac": 0.397,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3366,
+            "yFrac": 0.4279,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1885,
+            "yFrac": 0.7221,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8692,
+            "yFrac": 0.6807,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5066,
+            "yFrac": 0.9144,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8557,
+            "yFrac": 0.9008,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152656"
+        }
+      }
+    },
+    {
+      "id": "happy_easter_bunny_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Happy Easter Bunny",
+        "theme": "happy_easter_bunny",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/happy_easter_bunny_001/original.jpg",
+          "sha256": "3fdabdf899d3383162ecb43e32f591c70344dee1485636581e5716c3ae9f9e28",
+          "sizeBytes": 237947
+        },
+        "alteredImage": {
+          "path": "images/happy_easter_bunny_001/altered.jpg",
+          "sha256": "b7347d136a30ede6298dfba80226e184f5f9711d6f2d0b88301399f051915ee4",
+          "sizeBytes": 235030
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2857,
+            "yFrac": 0.0259,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8927,
+            "yFrac": 0.0427,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9366,
+            "yFrac": 0.2146,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4344,
+            "yFrac": 0.2655,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0777,
+            "yFrac": 0.3798,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1201,
+            "yFrac": 0.5572,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.791,
+            "yFrac": 0.6352,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6278,
+            "yFrac": 0.9007,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/20119189"
+        }
+      }
+    },
+    {
+      "id": "happy_sun_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Happy Sun In Space",
+        "theme": "happy_sun_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/happy_sun_in_space_001/original.jpg",
+          "sha256": "1088b3b89d43427acf5d56c766b315f07c139211ce961feb9ab51169c0ea93a9",
+          "sizeBytes": 144787
+        },
+        "alteredImage": {
+          "path": "images/happy_sun_in_space_001/altered.jpg",
+          "sha256": "adf8ada5e5f748743af1f802e70583493c8718be73303612397c3e68017be2b9",
+          "sizeBytes": 142979
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3135,
+            "yFrac": 0.1459,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9058,
+            "yFrac": 0.0877,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1625,
+            "yFrac": 0.2344,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8028,
+            "yFrac": 0.2438,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0616,
+            "yFrac": 0.446,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.71,
+            "yFrac": 0.6511,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22664543"
+        }
+      }
+    },
+    {
+      "id": "haunted_house_halloween_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Haunted House Halloween",
+        "theme": "haunted_house_halloween",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/haunted_house_halloween_001/original.jpg",
+          "sha256": "c814c48d61c4c528e1ca4ad3e27e34460f08ef2d1b0a61213ceaca30c6f95819",
+          "sizeBytes": 149842
+        },
+        "alteredImage": {
+          "path": "images/haunted_house_halloween_001/altered.jpg",
+          "sha256": "5828f868fcf7fb50137ffdc8ccbcf20aadf9e09fe150229dbd008dfe5da214b3",
+          "sizeBytes": 151679
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5115,
+            "yFrac": 0.0647,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1369,
+            "yFrac": 0.1456,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7922,
+            "yFrac": 0.1393,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3241,
+            "yFrac": 0.2608,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4765,
+            "yFrac": 0.3555,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5015,
+            "yFrac": 0.6213,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8824,
+            "yFrac": 0.622,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8745,
+            "yFrac": 0.749,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4806,
+            "yFrac": 0.7945,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1562,
+            "yFrac": 0.9584,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25376225"
+        }
+      }
+    },
+    {
+      "id": "haunted_house_halloween_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Haunted House Halloween",
+        "theme": "haunted_house_halloween",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/haunted_house_halloween_002/original.jpg",
+          "sha256": "dfc5bdca9b8c3723964489cd613391db2cb5c82af2a861a1cc210163d93aa7d5",
+          "sizeBytes": 188623
+        },
+        "alteredImage": {
+          "path": "images/haunted_house_halloween_002/altered.jpg",
+          "sha256": "8ee40c2eaaa8d41c3521cea77775b29448f8b08db285042a5b0cdceae38c1420",
+          "sizeBytes": 184328
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7261,
+            "yFrac": 0.2615,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1948,
+            "yFrac": 0.342,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4073,
+            "yFrac": 0.4512,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5986,
+            "yFrac": 0.4326,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9233,
+            "yFrac": 0.4791,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4948,
+            "yFrac": 0.6216,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.404,
+            "yFrac": 0.682,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6039,
+            "yFrac": 0.9682,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25376241"
+        }
+      }
+    },
+    {
+      "id": "haystack_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Haystack Farm",
+        "theme": "haystack_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/haystack_farm_001/original.jpg",
+          "sha256": "96e71e1e113e3009e0c1d27f315be5335da7e60b995f5f11c6ebf2bf74f45af5",
+          "sizeBytes": 133380
+        },
+        "alteredImage": {
+          "path": "images/haystack_farm_001/altered.jpg",
+          "sha256": "ceaafc98fccab7c8c982021bdd931fc347853fc36b6bfbfd75c1f2efcd9ffbab",
+          "sizeBytes": 134283
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.0514,
+            "yFrac": 0.3381,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.47,
+            "yFrac": 0.3444,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6785,
+            "yFrac": 0.4331,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8074,
+            "yFrac": 0.5682,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0463,
+            "yFrac": 0.6187,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2391,
+            "yFrac": 0.9672,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584615"
+        }
+      }
+    },
+    {
+      "id": "hesperosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hesperosaurus Dinosaur",
+        "theme": "hesperosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hesperosaurus_dinosaur_001/original.jpg",
+          "sha256": "d95053eb7028a78ef624c70375ec84995cd3a4efb6dd8810301dbdbe136cfdca",
+          "sizeBytes": 159651
+        },
+        "alteredImage": {
+          "path": "images/hesperosaurus_dinosaur_001/altered.jpg",
+          "sha256": "a857a9ef5a686add997c6e403b37f85ccb27dc82c7afbdfe17304cfe5531adce",
+          "sizeBytes": 166795
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1532,
+            "yFrac": 0.1658,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8238,
+            "yFrac": 0.1203,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.551,
+            "yFrac": 0.21,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1589,
+            "yFrac": 0.3612,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3805,
+            "yFrac": 0.3787,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8495,
+            "yFrac": 0.3478,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.563,
+            "yFrac": 0.638,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9207,
+            "yFrac": 0.6263,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1838,
+            "yFrac": 0.7604,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.7319,
+            "yFrac": 0.7104,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329380"
+        }
+      }
+    },
+    {
+      "id": "hippo_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hippo Animal",
+        "theme": "hippo_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hippo_animal_001/original.jpg",
+          "sha256": "1f4efc6519bbc4dbb67e5cccca4c43748a001332417d2e1970dc80417a2c8071",
+          "sizeBytes": 99651
+        },
+        "alteredImage": {
+          "path": "images/hippo_animal_001/altered.jpg",
+          "sha256": "a173273138f6d04f8969aace528706d54b87557e7ea5c666859480ecd3f98574",
+          "sizeBytes": 108584
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8797,
+            "yFrac": 0.2011,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2478,
+            "yFrac": 0.563,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9068,
+            "yFrac": 0.6219,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6695,
+            "yFrac": 0.7811,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.108,
+            "yFrac": 0.8891,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4772,
+            "yFrac": 0.9043,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667397"
+        }
+      }
+    },
+    {
+      "id": "hippo_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hippo Animal",
+        "theme": "hippo_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hippo_animal_002/original.jpg",
+          "sha256": "890dbaa24ea205ef290c5434f224485c557b5107d2a4c21ade035935d5480226",
+          "sizeBytes": 129514
+        },
+        "alteredImage": {
+          "path": "images/hippo_animal_002/altered.jpg",
+          "sha256": "2eb1e1a80649d9547a98915b127fac8094aa64b6df2a243e3fac81f72ff5df2a",
+          "sizeBytes": 131501
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8258,
+            "yFrac": 0.2352,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0814,
+            "yFrac": 0.2759,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4739,
+            "yFrac": 0.2583,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8653,
+            "yFrac": 0.4506,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3713,
+            "yFrac": 0.8433,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6034,
+            "yFrac": 0.8033,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152645"
+        }
+      }
+    },
+    {
+      "id": "hippo_animal_003",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Hippo Animal",
+        "theme": "hippo_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/hippo_animal_003/original.jpg",
+          "sha256": "a403e39a1a347ff0416e0b715fe7b079a1479f342670bd8b2bc355f84c0741c2",
+          "sizeBytes": 115465
+        },
+        "alteredImage": {
+          "path": "images/hippo_animal_003/altered.jpg",
+          "sha256": "a4a18ac5b25307923946090722b94d3cc04417f4dfab44e1c560ea5b4edfcef2",
+          "sizeBytes": 123361
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.294,
+            "yFrac": 0.0992,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8611,
+            "yFrac": 0.302,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.087,
+            "yFrac": 0.3666,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8927,
+            "yFrac": 0.5976,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4079,
+            "yFrac": 0.7401,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6868,
+            "yFrac": 0.9098,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325259"
+        }
+      }
+    },
+    {
+      "id": "horse_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Horse Animal",
+        "theme": "horse_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/horse_animal_001/original.jpg",
+          "sha256": "56caa6e19f09492a4bccf9dc62971a69c449dfd1e7ea0060497a8fd61b586106",
+          "sizeBytes": 122626
+        },
+        "alteredImage": {
+          "path": "images/horse_animal_001/altered.jpg",
+          "sha256": "667e9061fae90d3d34fd48f2abb12a7fe7b2d38e1810083e6a007dd91c857cc6",
+          "sizeBytes": 126192
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.0868,
+            "yFrac": 0.2113,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5868,
+            "yFrac": 0.3317,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2405,
+            "yFrac": 0.4853,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8572,
+            "yFrac": 0.4778,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0731,
+            "yFrac": 0.7397,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5411,
+            "yFrac": 0.7884,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325541"
+        }
+      }
+    },
+    {
+      "id": "iguanodon_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Iguanodon Dinosaur",
+        "theme": "iguanodon_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/iguanodon_dinosaur_001/original.jpg",
+          "sha256": "912c28e3eaa9b0a9fc2c046a0099376bec28110b6b457f1457f3e6d23a9f209d",
+          "sizeBytes": 133064
+        },
+        "alteredImage": {
+          "path": "images/iguanodon_dinosaur_001/altered.jpg",
+          "sha256": "0c0aab2a3087c2c83582a1167c79685015fc4d089617292a14bf0c9125842906",
+          "sizeBytes": 136270
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3272,
+            "yFrac": 0.1315,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9299,
+            "yFrac": 0.3136,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0606,
+            "yFrac": 0.359,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5165,
+            "yFrac": 0.4927,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8892,
+            "yFrac": 0.53,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1192,
+            "yFrac": 0.6277,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4783,
+            "yFrac": 0.8124,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7919,
+            "yFrac": 0.841,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328956"
+        }
+      }
+    },
+    {
+      "id": "jack_in_the_box_halloween_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Jack In The Box Halloween",
+        "theme": "jack_in_the_box_halloween",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/jack_in_the_box_halloween_001/original.jpg",
+          "sha256": "4f57df21ba9d3134d2a024c4801ffe6a31658e09ea0546289e7d90ffc7fafc16",
+          "sizeBytes": 211964
+        },
+        "alteredImage": {
+          "path": "images/jack_in_the_box_halloween_001/altered.jpg",
+          "sha256": "c3a5f40c5fca0f46344bab112935e9391e45adc700b06054a48f68550b533d64",
+          "sizeBytes": 208933
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6931,
+            "yFrac": 0.0445,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3832,
+            "yFrac": 0.1647,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9296,
+            "yFrac": 0.205,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0744,
+            "yFrac": 0.2998,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4678,
+            "yFrac": 0.3783,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8912,
+            "yFrac": 0.3771,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5991,
+            "yFrac": 0.4473,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2699,
+            "yFrac": 0.7346,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9509,
+            "yFrac": 0.7528,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.541,
+            "yFrac": 0.8073,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25376297"
+        }
+      }
+    },
+    {
+      "id": "jack_russell_terrier_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Jack Russell Terrier Dog",
+        "theme": "jack_russell_terrier_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/jack_russell_terrier_dog_001/original.jpg",
+          "sha256": "c6658e60a5d1a44acbd6e0e15900225f1d5fdc0e0ebcb2547e2afe0fa595b6e0",
+          "sizeBytes": 157990
+        },
+        "alteredImage": {
+          "path": "images/jack_russell_terrier_dog_001/altered.jpg",
+          "sha256": "575944b134f92391c293e452aa00b5c4998ec393c8d65d1ebc472b8a8a62ae19",
+          "sizeBytes": 156922
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8265,
+            "yFrac": 0.1489,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5499,
+            "yFrac": 0.2229,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3117,
+            "yFrac": 0.3234,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8739,
+            "yFrac": 0.3847,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1006,
+            "yFrac": 0.4282,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2308,
+            "yFrac": 0.5286,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.182,
+            "yFrac": 0.661,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3656,
+            "yFrac": 0.8303,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5795,
+            "yFrac": 0.8566,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8623,
+            "yFrac": 0.8765,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34812234"
+        }
+      }
+    },
+    {
+      "id": "jobaria_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Jobaria Dinosaur",
+        "theme": "jobaria_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/jobaria_dinosaur_001/original.jpg",
+          "sha256": "7f56790c44325bbdc06e385196e2fd619ee030882e646e21605997ae02caba13",
+          "sizeBytes": 137655
+        },
+        "alteredImage": {
+          "path": "images/jobaria_dinosaur_001/altered.jpg",
+          "sha256": "bf4ad3424e5aa28aed361c6ffea18c3d3bef012f471e51885a6c5ab8b1e1ca54",
+          "sizeBytes": 139419
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4599,
+            "yFrac": 0.0591,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8174,
+            "yFrac": 0.0865,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7609,
+            "yFrac": 0.2836,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3368,
+            "yFrac": 0.5512,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7867,
+            "yFrac": 0.5335,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8501,
+            "yFrac": 0.8689,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329331"
+        }
+      }
+    },
+    {
+      "id": "jumping_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Jumping Mermaid",
+        "theme": "jumping_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/jumping_mermaid_001/original.jpg",
+          "sha256": "95ea3f41e993dadbda7023edd274de5980ae264c4461245584598a6367328938",
+          "sizeBytes": 239367
+        },
+        "alteredImage": {
+          "path": "images/jumping_mermaid_001/altered.jpg",
+          "sha256": "e9c50d68e6fda77b60ced5b9b369e5d3f11cacd3ebc58183465d4b151143d85c",
+          "sizeBytes": 240775
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8322,
+            "yFrac": 0.0582,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1339,
+            "yFrac": 0.1444,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5031,
+            "yFrac": 0.409,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3542,
+            "yFrac": 0.4916,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8937,
+            "yFrac": 0.6203,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2754,
+            "yFrac": 0.7626,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329352"
+        }
+      }
+    },
+    {
+      "id": "jumping_unicorn_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Jumping Unicorn",
+        "theme": "jumping_unicorn",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/jumping_unicorn_001/original.jpg",
+          "sha256": "7531448363ba6ec9d6a9be8d1fc75c8127ca3df4a71731b5b43b8ca7d2ed4538",
+          "sizeBytes": 159091
+        },
+        "alteredImage": {
+          "path": "images/jumping_unicorn_001/altered.jpg",
+          "sha256": "f481502c78f7dd5fe7dfeb2500baa2a0a5eed88e03ede1d5bc68c8ccf69d617b",
+          "sizeBytes": 165310
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3125,
+            "yFrac": 0.2269,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8254,
+            "yFrac": 0.3313,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3571,
+            "yFrac": 0.5853,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8314,
+            "yFrac": 0.5128,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0977,
+            "yFrac": 0.728,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6157,
+            "yFrac": 0.7222,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851482"
+        }
+      }
+    },
+    {
+      "id": "kangaroo_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Kangaroo Animal",
+        "theme": "kangaroo_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/kangaroo_animal_001/original.jpg",
+          "sha256": "3d24e279ac190cdb9a9231359f591baf53a5b178d57396339072ed167bbcecf2",
+          "sizeBytes": 130560
+        },
+        "alteredImage": {
+          "path": "images/kangaroo_animal_001/altered.jpg",
+          "sha256": "43d8d3b07b11295f6d3fa6fefe93833f3772c1c25503243ac80f3616711a942c",
+          "sizeBytes": 139607
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.201,
+            "yFrac": 0.1189,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8596,
+            "yFrac": 0.1756,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4651,
+            "yFrac": 0.3354,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1459,
+            "yFrac": 0.4261,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8353,
+            "yFrac": 0.5779,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6659,
+            "yFrac": 0.6702,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1452,
+            "yFrac": 0.8073,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5519,
+            "yFrac": 0.9318,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325658"
+        }
+      }
+    },
+    {
+      "id": "killer_whale_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Killer Whale Animal",
+        "theme": "killer_whale_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/killer_whale_animal_001/original.jpg",
+          "sha256": "fa8a32a956cdd6486a26639e26da0850c7f4e7bedfa91f3c1ce2e2f3bf0eeafd",
+          "sizeBytes": 142491
+        },
+        "alteredImage": {
+          "path": "images/killer_whale_animal_001/altered.jpg",
+          "sha256": "578085c3178dc6d0307434b0da1de939299a530077509f41f9dc0ac8cf4a711f",
+          "sizeBytes": 151471
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3189,
+            "yFrac": 0.107,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0766,
+            "yFrac": 0.1764,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1762,
+            "yFrac": 0.3837,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3481,
+            "yFrac": 0.4567,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2809,
+            "yFrac": 0.8143,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6759,
+            "yFrac": 0.7879,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5511,
+            "yFrac": 0.8993,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9032,
+            "yFrac": 0.8822,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667383"
+        }
+      }
+    },
+    {
+      "id": "killer_whale_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Killer Whale Animal",
+        "theme": "killer_whale_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/killer_whale_animal_002/original.jpg",
+          "sha256": "dc0330068161255efadc385c4a8fc8a723c5d6c3fc31556184166201e7fd6d51",
+          "sizeBytes": 207988
+        },
+        "alteredImage": {
+          "path": "images/killer_whale_animal_002/altered.jpg",
+          "sha256": "c4b6abe92c41c076cbf73f32ffc0806d3b3da2c7707474a70a5ee632c4a112c6",
+          "sizeBytes": 200552
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6507,
+            "yFrac": 0.131,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1486,
+            "yFrac": 0.3268,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6447,
+            "yFrac": 0.3506,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.066,
+            "yFrac": 0.5378,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4885,
+            "yFrac": 0.5861,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8585,
+            "yFrac": 0.8105,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1729,
+            "yFrac": 0.9034,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5296,
+            "yFrac": 0.8672,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152706"
+        }
+      }
+    },
+    {
+      "id": "knight_and_princess_horse_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight And Princess Horse",
+        "theme": "knight_and_princess_horse",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_and_princess_horse_001/original.jpg",
+          "sha256": "912a47f6c31842d02661f1a1b7972696ec6e58ab771710a7928064b0fa3efa1e",
+          "sizeBytes": 214340
+        },
+        "alteredImage": {
+          "path": "images/knight_and_princess_horse_001/altered.jpg",
+          "sha256": "332056de408d54cb41a27ae5a56155fbb3c6d47ca60ab8c65fa7d4a780afed7c",
+          "sizeBytes": 218520
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1035,
+            "yFrac": 0.0827,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5632,
+            "yFrac": 0.1627,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1927,
+            "yFrac": 0.2168,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9015,
+            "yFrac": 0.3174,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.431,
+            "yFrac": 0.3691,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3387,
+            "yFrac": 0.5586,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6518,
+            "yFrac": 0.6189,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1121,
+            "yFrac": 0.8302,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325587"
+        }
+      }
+    },
+    {
+      "id": "knight_attacking_pose_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight Attacking Pose",
+        "theme": "knight_attacking_pose",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_attacking_pose_001/original.jpg",
+          "sha256": "b7fb42d3c97969bf584b3e0845f03d6a5662f50bf9ea09f6c4d9435bdae5cf15",
+          "sizeBytes": 200524
+        },
+        "alteredImage": {
+          "path": "images/knight_attacking_pose_001/altered.jpg",
+          "sha256": "c4939c83493dbd07e58f27677a5f9623dabff9957144a76164aff9d1c42aae9d",
+          "sizeBytes": 199837
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3374,
+            "yFrac": 0.2503,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6663,
+            "yFrac": 0.2748,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2355,
+            "yFrac": 0.5477,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8196,
+            "yFrac": 0.5639,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7391,
+            "yFrac": 0.8361,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2677,
+            "yFrac": 0.9328,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325373"
+        }
+      }
+    },
+    {
+      "id": "knight_guarding_a_gate_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight Guarding A Gate",
+        "theme": "knight_guarding_a_gate",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_guarding_a_gate_001/original.jpg",
+          "sha256": "b341a4c2c4e8fcbaccafef98d8cc0495ec794872cd7a014865563ee3c080c594",
+          "sizeBytes": 189366
+        },
+        "alteredImage": {
+          "path": "images/knight_guarding_a_gate_001/altered.jpg",
+          "sha256": "09ba28ab686598dc2f585ba3cf8cbce8062a7c0112bf59835c0f613b92374b30",
+          "sizeBytes": 191424
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4974,
+            "yFrac": 0.0735,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6574,
+            "yFrac": 0.2666,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2264,
+            "yFrac": 0.4058,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3772,
+            "yFrac": 0.5363,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7247,
+            "yFrac": 0.5607,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.478,
+            "yFrac": 0.9204,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325642"
+        }
+      }
+    },
+    {
+      "id": "knight_holding_axe_and_shield_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight Holding Axe And Shield",
+        "theme": "knight_holding_axe_and_shield",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_holding_axe_and_shield_001/original.jpg",
+          "sha256": "d2b73b36f2bc05c5419c0c6f5c0b566470853f36220d8ee83193486f29fd3eb5",
+          "sizeBytes": 162867
+        },
+        "alteredImage": {
+          "path": "images/knight_holding_axe_and_shield_001/altered.jpg",
+          "sha256": "c19bb6c527c1fb75012df9c548fc82a2d7104cdc53e49b70fba7694cd52c74fb",
+          "sizeBytes": 165749
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5301,
+            "yFrac": 0.0656,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1223,
+            "yFrac": 0.1278,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9556,
+            "yFrac": 0.2486,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6072,
+            "yFrac": 0.3369,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0834,
+            "yFrac": 0.4256,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4432,
+            "yFrac": 0.5772,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1548,
+            "yFrac": 0.7709,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8782,
+            "yFrac": 0.8996,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325464"
+        }
+      }
+    },
+    {
+      "id": "knight_in_a_fighting_pose_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight In A Fighting Pose",
+        "theme": "knight_in_a_fighting_pose",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_in_a_fighting_pose_001/original.jpg",
+          "sha256": "2a15bfb1bdcdc54e08f808650b999d9aa0ca26a3a77040401463c39253f2ee0d",
+          "sizeBytes": 204967
+        },
+        "alteredImage": {
+          "path": "images/knight_in_a_fighting_pose_001/altered.jpg",
+          "sha256": "d3230671571a86532121495f32f5b935d113e16c1fdd19fb22c689f703a55956",
+          "sizeBytes": 211173
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5656,
+            "yFrac": 0.1599,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1947,
+            "yFrac": 0.3053,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8821,
+            "yFrac": 0.4934,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2136,
+            "yFrac": 0.6141,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5205,
+            "yFrac": 0.8194,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8149,
+            "yFrac": 0.9659,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325302"
+        }
+      }
+    },
+    {
+      "id": "knight_on_a_horse_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight On A Horse",
+        "theme": "knight_on_a_horse",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_on_a_horse_001/original.jpg",
+          "sha256": "bc77e43843d9da35da0cde7406282d9bad8b20b070862816c97a492c73779e76",
+          "sizeBytes": 175625
+        },
+        "alteredImage": {
+          "path": "images/knight_on_a_horse_001/altered.jpg",
+          "sha256": "27e4733a7ba014450289e8ac3323a8269621a7998f03cc540b9a2a5f54247e82",
+          "sizeBytes": 177947
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5437,
+            "yFrac": 0.2282,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8134,
+            "yFrac": 0.3041,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0664,
+            "yFrac": 0.3937,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5878,
+            "yFrac": 0.4485,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3606,
+            "yFrac": 0.5171,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6412,
+            "yFrac": 0.6515,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1891,
+            "yFrac": 0.6704,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9039,
+            "yFrac": 0.7776,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5438,
+            "yFrac": 0.817,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.2772,
+            "yFrac": 0.9477,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325408"
+        }
+      }
+    },
+    {
+      "id": "knight_with_an_eagle_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Knight With An Eagle",
+        "theme": "knight_with_an_eagle",
+        "imageWidth": 886,
+        "imageHeight": 1201,
+        "originalImage": {
+          "path": "images/knight_with_an_eagle_001/original.jpg",
+          "sha256": "bcab816fb9d32777259634991ef56a588fe57fa84d00ca29cf5a7530c8257cda",
+          "sizeBytes": 201576
+        },
+        "alteredImage": {
+          "path": "images/knight_with_an_eagle_001/altered.jpg",
+          "sha256": "87cef7beefc8eee1edbed3ac4d94aebf4e70d92f8f9957d8e98e7ab8a44fa544",
+          "sizeBytes": 205576
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1695,
+            "yFrac": 0.0913,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5449,
+            "yFrac": 0.2599,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1091,
+            "yFrac": 0.3755,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3789,
+            "yFrac": 0.5261,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8143,
+            "yFrac": 0.5017,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7048,
+            "yFrac": 0.7021,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2721,
+            "yFrac": 0.9144,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.836,
+            "yFrac": 0.8977,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325460"
+        }
+      }
+    },
+    {
+      "id": "koala_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Koala Animal",
+        "theme": "koala_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/koala_animal_001/original.jpg",
+          "sha256": "3adc9282e8b312ee12befae72c3410dc9b6a5309007ad1ebff255455b36ff057",
+          "sizeBytes": 134318
+        },
+        "alteredImage": {
+          "path": "images/koala_animal_001/altered.jpg",
+          "sha256": "09447754491b64069493e6e5e0c27968a24ddc87ce9f0516b9435de09b361c6a",
+          "sizeBytes": 145700
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1119,
+            "yFrac": 0.0747,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5403,
+            "yFrac": 0.0584,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8864,
+            "yFrac": 0.1408,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3265,
+            "yFrac": 0.2836,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1054,
+            "yFrac": 0.3949,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4911,
+            "yFrac": 0.4425,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0789,
+            "yFrac": 0.7325,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.749,
+            "yFrac": 0.7172,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8885,
+            "yFrac": 0.8378,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.6171,
+            "yFrac": 0.9212,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325261"
+        }
+      }
+    },
+    {
+      "id": "labrador_retriever_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Labrador Retriever Dog",
+        "theme": "labrador_retriever_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/labrador_retriever_dog_001/original.jpg",
+          "sha256": "56cd7af4ffc2c7ef1e9b7a2f201696081c2b3c8ae90285611f6c48bab2a0e3b0",
+          "sizeBytes": 138640
+        },
+        "alteredImage": {
+          "path": "images/labrador_retriever_dog_001/altered.jpg",
+          "sha256": "5d62ece6d7701603d4af582241ad22700c50fe31513fb0a2f441438916f2fc5b",
+          "sizeBytes": 146133
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6635,
+            "yFrac": 0.0883,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4098,
+            "yFrac": 0.2432,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1285,
+            "yFrac": 0.3381,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.321,
+            "yFrac": 0.3318,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8543,
+            "yFrac": 0.3738,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1175,
+            "yFrac": 0.6576,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9487,
+            "yFrac": 0.735,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3148,
+            "yFrac": 0.7828,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6125,
+            "yFrac": 0.8054,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8635,
+            "yFrac": 0.9484,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34812267"
+        }
+      }
+    },
+    {
+      "id": "leprechaun_holding_shamrock_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Leprechaun Holding Shamrock",
+        "theme": "leprechaun_holding_shamrock",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/leprechaun_holding_shamrock_001/original.jpg",
+          "sha256": "81c51d32abaa0a7100e1d86be51134ec2cf4c1995a1e4c07354f424c54a5e08f",
+          "sizeBytes": 184536
+        },
+        "alteredImage": {
+          "path": "images/leprechaun_holding_shamrock_001/altered.jpg",
+          "sha256": "a5353f4f73f37a6cbf8082f67015acf2113077b3c277784b3a5383632861c6ed",
+          "sizeBytes": 184118
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3567,
+            "yFrac": 0.174,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.763,
+            "yFrac": 0.3741,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4729,
+            "yFrac": 0.4962,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1693,
+            "yFrac": 0.5584,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3482,
+            "yFrac": 0.5823,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7438,
+            "yFrac": 0.567,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1638,
+            "yFrac": 0.8252,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.498,
+            "yFrac": 0.8008,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22670741"
+        }
+      }
+    },
+    {
+      "id": "leprechaun_on_a_rainbow_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Leprechaun On A Rainbow",
+        "theme": "leprechaun_on_a_rainbow",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/leprechaun_on_a_rainbow_001/original.jpg",
+          "sha256": "e3aa4461065b6483edd9fa0577cadb30256ada24c91b51a45c54e8638fa9d22e",
+          "sizeBytes": 139840
+        },
+        "alteredImage": {
+          "path": "images/leprechaun_on_a_rainbow_001/altered.jpg",
+          "sha256": "604d6c705c441611538614762104c85b212ddc91903d03ba8058ec18821b2d19",
+          "sizeBytes": 139148
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4406,
+            "yFrac": 0.041,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7159,
+            "yFrac": 0.0858,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5919,
+            "yFrac": 0.3334,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.082,
+            "yFrac": 0.3397,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5548,
+            "yFrac": 0.59,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8743,
+            "yFrac": 0.8163,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/21501656"
+        }
+      }
+    },
+    {
+      "id": "lhasa_apso_dog_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Lhasa Apso Dog",
+        "theme": "lhasa_apso_dog",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/lhasa_apso_dog_001/original.jpg",
+          "sha256": "873c0fd5853c72c4b6bf36d5e266d6987c4851c4d6e5aefb35ba9b9a7e45d2dd",
+          "sizeBytes": 131722
+        },
+        "alteredImage": {
+          "path": "images/lhasa_apso_dog_001/altered.jpg",
+          "sha256": "ef5b844bb789fd02128db0675a0a04c34a6e1e44a1028f18ce95e08a3a0a6460",
+          "sizeBytes": 138951
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.302,
+            "yFrac": 0.0969,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4606,
+            "yFrac": 0.2495,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.728,
+            "yFrac": 0.1943,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1111,
+            "yFrac": 0.3031,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9562,
+            "yFrac": 0.2711,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7267,
+            "yFrac": 0.3776,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2034,
+            "yFrac": 0.4511,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8341,
+            "yFrac": 0.6443,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4583,
+            "yFrac": 0.8456,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1045,
+            "yFrac": 0.9083,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584271"
+        }
+      }
+    },
+    {
+      "id": "lufengosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Lufengosaurus Dinosaur",
+        "theme": "lufengosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/lufengosaurus_dinosaur_001/original.jpg",
+          "sha256": "fc905b414390aa0e11acf839a9cfa0368bd9db3aa01f5e9ea547f0f5b89feec8",
+          "sizeBytes": 158788
+        },
+        "alteredImage": {
+          "path": "images/lufengosaurus_dinosaur_001/altered.jpg",
+          "sha256": "99fccbdc9e6760fe823325082f35a389fd5906690afc7aa7ac08f03934844cc8",
+          "sizeBytes": 161426
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.841,
+            "yFrac": 0.0568,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1453,
+            "yFrac": 0.1158,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4551,
+            "yFrac": 0.2083,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8338,
+            "yFrac": 0.2289,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7103,
+            "yFrac": 0.4213,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0733,
+            "yFrac": 0.4399,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7037,
+            "yFrac": 0.7394,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.971,
+            "yFrac": 0.7211,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1377,
+            "yFrac": 0.7765,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.3073,
+            "yFrac": 0.8745,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329347"
+        }
+      }
+    },
+    {
+      "id": "manatee_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Manatee Animal",
+        "theme": "manatee_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/manatee_animal_001/original.jpg",
+          "sha256": "9b1b51ceb6f4425532b9361de5ad83f76397fa62910433e7c9d754931138ebad",
+          "sizeBytes": 117792
+        },
+        "alteredImage": {
+          "path": "images/manatee_animal_001/altered.jpg",
+          "sha256": "f122a168373a158f71fb2b8ea985d369f3b38b48ffc5145f8b87ec6ca8dade95",
+          "sizeBytes": 118653
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3608,
+            "yFrac": 0.2445,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5063,
+            "yFrac": 0.2051,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3042,
+            "yFrac": 0.471,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5627,
+            "yFrac": 0.7565,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8468,
+            "yFrac": 0.7399,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1054,
+            "yFrac": 0.8272,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667366"
+        }
+      }
+    },
+    {
+      "id": "manatee_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Manatee Animal",
+        "theme": "manatee_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/manatee_animal_002/original.jpg",
+          "sha256": "4f6f32b431876f040ba4cf417b2df23798cb8b96353f9a3d1c14e7316872d1e4",
+          "sizeBytes": 247692
+        },
+        "alteredImage": {
+          "path": "images/manatee_animal_002/altered.jpg",
+          "sha256": "5018a17ee92c32bc6cc104cc4e567a8cad59a3ca783fb38a0e410f1ccf4eea20",
+          "sizeBytes": 247714
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2562,
+            "yFrac": 0.1751,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6565,
+            "yFrac": 0.2713,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9561,
+            "yFrac": 0.2562,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1807,
+            "yFrac": 0.5961,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7862,
+            "yFrac": 0.6323,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.31,
+            "yFrac": 0.8656,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152647"
+        }
+      }
+    },
+    {
+      "id": "manta_ray_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Manta Ray Animal",
+        "theme": "manta_ray_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/manta_ray_animal_001/original.jpg",
+          "sha256": "80be5d29dd5d339d563015762b880f008f7960829c5128166ef3457fed716ae1",
+          "sizeBytes": 131595
+        },
+        "alteredImage": {
+          "path": "images/manta_ray_animal_001/altered.jpg",
+          "sha256": "132ccad1527b34b41ba3f42170fb67d885819952324947e37b5c78867bc52238",
+          "sizeBytes": 129067
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3797,
+            "yFrac": 0.1444,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8895,
+            "yFrac": 0.2463,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4783,
+            "yFrac": 0.3056,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3238,
+            "yFrac": 0.3507,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1328,
+            "yFrac": 0.466,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5621,
+            "yFrac": 0.4661,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2415,
+            "yFrac": 0.7779,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8085,
+            "yFrac": 0.7809,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4079,
+            "yFrac": 0.9073,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.6393,
+            "yFrac": 0.9016,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22667356"
+        }
+      }
+    },
+    {
+      "id": "mermaid_girls_playing_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Girls Playing",
+        "theme": "mermaid_girls_playing",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_girls_playing_001/original.jpg",
+          "sha256": "b274ec608512101b2e82d898d1248735c2c5e5603343fb36311b268faf15fa31",
+          "sizeBytes": 294456
+        },
+        "alteredImage": {
+          "path": "images/mermaid_girls_playing_001/altered.jpg",
+          "sha256": "12fe03b30e50b66695192289f69b1e2e9ce337ec4f038dbe3fe99b1a88d918e5",
+          "sizeBytes": 287095
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4452,
+            "yFrac": 0.1081,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7604,
+            "yFrac": 0.2207,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0883,
+            "yFrac": 0.3438,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8113,
+            "yFrac": 0.5617,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3703,
+            "yFrac": 0.9615,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7915,
+            "yFrac": 0.9586,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329349"
+        }
+      }
+    },
+    {
+      "id": "mermaid_holding_trident_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Holding Trident",
+        "theme": "mermaid_holding_trident",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_holding_trident_001/original.jpg",
+          "sha256": "0fb564f89791eefe6b0e1cbc98eb0d0887a9e18a7031c3e6374e59cc4af5db6b",
+          "sizeBytes": 186779
+        },
+        "alteredImage": {
+          "path": "images/mermaid_holding_trident_001/altered.jpg",
+          "sha256": "4d0361c0c5d886b25016747664e0a80892a2b9d2acc708ecee7acf09510b7266",
+          "sizeBytes": 189945
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6773,
+            "yFrac": 0.0603,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2126,
+            "yFrac": 0.2104,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.517,
+            "yFrac": 0.2539,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8907,
+            "yFrac": 0.2697,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1167,
+            "yFrac": 0.517,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4334,
+            "yFrac": 0.5693,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8842,
+            "yFrac": 0.5264,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5305,
+            "yFrac": 0.8717,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7802,
+            "yFrac": 0.8914,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1904,
+            "yFrac": 0.9517,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329017"
+        }
+      }
+    },
+    {
+      "id": "mermaid_princess_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Princess",
+        "theme": "mermaid_princess",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_princess_001/original.jpg",
+          "sha256": "93972bdb0c1fc62548fe42336f0e954b6266ea9e37c02756e4e39b222b1eb76e",
+          "sizeBytes": 294211
+        },
+        "alteredImage": {
+          "path": "images/mermaid_princess_001/altered.jpg",
+          "sha256": "d77053160548b836d47142e3f8265590b338809ddce023fe5f2ecb33c3e881a5",
+          "sizeBytes": 288878
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3321,
+            "yFrac": 0.0622,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5804,
+            "yFrac": 0.0533,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.855,
+            "yFrac": 0.0773,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.062,
+            "yFrac": 0.2968,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4591,
+            "yFrac": 0.4173,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0781,
+            "yFrac": 0.5298,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9405,
+            "yFrac": 0.5385,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2255,
+            "yFrac": 0.6232,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.5803,
+            "yFrac": 0.6304,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.3261,
+            "yFrac": 0.8708,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329320"
+        }
+      }
+    },
+    {
+      "id": "mermaid_reading_book_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Reading Book",
+        "theme": "mermaid_reading_book",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_reading_book_001/original.jpg",
+          "sha256": "beded4798770c80242c3e43a8a84a9914763b253b976facc236d4154d913d976",
+          "sizeBytes": 286724
+        },
+        "alteredImage": {
+          "path": "images/mermaid_reading_book_001/altered.jpg",
+          "sha256": "e160a2fdfbc82e6608548e19c41fb0bca4e5053e22708dcc35c0719b23600d97",
+          "sizeBytes": 286471
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5101,
+            "yFrac": 0.0963,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.34,
+            "yFrac": 0.2285,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.662,
+            "yFrac": 0.2106,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0974,
+            "yFrac": 0.3115,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8409,
+            "yFrac": 0.505,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2734,
+            "yFrac": 0.5787,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5094,
+            "yFrac": 0.5968,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1175,
+            "yFrac": 0.8208,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6078,
+            "yFrac": 0.7962,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9304,
+            "yFrac": 0.8402,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329376"
+        }
+      }
+    },
+    {
+      "id": "mermaid_riding_in_a_seashell_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Riding In A Seashell",
+        "theme": "mermaid_riding_in_a_seashell",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_riding_in_a_seashell_001/original.jpg",
+          "sha256": "d7e99e98c1f395e48ed04ddf06474dc68bda3e0701f78d79a75034d3da1264b0",
+          "sizeBytes": 251857
+        },
+        "alteredImage": {
+          "path": "images/mermaid_riding_in_a_seashell_001/altered.jpg",
+          "sha256": "ae2875201420c3c0279f0ff2a7208184c94782d6701949b41e4449f4c9557f7d",
+          "sizeBytes": 250159
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4793,
+            "yFrac": 0.0653,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7675,
+            "yFrac": 0.2762,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5221,
+            "yFrac": 0.4054,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.822,
+            "yFrac": 0.4987,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2471,
+            "yFrac": 0.6766,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6477,
+            "yFrac": 0.9628,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329354"
+        }
+      }
+    },
+    {
+      "id": "mermaid_sleeping_in_a_shell_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Sleeping In A Shell",
+        "theme": "mermaid_sleeping_in_a_shell",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_sleeping_in_a_shell_001/original.jpg",
+          "sha256": "1a010e5daa285f468554c3d1d66269fb69c616fe2d0006e96ba9695955e4716b",
+          "sizeBytes": 271557
+        },
+        "alteredImage": {
+          "path": "images/mermaid_sleeping_in_a_shell_001/altered.jpg",
+          "sha256": "f08b255f0f9470e73b440e7c71973a803c70cacf97052df0a5ba2571bc032ff5",
+          "sizeBytes": 270776
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4071,
+            "yFrac": 0.0377,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8264,
+            "yFrac": 0.0777,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6008,
+            "yFrac": 0.3392,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.896,
+            "yFrac": 0.3294,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0518,
+            "yFrac": 0.3627,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3195,
+            "yFrac": 0.3553,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.444,
+            "yFrac": 0.3569,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3976,
+            "yFrac": 0.5735,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6837,
+            "yFrac": 0.848,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4127,
+            "yFrac": 0.8877,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329378"
+        }
+      }
+    },
+    {
+      "id": "mermaid_unicorn_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid Unicorn Mermaid",
+        "theme": "mermaid_unicorn_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_unicorn_mermaid_001/original.jpg",
+          "sha256": "19e4246f44b67f067b8f7e20235a451ba712c56d6d817b843bee3071d7da7874",
+          "sizeBytes": 275686
+        },
+        "alteredImage": {
+          "path": "images/mermaid_unicorn_mermaid_001/altered.jpg",
+          "sha256": "b030f358528c852693788a54a8bf9b2277555bc01b819f71717592026487c0d7",
+          "sizeBytes": 271957
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2815,
+            "yFrac": 0.1468,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5842,
+            "yFrac": 0.1056,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8538,
+            "yFrac": 0.5633,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.099,
+            "yFrac": 0.6627,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5705,
+            "yFrac": 0.6743,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9032,
+            "yFrac": 0.9528,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329335"
+        }
+      }
+    },
+    {
+      "id": "mermaid_with_a_baby_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid With A Baby",
+        "theme": "mermaid_with_a_baby",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_with_a_baby_001/original.jpg",
+          "sha256": "71100ca5ff8f8ac70cee8dcc2176f6fec0a17390a2d30df44d839dc0d811f96b",
+          "sizeBytes": 290933
+        },
+        "alteredImage": {
+          "path": "images/mermaid_with_a_baby_001/altered.jpg",
+          "sha256": "9b2e18b0d4f181b30664ab1c9f61689e1277b7accbaa2e0cc5acc82b4777fe0c",
+          "sizeBytes": 290254
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6453,
+            "yFrac": 0.0685,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.05,
+            "yFrac": 0.1452,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8547,
+            "yFrac": 0.1364,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7423,
+            "yFrac": 0.4215,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4032,
+            "yFrac": 0.4969,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9087,
+            "yFrac": 0.444,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0718,
+            "yFrac": 0.5411,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5869,
+            "yFrac": 0.6592,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.2615,
+            "yFrac": 0.8504,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4782,
+            "yFrac": 0.9425,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329389"
+        }
+      }
+    },
+    {
+      "id": "mermaid_with_a_treasure_box_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Mermaid With A Treasure Box",
+        "theme": "mermaid_with_a_treasure_box",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/mermaid_with_a_treasure_box_001/original.jpg",
+          "sha256": "04ac4e95a9230e92f3259041421237b7d9b2d53c03e33665c27a9eb546d19f08",
+          "sizeBytes": 293930
+        },
+        "alteredImage": {
+          "path": "images/mermaid_with_a_treasure_box_001/altered.jpg",
+          "sha256": "df041e488a7ca5c7489001cc7628f66d832653eb27ec4e2e455f136b1ffafa2f",
+          "sizeBytes": 292733
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3985,
+            "yFrac": 0.0862,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8814,
+            "yFrac": 0.2253,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.3055,
+            "yFrac": 0.3758,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9648,
+            "yFrac": 0.4299,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3305,
+            "yFrac": 0.5296,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4734,
+            "yFrac": 0.653,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1008,
+            "yFrac": 0.7105,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6312,
+            "yFrac": 0.7768,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329313"
+        }
+      }
     }
   ]
 }
