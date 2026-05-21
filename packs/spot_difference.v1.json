@@ -27052,6 +27052,4384 @@
           "assetUrl": "https://www.vecteezy.com/vector-art/23851489"
         }
       }
+    },
+    {
+      "id": "stegosaurus_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Stegosaurus Dinosaur",
+        "theme": "stegosaurus_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/stegosaurus_dinosaur_001/original.jpg",
+          "sha256": "4969b0fd470c98c20b732f01356c702561d4a1a2cf543864620c386d2bca13ec",
+          "sizeBytes": 141533
+        },
+        "alteredImage": {
+          "path": "images/stegosaurus_dinosaur_001/altered.jpg",
+          "sha256": "ec52758131520c5a88a3d79a20b8a8eb55203485dc44f75a04df6fec6c85ff6a",
+          "sizeBytes": 149728
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6404,
+            "yFrac": 0.0924,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2135,
+            "yFrac": 0.2096,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8839,
+            "yFrac": 0.3269,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6368,
+            "yFrac": 0.3936,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.0605,
+            "yFrac": 0.4836,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4059,
+            "yFrac": 0.5589,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8338,
+            "yFrac": 0.5601,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1337,
+            "yFrac": 0.7182,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.373,
+            "yFrac": 0.7362,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.7643,
+            "yFrac": 0.8877,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329054"
+        }
+      }
+    },
+    {
+      "id": "superhero_girl_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Superhero Girl",
+        "theme": "superhero_girl",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/superhero_girl_001/original.jpg",
+          "sha256": "a67927e991eb825448c4baec7ec9cb8a6c670cea6a5806fbe008e785bac3bc33",
+          "sizeBytes": 138302
+        },
+        "alteredImage": {
+          "path": "images/superhero_girl_001/altered.jpg",
+          "sha256": "1d8dc4221bd4f2dab430d460bbe1547cfa26b870be2e5440d6440558bdd6044c",
+          "sizeBytes": 144052
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2952,
+            "yFrac": 0.0684,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4498,
+            "yFrac": 0.3386,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7171,
+            "yFrac": 0.2797,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1001,
+            "yFrac": 0.4017,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4838,
+            "yFrac": 0.5319,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5081,
+            "yFrac": 0.7664,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6178,
+            "yFrac": 0.8041,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8269,
+            "yFrac": 0.9084,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34328597"
+        }
+      }
+    },
+    {
+      "id": "swamp_monster_halloween_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Swamp Monster Halloween",
+        "theme": "swamp_monster_halloween",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/swamp_monster_halloween_001/original.jpg",
+          "sha256": "44b1dc0fadd9c0386f3b97fb2c803a869798f91ec3c542ea3d2ffacf7eefe7cc",
+          "sizeBytes": 147269
+        },
+        "alteredImage": {
+          "path": "images/swamp_monster_halloween_001/altered.jpg",
+          "sha256": "fd47948713e167960ab68a96a10a92e7ab593c1c0ef08054ce024f48762a2eb2",
+          "sizeBytes": 149547
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2563,
+            "yFrac": 0.1331,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6489,
+            "yFrac": 0.1951,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1039,
+            "yFrac": 0.3193,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5463,
+            "yFrac": 0.4596,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3702,
+            "yFrac": 0.618,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6774,
+            "yFrac": 0.71,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4508,
+            "yFrac": 0.8202,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7474,
+            "yFrac": 0.8478,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/25374826"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_acorn_fruit_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Acorn Fruit",
+        "theme": "thanksgiving_acorn_fruit",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_acorn_fruit_001/original.jpg",
+          "sha256": "8b1be08ec40122667843302addcbeb6001fdf332da3df7400a543b77b5247390",
+          "sizeBytes": 200143
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_acorn_fruit_001/altered.jpg",
+          "sha256": "d56310ced8327a47f2d7c613b6dff036b4ed9628fa8fa28b3afe5acc47ccd24f",
+          "sizeBytes": 200198
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4978,
+            "yFrac": 0.0727,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6856,
+            "yFrac": 0.3934,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.437,
+            "yFrac": 0.4535,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6317,
+            "yFrac": 0.6316,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9064,
+            "yFrac": 0.6331,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3487,
+            "yFrac": 0.8758,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152654"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_autumn_leaves_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Autumn Leaves",
+        "theme": "thanksgiving_autumn_leaves",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_autumn_leaves_001/original.jpg",
+          "sha256": "d3b8e1c637d435dbf1440eebbb7f83f0efd1c36d53ebf1dd01700676dc509980",
+          "sizeBytes": 243926
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_autumn_leaves_001/altered.jpg",
+          "sha256": "2aac0594614dd17f793a9f3168bd0d92fb68f92044522514890268f15fd2f1e1",
+          "sizeBytes": 241309
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7375,
+            "yFrac": 0.1332,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2591,
+            "yFrac": 0.2052,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5516,
+            "yFrac": 0.2622,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8906,
+            "yFrac": 0.458,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1029,
+            "yFrac": 0.5587,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5813,
+            "yFrac": 0.5996,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9314,
+            "yFrac": 0.7848,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2674,
+            "yFrac": 0.9472,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152641"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_baked_bread_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Baked Bread",
+        "theme": "thanksgiving_baked_bread",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_baked_bread_001/original.jpg",
+          "sha256": "534cd03bad903e6133afbc9b3940d205a4b1ddfe57c66ab1fb6ad4f1b723bf16",
+          "sizeBytes": 215572
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_baked_bread_001/altered.jpg",
+          "sha256": "d57bb2fbc475bcd32e7aede53bc4f9a38a7c9fe3dbaebd906c2c986aff2b684c",
+          "sizeBytes": 215842
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1166,
+            "yFrac": 0.0767,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8905,
+            "yFrac": 0.0727,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4192,
+            "yFrac": 0.1956,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4096,
+            "yFrac": 0.3298,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1925,
+            "yFrac": 0.4543,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5117,
+            "yFrac": 0.5452,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8343,
+            "yFrac": 0.5332,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0728,
+            "yFrac": 0.7339,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.603,
+            "yFrac": 0.8431,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8687,
+            "yFrac": 0.9419,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152646"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_centerpiece_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Centerpiece",
+        "theme": "thanksgiving_centerpiece",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_centerpiece_001/original.jpg",
+          "sha256": "3e3592e4edba8d6fc815b7cf8296ef7717c39c0e41eaa271de5d80135ded9f4d",
+          "sizeBytes": 95869
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_centerpiece_001/altered.jpg",
+          "sha256": "753db77a0892be3aee65ff5ba0006583d824f1f34466f544236e56fce98f9ba9",
+          "sizeBytes": 95270
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3403,
+            "yFrac": 0.1779,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3285,
+            "yFrac": 0.4201,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4944,
+            "yFrac": 0.3979,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6833,
+            "yFrac": 0.5375,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7349,
+            "yFrac": 0.851,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5739,
+            "yFrac": 0.9541,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152649"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_feast_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Feast",
+        "theme": "thanksgiving_feast",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_feast_001/original.jpg",
+          "sha256": "36058bac1ef31ca2b8074d3b0563e93b85e7489b8f7cf3715af872c1f8321374",
+          "sizeBytes": 147538
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_feast_001/altered.jpg",
+          "sha256": "0efc3cbee0e5ff5188ea72cdc33be870b509aeb9b03b757922c56d5f92139f1a",
+          "sizeBytes": 145869
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1712,
+            "yFrac": 0.1675,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2559,
+            "yFrac": 0.2154,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5627,
+            "yFrac": 0.3389,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8027,
+            "yFrac": 0.5846,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2074,
+            "yFrac": 0.656,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4899,
+            "yFrac": 0.677,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.755,
+            "yFrac": 0.7317,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3314,
+            "yFrac": 0.7857,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6521,
+            "yFrac": 0.7715,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9482,
+            "yFrac": 0.7907,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152689"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_feast_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Feast",
+        "theme": "thanksgiving_feast",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_feast_002/original.jpg",
+          "sha256": "680a2992cf4fd677e353763ec21a378da918aa30f0c9ea3f54bad5173a206002",
+          "sizeBytes": 230693
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_feast_002/altered.jpg",
+          "sha256": "43376e88642a86e8c80025a95909b589c321680f66e93f2806e139dd65c8af87",
+          "sizeBytes": 237251
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1915,
+            "yFrac": 0.0925,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4908,
+            "yFrac": 0.1582,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.887,
+            "yFrac": 0.1846,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.676,
+            "yFrac": 0.286,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6668,
+            "yFrac": 0.4722,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9503,
+            "yFrac": 0.4453,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1066,
+            "yFrac": 0.5804,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.427,
+            "yFrac": 0.5878,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8017,
+            "yFrac": 0.6136,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.2352,
+            "yFrac": 0.8121,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152708"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_harvest_fruit_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Harvest Fruit",
+        "theme": "thanksgiving_harvest_fruit",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_harvest_fruit_001/original.jpg",
+          "sha256": "c066febf765b9cef2d20687c2f28eb33a8be34c509a9a9624600ae54977d2611",
+          "sizeBytes": 226365
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_harvest_fruit_001/altered.jpg",
+          "sha256": "93854f1a74cd810f3f6ac3f213353e1bc80453d89aa476856d4bd540cba77c90",
+          "sizeBytes": 228822
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4365,
+            "yFrac": 0.1029,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7203,
+            "yFrac": 0.0928,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1547,
+            "yFrac": 0.1785,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0617,
+            "yFrac": 0.42,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9393,
+            "yFrac": 0.3607,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.084,
+            "yFrac": 0.6135,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.388,
+            "yFrac": 0.601,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5581,
+            "yFrac": 0.6619,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.2411,
+            "yFrac": 0.839,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.6279,
+            "yFrac": 0.9145,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152637"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_native_american_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Native American",
+        "theme": "thanksgiving_native_american",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_native_american_001/original.jpg",
+          "sha256": "2bb87177373adfa72855e4e1ee337c49ab28cfe4d8b3a05b4364658f43e0dfe2",
+          "sizeBytes": 151660
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_native_american_001/altered.jpg",
+          "sha256": "7863a19af782a79ccc651fa72c8edf7f0696893acdf4875a132d1f745bae9e57",
+          "sizeBytes": 157189
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3048,
+            "yFrac": 0.1424,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8238,
+            "yFrac": 0.0957,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4588,
+            "yFrac": 0.3624,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1336,
+            "yFrac": 0.4491,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7828,
+            "yFrac": 0.7254,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1179,
+            "yFrac": 0.9513,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152644"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_native_american_003",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Native American",
+        "theme": "thanksgiving_native_american",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_native_american_003/original.jpg",
+          "sha256": "04dcfbbd9bd313fc7984c164ed3eaead25d2a816af6fc87e55cf5944a22eb1c8",
+          "sizeBytes": 136535
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_native_american_003/altered.jpg",
+          "sha256": "943a61c12a7756e9967664db3c21e102df460d8d022e975a57200669de21713f",
+          "sizeBytes": 137372
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3763,
+            "yFrac": 0.0626,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.758,
+            "yFrac": 0.316,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2149,
+            "yFrac": 0.3627,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4723,
+            "yFrac": 0.6298,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7269,
+            "yFrac": 0.7182,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.37,
+            "yFrac": 0.9045,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152684"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_owl_pilgrim_hat_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Owl Pilgrim Hat",
+        "theme": "thanksgiving_owl_pilgrim_hat",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_owl_pilgrim_hat_001/original.jpg",
+          "sha256": "4721eb3bce0eb1871658010d3f3839f385659c86e50a63b86d407151516a205a",
+          "sizeBytes": 145005
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_owl_pilgrim_hat_001/altered.jpg",
+          "sha256": "5d264ebe469d39405149f6d2c73b576f9c93b6946e37ac3db8fe486c9c5974cd",
+          "sizeBytes": 149643
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1999,
+            "yFrac": 0.1091,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6294,
+            "yFrac": 0.1587,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8731,
+            "yFrac": 0.1601,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4125,
+            "yFrac": 0.1936,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5546,
+            "yFrac": 0.4155,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1496,
+            "yFrac": 0.4342,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5452,
+            "yFrac": 0.6395,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2176,
+            "yFrac": 0.7967,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.6164,
+            "yFrac": 0.9084,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.8696,
+            "yFrac": 0.8817,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152643"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_pilgrim_boy_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Pilgrim Boy",
+        "theme": "thanksgiving_pilgrim_boy",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_pilgrim_boy_001/original.jpg",
+          "sha256": "0c8a847e7e13492198fe82d92ab2393d32c205aa4e0a0da34f3b08e211da4006",
+          "sizeBytes": 217059
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_pilgrim_boy_001/altered.jpg",
+          "sha256": "b84d3aca2818048e7ca13ddc461bd3770aa9b495dba4b88cf3189e1c49affe40",
+          "sizeBytes": 216635
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4718,
+            "yFrac": 0.048,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0904,
+            "yFrac": 0.2247,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7162,
+            "yFrac": 0.2088,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6819,
+            "yFrac": 0.5726,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1662,
+            "yFrac": 0.6185,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7287,
+            "yFrac": 0.8921,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152668"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_pilgrim_boy_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Pilgrim Boy",
+        "theme": "thanksgiving_pilgrim_boy",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_pilgrim_boy_002/original.jpg",
+          "sha256": "87667294cc08945285910e31ddf349a89b9c38057b136c309a9d9029001d1c6c",
+          "sizeBytes": 148555
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_pilgrim_boy_002/altered.jpg",
+          "sha256": "ad0d1f475cbcdca0e97bc0db660cbed76d7911b0a55fb883a23bef4794da24a6",
+          "sizeBytes": 142371
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.354,
+            "yFrac": 0.1118,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.695,
+            "yFrac": 0.1171,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2085,
+            "yFrac": 0.5088,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4189,
+            "yFrac": 0.6745,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7073,
+            "yFrac": 0.6379,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2752,
+            "yFrac": 0.7035,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6248,
+            "yFrac": 0.8956,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.28,
+            "yFrac": 0.9344,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152671"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_pilgrim_children_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Pilgrim Children",
+        "theme": "thanksgiving_pilgrim_children",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_pilgrim_children_001/original.jpg",
+          "sha256": "05d2346bebf1f7ea48651ebe5de52c6b599d3296bb707751ae1b22f22634ef21",
+          "sizeBytes": 172833
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_pilgrim_children_001/altered.jpg",
+          "sha256": "d521b7e59e1810f422f97f90eb42ce80a2b613cd57f472f4bc7cddc610f1e000",
+          "sizeBytes": 172907
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2129,
+            "yFrac": 0.0715,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7471,
+            "yFrac": 0.2258,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4017,
+            "yFrac": 0.3296,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6229,
+            "yFrac": 0.4243,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2182,
+            "yFrac": 0.6435,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8799,
+            "yFrac": 0.7041,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3454,
+            "yFrac": 0.9214,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7178,
+            "yFrac": 0.9256,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152705"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_pumpkin_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Pumpkin",
+        "theme": "thanksgiving_pumpkin",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_pumpkin_001/original.jpg",
+          "sha256": "fb6745a7f810e4fc01527d086ce3785b6caef341e0c2d42b9783e3ca865b9b17",
+          "sizeBytes": 219369
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_pumpkin_001/altered.jpg",
+          "sha256": "42b779b3ba1585ffd23f96a0188674a77730f78c0021f6d7b4f8e5598ef7320b",
+          "sizeBytes": 216056
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8084,
+            "yFrac": 0.0439,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4265,
+            "yFrac": 0.1031,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.129,
+            "yFrac": 0.18,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3213,
+            "yFrac": 0.2528,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5259,
+            "yFrac": 0.3904,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.248,
+            "yFrac": 0.4347,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7286,
+            "yFrac": 0.7301,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9165,
+            "yFrac": 0.7546,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4341,
+            "yFrac": 0.8043,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.0865,
+            "yFrac": 0.906,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152685"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_pumpkin_pie_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Pumpkin Pie",
+        "theme": "thanksgiving_pumpkin_pie",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_pumpkin_pie_001/original.jpg",
+          "sha256": "f81a803f51b7c2bcdccdd5cea131ade4e66568bf9d073f0ca8186bc4d9785bcb",
+          "sizeBytes": 248747
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_pumpkin_pie_001/altered.jpg",
+          "sha256": "deac2d7f0602f488f3e2471bdd043fee3882a9120cb0a726e74464d4d1d49854",
+          "sizeBytes": 248209
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.0968,
+            "yFrac": 0.1081,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3395,
+            "yFrac": 0.3364,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5241,
+            "yFrac": 0.4122,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8591,
+            "yFrac": 0.4205,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1937,
+            "yFrac": 0.6505,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5273,
+            "yFrac": 0.6381,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9269,
+            "yFrac": 0.7292,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.7331,
+            "yFrac": 0.8712,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152638"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_turkey_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Turkey Animal",
+        "theme": "thanksgiving_turkey_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_turkey_animal_001/original.jpg",
+          "sha256": "b429fa87e909a66c6ecee4881f7a7d08f1512c9955bf909addaa71860987caf1",
+          "sizeBytes": 192828
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_turkey_animal_001/altered.jpg",
+          "sha256": "a74b823c9adf2b0e56dab3c4a86b5cd4ad1b9e06922a628e33b25cb47fe63007",
+          "sizeBytes": 188635
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8611,
+            "yFrac": 0.0787,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.202,
+            "yFrac": 0.1322,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5285,
+            "yFrac": 0.155,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9253,
+            "yFrac": 0.2577,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3219,
+            "yFrac": 0.5057,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.771,
+            "yFrac": 0.4497,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9513,
+            "yFrac": 0.6645,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2281,
+            "yFrac": 0.721,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7677,
+            "yFrac": 0.8461,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.4981,
+            "yFrac": 0.9368,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152699"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_turkey_head_hat_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Turkey Head Hat",
+        "theme": "thanksgiving_turkey_head_hat",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_turkey_head_hat_001/original.jpg",
+          "sha256": "8619023ef173856d59c45b5d98c4402466798d126a47e3517a7bd39e4ad501dc",
+          "sizeBytes": 120705
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_turkey_head_hat_001/altered.jpg",
+          "sha256": "318c867d67a4f4184b1b6417bf44f2a57a250583ebc0386a2e17bcab3d380fb3",
+          "sizeBytes": 116933
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.3522,
+            "yFrac": 0.0737,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.7583,
+            "yFrac": 0.1967,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1049,
+            "yFrac": 0.6424,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6737,
+            "yFrac": 0.5966,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7977,
+            "yFrac": 0.7335,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3585,
+            "yFrac": 0.9126,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152691"
+        }
+      }
+    },
+    {
+      "id": "thanksgiving_turkey_with_pie_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Thanksgiving Turkey With Pie",
+        "theme": "thanksgiving_turkey_with_pie",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/thanksgiving_turkey_with_pie_001/original.jpg",
+          "sha256": "2c0d86f57c00edae6b128209ab74b9579b4abbd5cbec5af2dc6271111737ee28",
+          "sizeBytes": 149980
+        },
+        "alteredImage": {
+          "path": "images/thanksgiving_turkey_with_pie_001/altered.jpg",
+          "sha256": "499d0571696d907473f68abf584e0f3ddc48f33c3acf2eafa169743cb06b9b8c",
+          "sizeBytes": 149968
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8173,
+            "yFrac": 0.1269,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5024,
+            "yFrac": 0.1989,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1946,
+            "yFrac": 0.4207,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4734,
+            "yFrac": 0.4656,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8798,
+            "yFrac": 0.5501,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4121,
+            "yFrac": 0.6024,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6298,
+            "yFrac": 0.7073,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1602,
+            "yFrac": 0.8441,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152687"
+        }
+      }
+    },
+    {
+      "id": "tiger_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Tiger Animal",
+        "theme": "tiger_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/tiger_animal_001/original.jpg",
+          "sha256": "e9443c2e81010fc655392640143eeb879941d6485f2a111036c1afef4e712eeb",
+          "sizeBytes": 193215
+        },
+        "alteredImage": {
+          "path": "images/tiger_animal_001/altered.jpg",
+          "sha256": "d633dcc1fe742643cb33db84d28db4a066f616f099b97aa389e5b93f09e40fd8",
+          "sizeBytes": 194621
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1611,
+            "yFrac": 0.2322,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5636,
+            "yFrac": 0.2061,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7636,
+            "yFrac": 0.342,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4675,
+            "yFrac": 0.4888,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8851,
+            "yFrac": 0.4978,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0609,
+            "yFrac": 0.5163,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8461,
+            "yFrac": 0.7387,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5269,
+            "yFrac": 0.822,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325277"
+        }
+      }
+    },
+    {
+      "id": "triceratops_dinosaur_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Triceratops Dinosaur",
+        "theme": "triceratops_dinosaur",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/triceratops_dinosaur_001/original.jpg",
+          "sha256": "eddbd45e75ca14bc7e9fadf4af5c04046502cc6d6ff18f553b8831bdcbf423a5",
+          "sizeBytes": 150336
+        },
+        "alteredImage": {
+          "path": "images/triceratops_dinosaur_001/altered.jpg",
+          "sha256": "2a73929e583bb464f49845f24a95c07a5e8ae5f34a68fd3f002ca422f5e941ec",
+          "sizeBytes": 153256
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.624,
+            "yFrac": 0.1153,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4896,
+            "yFrac": 0.3973,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2204,
+            "yFrac": 0.4945,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.754,
+            "yFrac": 0.4356,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1609,
+            "yFrac": 0.7293,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8765,
+            "yFrac": 0.7714,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/34329340"
+        }
+      }
+    },
+    {
+      "id": "turkey_farm_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Turkey Farm",
+        "theme": "turkey_farm",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/turkey_farm_001/original.jpg",
+          "sha256": "3d6dc4d9c30e1a70d7207c7c739a2a5a48f141f1f1a52df96c963e3793b3bf9d",
+          "sizeBytes": 134919
+        },
+        "alteredImage": {
+          "path": "images/turkey_farm_001/altered.jpg",
+          "sha256": "ac43d46f9ca60e4ff3ed6c13be56e9728788c6ea1abf801be2093d8b29300fae",
+          "sizeBytes": 135676
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2879,
+            "yFrac": 0.0524,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8727,
+            "yFrac": 0.2083,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0368,
+            "yFrac": 0.308,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9706,
+            "yFrac": 0.3921,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7764,
+            "yFrac": 0.4871,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5045,
+            "yFrac": 0.5413,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.0331,
+            "yFrac": 0.7202,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4166,
+            "yFrac": 0.9075,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/17584614"
+        }
+      }
+    },
+    {
+      "id": "turtle_animal_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Turtle Animal",
+        "theme": "turtle_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/turtle_animal_001/original.jpg",
+          "sha256": "315b050daf7e155dc2927c2a1349b76a1e8200a3d5d34952ba013e1525f7f3b5",
+          "sizeBytes": 140145
+        },
+        "alteredImage": {
+          "path": "images/turtle_animal_001/altered.jpg",
+          "sha256": "0eef219fdc3fa5f477e7d249dc9f8d3799dc658685a7bcc0291a42787d1403b1",
+          "sizeBytes": 146463
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.161,
+            "yFrac": 0.1131,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.8657,
+            "yFrac": 0.1934,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0811,
+            "yFrac": 0.3412,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.4231,
+            "yFrac": 0.3485,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9444,
+            "yFrac": 0.3943,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3436,
+            "yFrac": 0.6748,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.9593,
+            "yFrac": 0.6423,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6939,
+            "yFrac": 0.8152,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1153,
+            "yFrac": 0.8889,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9236,
+            "yFrac": 0.9483,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22666818"
+        }
+      }
+    },
+    {
+      "id": "turtle_animal_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Turtle Animal",
+        "theme": "turtle_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/turtle_animal_002/original.jpg",
+          "sha256": "e69e2fbc28d0de4854940ec30d6f11fd7d6b4f6deae05b0a2ad05639af627f9a",
+          "sizeBytes": 245500
+        },
+        "alteredImage": {
+          "path": "images/turtle_animal_002/altered.jpg",
+          "sha256": "13d3d64be4a8aca3985c68f9a77499550928152d315a641c2e9826c2182e7ea6",
+          "sizeBytes": 241269
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4403,
+            "yFrac": 0.0756,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1282,
+            "yFrac": 0.1681,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.8689,
+            "yFrac": 0.106,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6212,
+            "yFrac": 0.1915,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8985,
+            "yFrac": 0.2723,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1761,
+            "yFrac": 0.4867,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.7434,
+            "yFrac": 0.6065,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3991,
+            "yFrac": 0.7374,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9346,
+            "yFrac": 0.9299,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5188,
+            "yFrac": 0.9375,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/26152701"
+        }
+      }
+    },
+    {
+      "id": "turtle_animal_003",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Turtle Animal",
+        "theme": "turtle_animal",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/turtle_animal_003/original.jpg",
+          "sha256": "2622bba941d51bbeda2a8546a5f028b1117b290df1a698c0c0c57c2bf33b6784",
+          "sizeBytes": 124445
+        },
+        "alteredImage": {
+          "path": "images/turtle_animal_003/altered.jpg",
+          "sha256": "fef9905cd9dc95ce2fa6a8beeb40548e6acab4fb9c4fa35c21a87c53e731fed4",
+          "sizeBytes": 127356
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6342,
+            "yFrac": 0.0595,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4402,
+            "yFrac": 0.2666,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1582,
+            "yFrac": 0.5496,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7722,
+            "yFrac": 0.5243,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7288,
+            "yFrac": 0.7172,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.0605,
+            "yFrac": 0.8134,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.3466,
+            "yFrac": 0.8449,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.644,
+            "yFrac": 0.9552,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/36325455"
+        }
+      }
+    },
+    {
+      "id": "two_rabbit_holding_easter_egg_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Two Rabbit Holding Easter Egg",
+        "theme": "two_rabbit_holding_easter_egg",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/two_rabbit_holding_easter_egg_001/original.jpg",
+          "sha256": "bf9c92f373f9ae10c619ffe2ca33ff58b694fde2bb6273f09636d0e24ee42238",
+          "sizeBytes": 145623
+        },
+        "alteredImage": {
+          "path": "images/two_rabbit_holding_easter_egg_001/altered.jpg",
+          "sha256": "e13c8cc404494836c7378d35bbd88891912b031160f0de172c3ce2d21386bd24",
+          "sizeBytes": 145125
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5202,
+            "yFrac": 0.1167,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.3013,
+            "yFrac": 0.4018,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.712,
+            "yFrac": 0.3674,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2205,
+            "yFrac": 0.513,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8647,
+            "yFrac": 0.5514,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3745,
+            "yFrac": 0.7022,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/19979778"
+        }
+      }
+    },
+    {
+      "id": "ufo_alien_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ufo Alien Space",
+        "theme": "ufo_alien_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ufo_alien_space_001/original.jpg",
+          "sha256": "f9037b0b7003d7c1735e13f49f098ea47ec71b5332d015976745d228e33ef62f",
+          "sizeBytes": 188073
+        },
+        "alteredImage": {
+          "path": "images/ufo_alien_space_001/altered.jpg",
+          "sha256": "b718266b276d1844a4fd4bc75383343aad63283f5b2adc3f3586e93ba4de6e0a",
+          "sizeBytes": 190551
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.2511,
+            "yFrac": 0.075,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5604,
+            "yFrac": 0.0524,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1133,
+            "yFrac": 0.1947,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0926,
+            "yFrac": 0.4847,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4982,
+            "yFrac": 0.4465,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8062,
+            "yFrac": 0.5531,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.499,
+            "yFrac": 0.5991,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6548,
+            "yFrac": 0.7089,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1463,
+            "yFrac": 0.9169,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5703,
+            "yFrac": 0.9508,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22663951"
+        }
+      }
+    },
+    {
+      "id": "ufo_and_asteroid_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ufo And Asteroid In Space",
+        "theme": "ufo_and_asteroid_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ufo_and_asteroid_in_space_001/original.jpg",
+          "sha256": "3e9c94e24e8746fc5c3550060ed760a6f9ca33bdbe17bd06f39bf3f200dc82ac",
+          "sizeBytes": 174052
+        },
+        "alteredImage": {
+          "path": "images/ufo_and_asteroid_in_space_001/altered.jpg",
+          "sha256": "7df38c7fe91712c27ee6ca4c2ee475998ec02d14f7b85fe53bd6781fc66695e3",
+          "sizeBytes": 170018
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5138,
+            "yFrac": 0.1122,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.9159,
+            "yFrac": 0.1458,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0698,
+            "yFrac": 0.1972,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3181,
+            "yFrac": 0.4212,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5926,
+            "yFrac": 0.4312,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8452,
+            "yFrac": 0.5545,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.404,
+            "yFrac": 0.8156,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.1677,
+            "yFrac": 0.9334,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/22715333"
+        }
+      }
+    },
+    {
+      "id": "ufo_vehicle_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Ufo Vehicle",
+        "theme": "ufo_vehicle",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/ufo_vehicle_001/original.jpg",
+          "sha256": "b8a79cd26fc886857425c94b349128ea7239d9ca576d0a6c85d04dbc52ef3a01",
+          "sizeBytes": 90534
+        },
+        "alteredImage": {
+          "path": "images/ufo_vehicle_001/altered.jpg",
+          "sha256": "b45bc3acf9d3b3eedebebd0d45053e405d50eb0c4a113bfec0a2ceefafe9bcea",
+          "sizeBytes": 93056
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8629,
+            "yFrac": 0.1443,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0986,
+            "yFrac": 0.3345,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5597,
+            "yFrac": 0.2751,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7548,
+            "yFrac": 0.3977,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2302,
+            "yFrac": 0.436,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3626,
+            "yFrac": 0.5437,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6518,
+            "yFrac": 0.6573,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.876,
+            "yFrac": 0.7375,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.1241,
+            "yFrac": 0.7762,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.5217,
+            "yFrac": 0.8507,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/27584274"
+        }
+      }
+    },
+    {
+      "id": "unicorn_astronaut_in_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Astronaut In Space",
+        "theme": "unicorn_astronaut_in_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_astronaut_in_space_001/original.jpg",
+          "sha256": "ecbc610678692d8eee365a34c14f71a54c940afbcd54596ed3d202880b1a3b64",
+          "sizeBytes": 143242
+        },
+        "alteredImage": {
+          "path": "images/unicorn_astronaut_in_space_001/altered.jpg",
+          "sha256": "72a15b75705507d2bb648589a4a52442117dbe8f00e2bb800d192a7219c7b292",
+          "sizeBytes": 143489
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1963,
+            "yFrac": 0.0731,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5454,
+            "yFrac": 0.1587,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.7642,
+            "yFrac": 0.1137,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.243,
+            "yFrac": 0.3203,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4647,
+            "yFrac": 0.3423,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8083,
+            "yFrac": 0.493,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5814,
+            "yFrac": 0.6466,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.2941,
+            "yFrac": 0.7399,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8171,
+            "yFrac": 0.7195,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.669,
+            "yFrac": 0.9173,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405529"
+        }
+      }
+    },
+    {
+      "id": "unicorn_astronaut_on_space_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Astronaut On Space",
+        "theme": "unicorn_astronaut_on_space",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_astronaut_on_space_001/original.jpg",
+          "sha256": "cb45bd7dd6e177eca76a22da78b3441bc3a19dc8622a82a5579fab74c3897a67",
+          "sizeBytes": 149939
+        },
+        "alteredImage": {
+          "path": "images/unicorn_astronaut_on_space_001/altered.jpg",
+          "sha256": "7e9d4fe51f53a3cefae5f1411e5674d922edc58fb28cb3c31ddbfbafb1ab1feb",
+          "sizeBytes": 148613
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.9323,
+            "yFrac": 0.2062,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2592,
+            "yFrac": 0.332,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5232,
+            "yFrac": 0.3291,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6949,
+            "yFrac": 0.5576,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8944,
+            "yFrac": 0.5681,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2131,
+            "yFrac": 0.6128,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5034,
+            "yFrac": 0.7707,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0997,
+            "yFrac": 0.9116,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851467"
+        }
+      }
+    },
+    {
+      "id": "unicorn_ballerina_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Ballerina",
+        "theme": "unicorn_ballerina",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_ballerina_001/original.jpg",
+          "sha256": "de12ce823607598d77e64d0f3fa050d0d012a807c8babcb140d0671c9a94495c",
+          "sizeBytes": 137653
+        },
+        "alteredImage": {
+          "path": "images/unicorn_ballerina_001/altered.jpg",
+          "sha256": "2ee87d27f33a7cc4b3aae5b408259ce65b9275bba7c8132467ff2242c02fe04b",
+          "sizeBytes": 141181
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.337,
+            "yFrac": 0.2288,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5518,
+            "yFrac": 0.2434,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0537,
+            "yFrac": 0.3757,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.7434,
+            "yFrac": 0.5844,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2433,
+            "yFrac": 0.602,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4225,
+            "yFrac": 0.5949,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.6796,
+            "yFrac": 0.7883,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3277,
+            "yFrac": 0.9298,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405526"
+        }
+      }
+    },
+    {
+      "id": "unicorn_castle_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Castle",
+        "theme": "unicorn_castle",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_castle_001/original.jpg",
+          "sha256": "ee11bced9cff65e1f0ebbcdc84a498d5b4e2a937b303ed9feea121459489650d",
+          "sizeBytes": 141429
+        },
+        "alteredImage": {
+          "path": "images/unicorn_castle_001/altered.jpg",
+          "sha256": "382e9ac68eb8bef11b189c4123bbcb8374063bb902f125564cdc8ee8781bfa4d",
+          "sizeBytes": 140738
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7542,
+            "yFrac": 0.2394,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2205,
+            "yFrac": 0.3073,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4883,
+            "yFrac": 0.2617,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2587,
+            "yFrac": 0.4362,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4841,
+            "yFrac": 0.5022,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.7912,
+            "yFrac": 0.5481,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.1564,
+            "yFrac": 0.7237,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.0429,
+            "yFrac": 0.8565,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.4881,
+            "yFrac": 0.8879,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.9032,
+            "yFrac": 0.8813,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23481011"
+        }
+      }
+    },
+    {
+      "id": "unicorn_eating_ice_cream_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Eating Ice Cream",
+        "theme": "unicorn_eating_ice_cream",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_eating_ice_cream_001/original.jpg",
+          "sha256": "e86dc7d5bad949d20f9ce77b58267371809ca01bc04c3cf9d5f5d017f4695b3b",
+          "sizeBytes": 126606
+        },
+        "alteredImage": {
+          "path": "images/unicorn_eating_ice_cream_001/altered.jpg",
+          "sha256": "3e21ffa162cd2ab975d3adc5a7e1a457f0cfb87a42bddca3260e0752fa695612",
+          "sizeBytes": 133722
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1522,
+            "yFrac": 0.0793,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.4123,
+            "yFrac": 0.3115,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2611,
+            "yFrac": 0.3727,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.114,
+            "yFrac": 0.7182,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7402,
+            "yFrac": 0.7656,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4877,
+            "yFrac": 0.9338,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405528"
+        }
+      }
+    },
+    {
+      "id": "unicorn_eating_ice_cream_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Eating Ice Cream",
+        "theme": "unicorn_eating_ice_cream",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_eating_ice_cream_002/original.jpg",
+          "sha256": "0b0b6e14f54c1aec29485699606b2075c159c09f1f462c2578c2e84b83fe3cad",
+          "sizeBytes": 178073
+        },
+        "alteredImage": {
+          "path": "images/unicorn_eating_ice_cream_002/altered.jpg",
+          "sha256": "8e05d1f03c99bef73b63dff2456a72e159770cb6b00e2ceb026664e5d0f57a99",
+          "sizeBytes": 177666
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7841,
+            "yFrac": 0.1025,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2059,
+            "yFrac": 0.2377,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1104,
+            "yFrac": 0.3354,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8818,
+            "yFrac": 0.3078,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1698,
+            "yFrac": 0.5234,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.6208,
+            "yFrac": 0.5618,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4695,
+            "yFrac": 0.8513,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8692,
+            "yFrac": 0.9137,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851434"
+        }
+      }
+    },
+    {
+      "id": "unicorn_floating_on_balloons_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Floating On Balloons",
+        "theme": "unicorn_floating_on_balloons",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_floating_on_balloons_001/original.jpg",
+          "sha256": "c0072200e008f9feabb88a8a57f240a9ddecc05511a9c00c4c17ab1ed6febf86",
+          "sizeBytes": 108534
+        },
+        "alteredImage": {
+          "path": "images/unicorn_floating_on_balloons_001/altered.jpg",
+          "sha256": "bfd94e2e98a0a4baa8a57c12baf2f5b059443d41edd496c623f83976c38e827c",
+          "sizeBytes": 108960
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.754,
+            "yFrac": 0.1254,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5231,
+            "yFrac": 0.1978,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.2846,
+            "yFrac": 0.3422,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5596,
+            "yFrac": 0.4039,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.9314,
+            "yFrac": 0.3654,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2639,
+            "yFrac": 0.5628,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.8209,
+            "yFrac": 0.5346,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.4495,
+            "yFrac": 0.6794,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405538"
+        }
+      }
+    },
+    {
+      "id": "unicorn_floating_on_balloons_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Floating On Balloons",
+        "theme": "unicorn_floating_on_balloons",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_floating_on_balloons_002/original.jpg",
+          "sha256": "98181f548962f64b8ba430eb0840c20066ac94671a2e1a302eee5a352693f05a",
+          "sizeBytes": 174778
+        },
+        "alteredImage": {
+          "path": "images/unicorn_floating_on_balloons_002/altered.jpg",
+          "sha256": "843cb2d7b84a7f80fa2a003b04573adb1b2f31cedda345179da43e437c015a5e",
+          "sizeBytes": 169217
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6333,
+            "yFrac": 0.0367,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.888,
+            "yFrac": 0.1228,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.0827,
+            "yFrac": 0.2756,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3135,
+            "yFrac": 0.3998,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4912,
+            "yFrac": 0.3411,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8105,
+            "yFrac": 0.394,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4008,
+            "yFrac": 0.5467,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.3991,
+            "yFrac": 0.6669,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.9231,
+            "yFrac": 0.7119,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.0883,
+            "yFrac": 0.8713,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851485"
+        }
+      }
+    },
+    {
+      "id": "unicorn_flower_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Flower",
+        "theme": "unicorn_flower",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_flower_001/original.jpg",
+          "sha256": "3b102cc8205e5bbead4b99a238b9326178900f726a7aa7ce19984a79f3cd08b0",
+          "sizeBytes": 198431
+        },
+        "alteredImage": {
+          "path": "images/unicorn_flower_001/altered.jpg",
+          "sha256": "123737fb7e14084fcbdb7e798242ee1b40d73f2105497ed1744e7cba91270363",
+          "sizeBytes": 197443
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.7706,
+            "yFrac": 0.1067,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1261,
+            "yFrac": 0.2813,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6586,
+            "yFrac": 0.4067,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.1908,
+            "yFrac": 0.751,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.7023,
+            "yFrac": 0.7218,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4055,
+            "yFrac": 0.8968,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851365"
+        }
+      }
+    },
+    {
+      "id": "unicorn_head_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Head",
+        "theme": "unicorn_head",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_head_001/original.jpg",
+          "sha256": "ad0549af497a2d545b41481bf853f8329d8291a06d7aa079ba6bc09d47a3d800",
+          "sizeBytes": 125771
+        },
+        "alteredImage": {
+          "path": "images/unicorn_head_001/altered.jpg",
+          "sha256": "826a199b14c737e333b01397358a10c35b9624561ae1bc7896ea7268b39cf7b3",
+          "sizeBytes": 125136
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4657,
+            "yFrac": 0.1268,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5328,
+            "yFrac": 0.3321,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4658,
+            "yFrac": 0.4647,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.0659,
+            "yFrac": 0.5105,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.742,
+            "yFrac": 0.6334,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5086,
+            "yFrac": 0.9313,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405524"
+        }
+      }
+    },
+    {
+      "id": "unicorn_head_002",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Head",
+        "theme": "unicorn_head",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_head_002/original.jpg",
+          "sha256": "750cd37ef8a363a99d08104349b99ff0b8400e1ecf5a80d41314a323abd8366c",
+          "sizeBytes": 170864
+        },
+        "alteredImage": {
+          "path": "images/unicorn_head_002/altered.jpg",
+          "sha256": "46bda6d4eb87816a4f8152f7404bb1c05c5fe881ff2b70b167a52ee46189f728",
+          "sizeBytes": 169613
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.5468,
+            "yFrac": 0.0628,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0878,
+            "yFrac": 0.1303,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6553,
+            "yFrac": 0.1945,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.5006,
+            "yFrac": 0.3375,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8681,
+            "yFrac": 0.606,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8875,
+            "yFrac": 0.8785,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851511"
+        }
+      }
+    },
+    {
+      "id": "unicorn_holding_ice_cream_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Holding Ice Cream",
+        "theme": "unicorn_holding_ice_cream",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_holding_ice_cream_001/original.jpg",
+          "sha256": "29e2158c2662d0a2f3c7f961838de3cbf9910495f8ada178f60d238f8577992d",
+          "sizeBytes": 193482
+        },
+        "alteredImage": {
+          "path": "images/unicorn_holding_ice_cream_001/altered.jpg",
+          "sha256": "98e028b07b381a86ff77e2f8d1e793d23c20788f6f7a5fc83bbbbd88dba9e619",
+          "sizeBytes": 190081
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.8396,
+            "yFrac": 0.1243,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0846,
+            "yFrac": 0.2585,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1258,
+            "yFrac": 0.3328,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8335,
+            "yFrac": 0.5088,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.2015,
+            "yFrac": 0.6315,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.3523,
+            "yFrac": 0.7549,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.13,
+            "yFrac": 0.8554,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.8954,
+            "yFrac": 0.8846,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851341"
+        }
+      }
+    },
+    {
+      "id": "unicorn_hugging_a_heart_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Hugging A Heart",
+        "theme": "unicorn_hugging_a_heart",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_hugging_a_heart_001/original.jpg",
+          "sha256": "050b6d026e8257209647bf42d14e779bdb6f12378d931834b8fa16fc9359d895",
+          "sizeBytes": 106012
+        },
+        "alteredImage": {
+          "path": "images/unicorn_hugging_a_heart_001/altered.jpg",
+          "sha256": "2bab4f9b0aa07fe0d98f0c10edf43d586686680e36e4fcba4e9d19da99634839",
+          "sizeBytes": 103008
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6143,
+            "yFrac": 0.0615,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.1062,
+            "yFrac": 0.1253,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6998,
+            "yFrac": 0.3753,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.6392,
+            "yFrac": 0.6809,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1607,
+            "yFrac": 0.838,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.5022,
+            "yFrac": 0.9386,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23481009"
+        }
+      }
+    },
+    {
+      "id": "unicorn_lying_on_a_flower_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Lying On A Flower",
+        "theme": "unicorn_lying_on_a_flower",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_lying_on_a_flower_001/original.jpg",
+          "sha256": "ba118d6e05ca6e86b3c5d50cddeb583e5a9eab28f33ca02b48fca27425f22d64",
+          "sizeBytes": 155055
+        },
+        "alteredImage": {
+          "path": "images/unicorn_lying_on_a_flower_001/altered.jpg",
+          "sha256": "53fe37ac9a97f70c1caa06bf4f2dbd0b3772c62329ba72f27de97dab93210754",
+          "sizeBytes": 156795
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4452,
+            "yFrac": 0.1795,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0635,
+            "yFrac": 0.2604,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6,
+            "yFrac": 0.4076,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.9531,
+            "yFrac": 0.3994,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.3633,
+            "yFrac": 0.5192,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.8071,
+            "yFrac": 0.7849,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405541"
+        }
+      }
+    },
+    {
+      "id": "unicorn_lying_on_the_cloud_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Lying On The Cloud",
+        "theme": "unicorn_lying_on_the_cloud",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_lying_on_the_cloud_001/original.jpg",
+          "sha256": "9dd4344eb5f09c97c1a447ddddeb481595c2971b01d2dcbaa616a0530cbf6d42",
+          "sizeBytes": 114144
+        },
+        "alteredImage": {
+          "path": "images/unicorn_lying_on_the_cloud_001/altered.jpg",
+          "sha256": "c566f6647aad6120b68ef45ca156a76421348997256bcbf73e448dde38dea2c1",
+          "sizeBytes": 116214
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1949,
+            "yFrac": 0.1019,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.6976,
+            "yFrac": 0.125,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.5225,
+            "yFrac": 0.3667,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.2288,
+            "yFrac": 0.4919,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.8302,
+            "yFrac": 0.5618,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.4109,
+            "yFrac": 0.7427,
+            "radius": 0.1,
+            "label": "Diff 6"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23481013"
+        }
+      }
+    },
+    {
+      "id": "unicorn_mermaid_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn Mermaid",
+        "theme": "unicorn_mermaid",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_mermaid_001/original.jpg",
+          "sha256": "15060d80c0265e4a58ef314335b1fba4e6d3dcb4d27e280acce8da55609e5e4f",
+          "sizeBytes": 143997
+        },
+        "alteredImage": {
+          "path": "images/unicorn_mermaid_001/altered.jpg",
+          "sha256": "e6b47c7805e23ff5675879df7870cf4507b8a1c5ea12463defb4b13a191445e4",
+          "sizeBytes": 145807
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.1291,
+            "yFrac": 0.0891,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.5117,
+            "yFrac": 0.1481,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.6618,
+            "yFrac": 0.1492,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8615,
+            "yFrac": 0.1631,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.4548,
+            "yFrac": 0.4433,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2366,
+            "yFrac": 0.5281,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.5269,
+            "yFrac": 0.7384,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6611,
+            "yFrac": 0.7863,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.8918,
+            "yFrac": 0.879,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.0958,
+            "yFrac": 0.9504,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405536"
+        }
+      }
+    },
+    {
+      "id": "unicorn_on_a_skateboard_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn On A Skateboard",
+        "theme": "unicorn_on_a_skateboard",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_on_a_skateboard_001/original.jpg",
+          "sha256": "f27a30db2583c98ce1b7ca9dfbd2e4d2fa2729af8902f556437ce2613a9d9329",
+          "sizeBytes": 124277
+        },
+        "alteredImage": {
+          "path": "images/unicorn_on_a_skateboard_001/altered.jpg",
+          "sha256": "9b0de921222c6cb34d01fcb5f0ba55cb445b6462d97894ac072b2134f47b483c",
+          "sizeBytes": 128225
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6048,
+            "yFrac": 0.0801,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.0765,
+            "yFrac": 0.0965,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.9456,
+            "yFrac": 0.3051,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.3111,
+            "yFrac": 0.6227,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.5651,
+            "yFrac": 0.8027,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.1124,
+            "yFrac": 0.8878,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.4123,
+            "yFrac": 0.911,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.9149,
+            "yFrac": 0.897,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23405539"
+        }
+      }
+    },
+    {
+      "id": "unicorn_on_the_beach_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn On The Beach",
+        "theme": "unicorn_on_the_beach",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_on_the_beach_001/original.jpg",
+          "sha256": "20e261652b67508f858eaf7d55860b79f472e446306519c4771ac66f9876adb6",
+          "sizeBytes": 187108
+        },
+        "alteredImage": {
+          "path": "images/unicorn_on_the_beach_001/altered.jpg",
+          "sha256": "0bb32a1ccb0e6e077d3a961eba52ac54666675343711b86e2eca7f23555ee2e4",
+          "sizeBytes": 187135
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.4858,
+            "yFrac": 0.1562,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.269,
+            "yFrac": 0.2384,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.4918,
+            "yFrac": 0.3118,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.8703,
+            "yFrac": 0.3667,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.1345,
+            "yFrac": 0.5854,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.9344,
+            "yFrac": 0.7821,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2873,
+            "yFrac": 0.8731,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.5664,
+            "yFrac": 0.9184,
+            "radius": 0.1,
+            "label": "Diff 8"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851411"
+        }
+      }
+    },
+    {
+      "id": "unicorn_on_the_candy_land_001",
+      "ageMin": 5,
+      "ageMax": 8,
+      "difficulty": "EASY",
+      "payload": {
+        "title": "Unicorn On The Candy Land",
+        "theme": "unicorn_on_the_candy_land",
+        "imageWidth": 943,
+        "imageHeight": 943,
+        "originalImage": {
+          "path": "images/unicorn_on_the_candy_land_001/original.jpg",
+          "sha256": "cef24b7f563568bd19d4b3781487a0f97dd9d569e029f0171ef291dc5b7ca411",
+          "sizeBytes": 200220
+        },
+        "alteredImage": {
+          "path": "images/unicorn_on_the_candy_land_001/altered.jpg",
+          "sha256": "6dcf1ef7f1026d4f16ec7ba327263f010d86ab3a85d52b11d3bbca4c14da9d67",
+          "sizeBytes": 200353
+        },
+        "hotspots": [
+          {
+            "id": 1,
+            "xFrac": 0.6086,
+            "yFrac": 0.1858,
+            "radius": 0.1,
+            "label": "Diff 1"
+          },
+          {
+            "id": 2,
+            "xFrac": 0.2403,
+            "yFrac": 0.2936,
+            "radius": 0.1,
+            "label": "Diff 2"
+          },
+          {
+            "id": 3,
+            "xFrac": 0.1081,
+            "yFrac": 0.4221,
+            "radius": 0.1,
+            "label": "Diff 3"
+          },
+          {
+            "id": 4,
+            "xFrac": 0.827,
+            "yFrac": 0.423,
+            "radius": 0.1,
+            "label": "Diff 4"
+          },
+          {
+            "id": 5,
+            "xFrac": 0.6367,
+            "yFrac": 0.4771,
+            "radius": 0.1,
+            "label": "Diff 5"
+          },
+          {
+            "id": 6,
+            "xFrac": 0.2886,
+            "yFrac": 0.5778,
+            "radius": 0.1,
+            "label": "Diff 6"
+          },
+          {
+            "id": 7,
+            "xFrac": 0.2752,
+            "yFrac": 0.7441,
+            "radius": 0.1,
+            "label": "Diff 7"
+          },
+          {
+            "id": 8,
+            "xFrac": 0.6025,
+            "yFrac": 0.8268,
+            "radius": 0.1,
+            "label": "Diff 8"
+          },
+          {
+            "id": 9,
+            "xFrac": 0.7991,
+            "yFrac": 0.7861,
+            "radius": 0.1,
+            "label": "Diff 9"
+          },
+          {
+            "id": 10,
+            "xFrac": 0.1165,
+            "yFrac": 0.8635,
+            "radius": 0.1,
+            "label": "Diff 10"
+          }
+        ],
+        "attribution": {
+          "source": "Vecteezy",
+          "license": "Vecteezy Free (attribution required)",
+          "credit": "Vecteezy.com",
+          "url": "https://www.vecteezy.com",
+          "assetUrl": "https://www.vecteezy.com/vector-art/23851375"
+        }
+      }
     }
   ]
 }
