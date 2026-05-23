@@ -50,7 +50,7 @@
       "version": 1,
       "path": "packs/sentence_factory.v1.json",
       "sizeBytes": 1200590,
-      "sha256": "59adaa562f1021d95785c861c78e18211011e5c85cbb8f03f78b53558cc723c5"
+      "sha256": "3a8f19f618aff7aedca2883fa764da58f2470651ae66a7287f527fa0955e70e5"
     },
     {
       "bankId": "spot_difference",
