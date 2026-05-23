@@ -7,8 +7,8 @@
       "bankId": "clock_reader",
       "version": 1,
       "path": "packs/clock_reader.v1.json",
-      "sizeBytes": 776546,
-      "sha256": "efbf06091f4532fe503dc186ed080fe147f07c9e23e4ac93e2e9f11831420e46"
+      "sizeBytes": 42774,
+      "sha256": "07cf95538d696f7855a45538e39ece5bff5a81063b306ac1ad15718c1dc16685"
     },
     {
       "bankId": "echo_tiles",
