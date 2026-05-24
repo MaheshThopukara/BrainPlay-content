@@ -49,8 +49,8 @@
       "bankId": "sentence_factory",
       "version": 1,
       "path": "packs/sentence_factory.v1.json",
-      "sizeBytes": 1063702,
-      "sha256": "2ff0302fdd6973bb7dfd3d6faf5d15ebab85bb42b3153c39c24b01f0942daad6"
+      "sizeBytes": 1056245,
+      "sha256": "326594d8d424cf969eddbb319a76e3e8dd0d3e7a256b81271c592101b162330e"
     },
     {
       "bankId": "spot_difference",
