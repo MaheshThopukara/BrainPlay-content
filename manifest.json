@@ -63,8 +63,8 @@
       "bankId": "what_happens_next",
       "version": 1,
       "path": "packs/what_happens_next.v1.json",
-      "sizeBytes": 2193876,
-      "sha256": "b7b2b3270f0d408166295b45f793c0278b601d273196d82e85b3abc31b670b82"
+      "sizeBytes": 2224738,
+      "sha256": "fe493428d7589291434c62cb53f7d510e80fce89876dceec53c631b35204ce26"
     },
     {
       "bankId": "what_would_you_say",
