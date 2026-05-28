@@ -53,6 +53,13 @@
       "sha256": "8c36cff4b2d6fd2b3c047231d91327377a3b9f2a1ae42b75c327603248742a1b"
     },
     {
+      "bankId": "sentence_sort",
+      "version": 1,
+      "path": "packs/sentence_sort.v1.json",
+      "sizeBytes": 34223,
+      "sha256": "b0405b4e02f385b529ce2cdf2a070b2bb810b683036356369125993014fbd3f7"
+    },
+    {
       "bankId": "spot_difference",
       "version": 1,
       "path": "packs/spot_difference.v1.json",
