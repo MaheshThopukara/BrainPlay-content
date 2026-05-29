@@ -56,8 +56,8 @@
       "bankId": "sentence_sort",
       "version": 1,
       "path": "packs/sentence_sort.v1.json",
-      "sizeBytes": 34223,
-      "sha256": "b0405b4e02f385b529ce2cdf2a070b2bb810b683036356369125993014fbd3f7"
+      "sizeBytes": 1573522,
+      "sha256": "1d0b3c45b2552a7ecc6bdbd65dbc5f87b4953d792a8b7b0aa8462fb9c03262b2"
     },
     {
       "bankId": "spot_difference",
