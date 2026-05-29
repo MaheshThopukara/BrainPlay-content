@@ -77,8 +77,8 @@
       "bankId": "verb_tense",
       "version": 1,
       "path": "packs/verb_tense.v1.json",
-      "sizeBytes": 21764,
-      "sha256": "637f05c69a0a268295825e7f9040d958f08813bdd722288773b0671c5034530a"
+      "sizeBytes": 1050438,
+      "sha256": "3de3b5dfcd3aa385e024cd8da4eb84d2f8dd13cfef371988deeaef85c89344c1"
     },
     {
       "bankId": "what_happens_next",
