@@ -70,8 +70,8 @@
       "bankId": "story_map",
       "version": 1,
       "path": "packs/story_map.v1.json",
-      "sizeBytes": 63044,
-      "sha256": "3c25550e12c947afa6759a1d75190e00e5443f0437189856346ceebcf8ab9811"
+      "sizeBytes": 2870654,
+      "sha256": "fd5b835ce804a6d3e517ec9ffa4beb4e416ec9d39312e365eb14c99d3f979c61"
     },
     {
       "bankId": "what_happens_next",
