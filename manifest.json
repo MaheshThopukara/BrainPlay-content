@@ -4,6 +4,13 @@
   "cdnBase": "https://raw.githubusercontent.com/MaheshThopukara/BrainPlay-content/main",
   "packs": [
     {
+      "bankId": "article_pick",
+      "version": 1,
+      "path": "packs/article_pick.v1.json",
+      "sizeBytes": 1568,
+      "sha256": "fa1b44ae8f0bc45bbafd9b49275305e5d450806f2770836a6abd09d6dfbc62ad"
+    },
+    {
       "bankId": "clock_reader",
       "version": 1,
       "path": "packs/clock_reader.v1.json",
