@@ -67,6 +67,13 @@
       "sha256": "3ba4024e062f59fceb5d01ab6cd663077162412dc411b419bfde3f3154da11f3"
     },
     {
+      "bankId": "story_map",
+      "version": 1,
+      "path": "packs/story_map.v1.json",
+      "sizeBytes": 63044,
+      "sha256": "3c25550e12c947afa6759a1d75190e00e5443f0437189856346ceebcf8ab9811"
+    },
+    {
       "bankId": "what_happens_next",
       "version": 1,
       "path": "packs/what_happens_next.v1.json",
