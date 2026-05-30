@@ -7,8 +7,8 @@
       "bankId": "article_pick",
       "version": 1,
       "path": "packs/article_pick.v1.json",
-      "sizeBytes": 1568,
-      "sha256": "fa1b44ae8f0bc45bbafd9b49275305e5d450806f2770836a6abd09d6dfbc62ad"
+      "sizeBytes": 1081502,
+      "sha256": "25e79cb5836c2f15b8abdfb9e764fb779a6be03a16ee83f7fa455bdce3997473"
     },
     {
       "bankId": "clock_reader",
