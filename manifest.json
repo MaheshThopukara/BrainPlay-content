@@ -74,6 +74,13 @@
       "sha256": "3ba4024e062f59fceb5d01ab6cd663077162412dc411b419bfde3f3154da11f3"
     },
     {
+      "bankId": "plural_maker",
+      "version": 1,
+      "path": "packs/plural_maker.v1.json",
+      "sizeBytes": 35044,
+      "sha256": "4b56ccab3045f904ec5cc01463999c12e0cc521060c4947f85f81a15dc353355"
+    },
+    {
       "bankId": "story_map",
       "version": 1,
       "path": "packs/story_map.v1.json",
