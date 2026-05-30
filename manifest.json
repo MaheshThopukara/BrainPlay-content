@@ -70,8 +70,8 @@
       "bankId": "sentence_factory",
       "version": 1,
       "path": "packs/sentence_factory.v1.json",
-      "sizeBytes": 1073868,
-      "sha256": "904425c232fa5fd80b2b17cb9e837cf680b6a89982878e612ea99d057d7bc2c9"
+      "sizeBytes": 1073877,
+      "sha256": "4f971a5eb0b66e72df38779d35e70c9115af216ff5cdd2297be6e9b6aef0b72c"
     },
     {
       "bankId": "sentence_sort",
@@ -112,8 +112,8 @@
       "bankId": "what_happens_next",
       "version": 1,
       "path": "packs/what_happens_next.v1.json",
-      "sizeBytes": 2072677,
-      "sha256": "5005de92294d60151f9d859fc815d32d5659692511620149fc7cbc86276f99f9"
+      "sizeBytes": 2072832,
+      "sha256": "c7a84689b47b2dc9dde37c6551b2166afc0a738fb1c6a788b28655008d81e1cf"
     },
     {
       "bankId": "what_would_you_say",
