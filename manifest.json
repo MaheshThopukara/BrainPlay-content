@@ -53,6 +53,13 @@
       "sha256": "78dd9ab9dc0cd28986b719aa16887fc5295e714b43d72a61391f63ddef66c59a"
     },
     {
+      "bankId": "pronoun_pick",
+      "version": 1,
+      "path": "packs/pronoun_pick.v1.json",
+      "sizeBytes": 835033,
+      "sha256": "aa1ff5b604407b67e5bb422f6edec2fa87325ab90df97e5af9a71fc890bf2339"
+    },
+    {
       "bankId": "sentence_factory",
       "version": 1,
       "path": "packs/sentence_factory.v1.json",
