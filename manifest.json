@@ -109,6 +109,13 @@
       "sha256": "fd5b835ce804a6d3e517ec9ffa4beb4e416ec9d39312e365eb14c99d3f979c61"
     },
     {
+      "bankId": "synonym_swap",
+      "version": 1,
+      "path": "packs/synonym_swap.v1.json",
+      "sizeBytes": 729638,
+      "sha256": "953ce035054889fbfa05785f3a6bf5d992db188390010471a443c660fa02cd94"
+    },
+    {
       "bankId": "verb_tense",
       "version": 1,
       "path": "packs/verb_tense.v1.json",
