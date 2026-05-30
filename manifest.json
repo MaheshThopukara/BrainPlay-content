@@ -112,8 +112,8 @@
       "bankId": "synonym_swap",
       "version": 1,
       "path": "packs/synonym_swap.v1.json",
-      "sizeBytes": 729638,
-      "sha256": "953ce035054889fbfa05785f3a6bf5d992db188390010471a443c660fa02cd94"
+      "sizeBytes": 763150,
+      "sha256": "cfa57c21c2a8924187c46605c2e9514c9543ba2b4f5d0a51ca2ed59d4d4eec63"
     },
     {
       "bankId": "verb_tense",
