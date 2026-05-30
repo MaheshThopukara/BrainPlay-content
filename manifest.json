@@ -116,6 +116,13 @@
       "sha256": "3de3b5dfcd3aa385e024cd8da4eb84d2f8dd13cfef371988deeaef85c89344c1"
     },
     {
+      "bankId": "vocab_builder",
+      "version": 1,
+      "path": "packs/vocab_builder.v1.json",
+      "sizeBytes": 693582,
+      "sha256": "47f2cd3590229eb37c85f0055296aa1c0f37da60b9d4d54e461adf231a7ecaa4"
+    },
+    {
       "bankId": "what_happens_next",
       "version": 1,
       "path": "packs/what_happens_next.v1.json",
