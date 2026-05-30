@@ -11,6 +11,13 @@
       "sha256": "25e79cb5836c2f15b8abdfb9e764fb779a6be03a16ee83f7fa455bdce3997473"
     },
     {
+      "bankId": "capital_catcher",
+      "version": 1,
+      "path": "packs/capital_catcher.v1.json",
+      "sizeBytes": 2340969,
+      "sha256": "423d2f8f0f762f91ac8f95f47facf0d83b819f3d34867b9d36f5e5f673cad042"
+    },
+    {
       "bankId": "clock_reader",
       "version": 1,
       "path": "packs/clock_reader.v1.json",
