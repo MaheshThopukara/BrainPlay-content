@@ -149,6 +149,13 @@
       "path": "packs/what_would_you_say.v1.json",
       "sizeBytes": 1606778,
       "sha256": "f264f0cddec60b55808572aa3e7f49c050941e5c8ea605cc74cdf695f334149d"
+    },
+    {
+      "bankId": "cause_effect",
+      "version": 1,
+      "path": "packs/cause_effect.v1.json",
+      "sizeBytes": 1128640,
+      "sha256": "8c1071adf421c711c116dd1c3dbb8f66502353eaf4c359749fe630bc3a5ab777"
     }
   ]
 }
