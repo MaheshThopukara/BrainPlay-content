@@ -163,6 +163,13 @@
       "path": "packs/reading_detective.v1.json",
       "sizeBytes": 1410692,
       "sha256": "03bcebc4e3fecc546e5e6caa1b06352b245e5bc4c8e4c8a6da5d7eb8638d8e86"
+    },
+    {
+      "bankId": "main_idea",
+      "version": 1,
+      "path": "packs/main_idea.v1.json",
+      "sizeBytes": 1081782,
+      "sha256": "31f220e23d79f0203b1ed5e3eb9423442125b04e476d73bd20240d216dc469c3"
     }
   ]
 }
