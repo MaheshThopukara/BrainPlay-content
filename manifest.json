@@ -130,6 +130,13 @@
       "sha256": "47f2cd3590229eb37c85f0055296aa1c0f37da60b9d4d54e461adf231a7ecaa4"
     },
     {
+      "bankId": "wh_quiz",
+      "version": 1,
+      "path": "packs/wh_quiz.v1.json",
+      "sizeBytes": 1005812,
+      "sha256": "136e13bcf23a74e9bf4e67f4f38ddf4daaab967482fec58ac19b91675492e4da"
+    },
+    {
       "bankId": "what_happens_next",
       "version": 1,
       "path": "packs/what_happens_next.v1.json",
