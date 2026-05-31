@@ -133,8 +133,8 @@
       "bankId": "wh_quiz",
       "version": 1,
       "path": "packs/wh_quiz.v1.json",
-      "sizeBytes": 1005812,
-      "sha256": "136e13bcf23a74e9bf4e67f4f38ddf4daaab967482fec58ac19b91675492e4da"
+      "sizeBytes": 1020623,
+      "sha256": "0c70ebe8be835ecc0ec3825f29da0246b5a3c4aa609dcd453a0aa81417357d83"
     },
     {
       "bankId": "what_happens_next",
