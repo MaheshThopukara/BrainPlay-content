@@ -156,6 +156,13 @@
       "path": "packs/cause_effect.v1.json",
       "sizeBytes": 1128640,
       "sha256": "8c1071adf421c711c116dd1c3dbb8f66502353eaf4c359749fe630bc3a5ab777"
+    },
+    {
+      "bankId": "reading_detective",
+      "version": 1,
+      "path": "packs/reading_detective.v1.json",
+      "sizeBytes": 1321483,
+      "sha256": "5f2e9e3aa9418c968017936863b36c2cca4c3562818f0bf03eaf6aa4e20c2abd"
     }
   ]
 }
