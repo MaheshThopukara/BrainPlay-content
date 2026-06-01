@@ -60,6 +60,13 @@
       "sha256": "38a53df94e013c7dae088629fa1591739768b8a78e0aa5e25953271cdc6920cf"
     },
     {
+      "bankId": "opposite_twins",
+      "version": 1,
+      "path": "packs/opposite_twins.v1.json",
+      "sizeBytes": 762534,
+      "sha256": "a84992294b8b9bfd11db014792d1638467abb408aef2a976cf37106d39363b5c"
+    },
+    {
       "bankId": "pattern_detective",
       "version": 1,
       "path": "packs/pattern_detective.v1.json",
