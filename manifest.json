@@ -175,8 +175,8 @@
       "bankId": "read_and_answer",
       "version": 1,
       "path": "packs/read_and_answer.v1.json",
-      "sizeBytes": 1200714,
-      "sha256": "db73b7e23dd472a498a02ffcbf3c12ffac52339d97bf2d25ff8618d6b4455a68"
+      "sizeBytes": 1386639,
+      "sha256": "0bf1f897b01f493171c8421fdd6d96c8ebedb459b7da962dc96929d03a74b29c"
     }
   ]
 }
