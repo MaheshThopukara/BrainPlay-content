@@ -177,6 +177,13 @@
       "path": "packs/read_and_answer.v1.json",
       "sizeBytes": 1386639,
       "sha256": "0bf1f897b01f493171c8421fdd6d96c8ebedb459b7da962dc96929d03a74b29c"
+    },
+    {
+      "bankId": "word_builder",
+      "version": 1,
+      "path": "packs/word_builder.v1.json",
+      "sizeBytes": 131867,
+      "sha256": "66c9214cd3bce507595064a76fd4691c5fd5553d12ac8b0dbf7e449a6ad19599"
     }
   ]
 }
