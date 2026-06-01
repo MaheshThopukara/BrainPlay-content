@@ -219,6 +219,13 @@
       "path": "packs/first_sound.v1.json",
       "sizeBytes": 248414,
       "sha256": "aabfa765aa34a5e79421c12d4aea04667fc51ac286f60551e1df34fcf334851b"
+    },
+    {
+      "bankId": "sound_sort",
+      "version": 1,
+      "path": "packs/sound_sort.v1.json",
+      "sizeBytes": 153268,
+      "sha256": "38b31b03ff2c061ba2bacbe532af62aa2cb8db3daa584abb10eb4387d74f47a7"
     }
   ]
 }
