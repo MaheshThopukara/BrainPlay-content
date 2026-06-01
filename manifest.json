@@ -205,6 +205,13 @@
       "path": "packs/tale_maker.v1.json",
       "sizeBytes": 2420077,
       "sha256": "72f3d7aa0ac4ffd7fb70b2d7c497ae295eb2fbb5834742c90f621277e1e17cb9"
+    },
+    {
+      "bankId": "rhyme_time",
+      "version": 1,
+      "path": "packs/rhyme_time.v1.json",
+      "sizeBytes": 1320038,
+      "sha256": "49eaea739eff0ccf0dfaf480d1b73609a4024564d5c5ef5ca278f21bafa9fcb4"
     }
   ]
 }
