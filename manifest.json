@@ -212,6 +212,13 @@
       "path": "packs/rhyme_time.v1.json",
       "sizeBytes": 1320038,
       "sha256": "49eaea739eff0ccf0dfaf480d1b73609a4024564d5c5ef5ca278f21bafa9fcb4"
+    },
+    {
+      "bankId": "first_sound",
+      "version": 1,
+      "path": "packs/first_sound.v1.json",
+      "sizeBytes": 248414,
+      "sha256": "aabfa765aa34a5e79421c12d4aea04667fc51ac286f60551e1df34fcf334851b"
     }
   ]
 }
