@@ -198,6 +198,13 @@
       "path": "packs/word_builder.v1.json",
       "sizeBytes": 131867,
       "sha256": "66c9214cd3bce507595064a76fd4691c5fd5553d12ac8b0dbf7e449a6ad19599"
+    },
+    {
+      "bankId": "tale_maker",
+      "version": 1,
+      "path": "packs/tale_maker.v1.json",
+      "sizeBytes": 2420077,
+      "sha256": "72f3d7aa0ac4ffd7fb70b2d7c497ae295eb2fbb5834742c90f621277e1e17cb9"
     }
   ]
 }
