@@ -1,0 +1,3266 @@
+{
+ "dino_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1174,
+  "score": 0.2045,
+  "theme": "dinosaur"
+ },
+ "swing_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.129,
+  "score": 0.2687,
+  "theme": "playground"
+ },
+ "cat_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.151,
+  "score": 0.7598,
+  "theme": "farm"
+ },
+ "carrot_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1761,
+  "score": 0.8483,
+  "theme": "carrot"
+ },
+ "cow_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1168,
+  "score": 0.4008,
+  "theme": "cow"
+ },
+ "dog_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1201,
+  "score": 0.4174,
+  "theme": "dog"
+ },
+ "bird_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1349,
+  "score": 0.3007,
+  "theme": "bird"
+ },
+ "easter_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1411,
+  "score": 0.699,
+  "theme": "easter"
+ },
+ "whale_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1156,
+  "score": 0.5608,
+  "theme": "whale"
+ },
+ "tractor_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1373,
+  "score": 0.5158,
+  "theme": "tractor"
+ },
+ "vampire_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1013,
+  "score": 0.136,
+  "theme": "vampire"
+ },
+ "rabbit_magician_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1243,
+  "score": 0.445,
+  "theme": "rabbit_magician"
+ },
+ "unicorn_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.162,
+  "score": 0.8018,
+  "theme": "unicorn"
+ },
+ "angelfish_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1542,
+  "score": 0.4091,
+  "theme": "angelfish_animal"
+ },
+ "ant_animal_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1274,
+  "score": 0.2643,
+  "theme": "ant_animal"
+ },
+ "astronaut_and_ufo_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1665,
+  "score": 0.8184,
+  "theme": "astronaut_and_ufo"
+ },
+ "astronaut_holding_a_flag_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1386,
+  "score": 0.5246,
+  "theme": "astronaut_holding_a_flag"
+ },
+ "astronaut_in_space_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1515,
+  "score": 0.5976,
+  "theme": "astronaut_in_space"
+ },
+ "afro_american_mermaid_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.2379,
+  "score": 0.7458,
+  "theme": "afro_american_mermaid"
+ },
+ "alien_in_space_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1561,
+  "score": 0.4146,
+  "theme": "alien_in_space"
+ },
+ "american_bully_dog_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1082,
+  "score": 0.3654,
+  "theme": "american_bully_dog"
+ },
+ "angelfish_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2853,
+  "score": 0.9257,
+  "theme": "angelfish_animal"
+ },
+ "ankylosaurus_dinosaur_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1497,
+  "score": 0.5899,
+  "theme": "ankylosaurus_dinosaur"
+ },
+ "astronaut_peace_sign_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 5,
+  "clutter": 0.1105,
+  "score": 0.0697,
+  "theme": "astronaut_peace_sign"
+ },
+ "astronaut_sitting_on_earth_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1203,
+  "score": 0.5862,
+  "theme": "astronaut_sitting_on_earth"
+ },
+ "astronaut_space_rocket_ship_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1602,
+  "score": 0.793,
+  "theme": "astronaut_space_rocket_ship"
+ },
+ "astronaut_with_balloon_planet_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1599,
+  "score": 0.7897,
+  "theme": "astronaut_with_balloon_planet"
+ },
+ "astronaut_with_rocket_ship_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1166,
+  "score": 0.5652,
+  "theme": "astronaut_with_rocket_ship"
+ },
+ "australian_shepherd_dog_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1252,
+  "score": 0.6205,
+  "theme": "australian_shepherd_dog"
+ },
+ "axolotl_animal_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.17,
+  "score": 0.6673,
+  "theme": "axolotl_animal"
+ },
+ "axolotl_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2323,
+  "score": 0.7447,
+  "theme": "axolotl_animal"
+ },
+ "basset_hound_dog_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1057,
+  "score": 0.3555,
+  "theme": "basset_hound_dog"
+ },
+ "beagle_dog_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1122,
+  "score": 0.1857,
+  "theme": "beagle_dog"
+ },
+ "bear_animal_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0997,
+  "score": 0.1316,
+  "theme": "bear_animal"
+ },
+ "beautiful_mermaid_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1665,
+  "score": 0.8195,
+  "theme": "beautiful_mermaid"
+ },
+ "beaver_animal_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0821,
+  "score": 0.1139,
+  "theme": "beaver_animal"
+ },
+ "beaver_animal_002": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1085,
+  "score": 0.5343,
+  "theme": "beaver_animal"
+ },
+ "bee_animal_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1506,
+  "score": 0.7587,
+  "theme": "bee_animal"
+ },
+ "bees_with_beehive_farm_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1303,
+  "score": 0.476,
+  "theme": "bees_with_beehive_farm"
+ },
+ "big_castle_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1633,
+  "score": 0.6418,
+  "theme": "big_castle"
+ },
+ "big_treasure_chest_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.177,
+  "score": 0.8505,
+  "theme": "big_treasure_chest"
+ },
+ "big_worm_farm_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1686,
+  "score": 0.8251,
+  "theme": "big_worm_farm"
+ },
+ "bird_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1142,
+  "score": 0.1913,
+  "theme": "bird_animal"
+ },
+ "black_hole_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0639,
+  "score": 0.1106,
+  "theme": "black_hole"
+ },
+ "blue_whale_animal_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1516,
+  "score": 0.7654,
+  "theme": "blue_whale_animal"
+ },
+ "blue_whale_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2225,
+  "score": 0.7391,
+  "theme": "blue_whale_animal"
+ },
+ "boston_terrier_dog_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1078,
+  "score": 0.5287,
+  "theme": "boston_terrier_dog"
+ },
+ "boxer_dog_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.0935,
+  "score": 0.3201,
+  "theme": "boxer_dog"
+ },
+ "boy_biking_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1693,
+  "score": 0.6639,
+  "theme": "boy_biking"
+ },
+ "boy_conserving_water_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1752,
+  "score": 0.481,
+  "theme": "boy_conserving_water"
+ },
+ "boy_holding_earth_balloon_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.168,
+  "score": 0.6584,
+  "theme": "boy_holding_earth_balloon"
+ },
+ "boy_holding_love_earth_sign_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2033,
+  "score": 0.8837,
+  "theme": "boy_holding_love_earth_sign"
+ },
+ "boy_hugging_tree_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1256,
+  "score": 0.2554,
+  "theme": "boy_hugging_tree"
+ },
+ "boy_picking_up_litter_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1661,
+  "score": 0.8173,
+  "theme": "boy_picking_up_litter"
+ },
+ "boy_planting_seedling_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1768,
+  "score": 0.4832,
+  "theme": "boy_planting_seedling"
+ },
+ "boy_planting_trees_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1637,
+  "score": 0.6429,
+  "theme": "boy_planting_trees"
+ },
+ "boy_recycling_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1532,
+  "score": 0.7698,
+  "theme": "boy_recycling"
+ },
+ "boy_searching_for_easter_egg_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1731,
+  "score": 0.675,
+  "theme": "boy_searching_for_easter_egg"
+ },
+ "boy_showing_windmill_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.154,
+  "score": 0.4069,
+  "theme": "boy_showing_windmill"
+ },
+ "boy_using_telescope_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1219,
+  "score": 0.2278,
+  "theme": "boy_using_telescope"
+ },
+ "boy_with_solar_panel_house_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1733,
+  "score": 0.6761,
+  "theme": "boy_with_solar_panel_house"
+ },
+ "brachiosaurus_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0959,
+  "score": 0.1249,
+  "theme": "brachiosaurus_dinosaur"
+ },
+ "bulldog_dog_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 7,
+  "clutter": 0.1005,
+  "score": 0.2432,
+  "theme": "bulldog_dog"
+ },
+ "bunny_basket_of_easter_eggs_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2068,
+  "score": 0.5219,
+  "theme": "bunny_basket_of_easter_eggs"
+ },
+ "bunny_carrying_easter_egg_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1797,
+  "score": 0.4876,
+  "theme": "bunny_carrying_easter_egg"
+ },
+ "bunny_easter_eggs_in_basket_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.201,
+  "score": 0.7159,
+  "theme": "bunny_easter_eggs_in_basket"
+ },
+ "bunny_holding_happy_easter_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2139,
+  "score": 0.7303,
+  "theme": "bunny_holding_happy_easter"
+ },
+ "bunny_hugging_easter_egg_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2126,
+  "score": 0.7292,
+  "theme": "bunny_hugging_easter_egg"
+ },
+ "bunny_juggling_easter_eggs_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2067,
+  "score": 0.5208,
+  "theme": "bunny_juggling_easter_eggs"
+ },
+ "bunny_painting_easter_egg_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2072,
+  "score": 0.5241,
+  "theme": "bunny_painting_easter_egg"
+ },
+ "bunny_with_big_easter_egg_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.2296,
+  "score": 0.5429,
+  "theme": "bunny_with_big_easter_egg"
+ },
+ "butterflies_over_easter_eggs_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.2512,
+  "score": 0.7513,
+  "theme": "butterflies_over_easter_eggs"
+ },
+ "butterfly_farm_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1425,
+  "score": 0.549,
+  "theme": "butterfly_farm"
+ },
+ "carnotaurus_dinosaur_002": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.113,
+  "score": 0.1891,
+  "theme": "carnotaurus_dinosaur"
+ },
+ "cat_mermaid_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1405,
+  "score": 0.3295,
+  "theme": "cat_mermaid"
+ },
+ "cat_unicorn_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1101,
+  "score": 0.1758,
+  "theme": "cat_unicorn"
+ },
+ "chick_pop_out_in_easter_egg_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1202,
+  "score": 0.2184,
+  "theme": "chick_pop_out_in_easter_egg"
+ },
+ "chicken_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1231,
+  "score": 0.4362,
+  "theme": "chicken_animal"
+ },
+ "chihuahua_dog_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1019,
+  "score": 0.3411,
+  "theme": "chihuahua_dog"
+ },
+ "child_basket_of_easter_eggs_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1845,
+  "score": 0.8627,
+  "theme": "child_basket_of_easter_eggs"
+ },
+ "child_picking_shamrock_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1417,
+  "score": 0.5379,
+  "theme": "child_picking_shamrock"
+ },
+ "christian_archangel_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1226,
+  "score": 0.4318,
+  "theme": "christian_archangel"
+ },
+ "christian_baby_jesus_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1688,
+  "score": 0.8262,
+  "theme": "christian_baby_jesus"
+ },
+ "christian_children_with_bible_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1708,
+  "score": 0.471,
+  "theme": "christian_children_with_bible"
+ },
+ "christian_children_with_bible_002": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2074,
+  "score": 0.5252,
+  "theme": "christian_children_with_bible"
+ },
+ "christian_church_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1827,
+  "score": 0.6938,
+  "theme": "christian_church"
+ },
+ "christian_david_playing_harp_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2069,
+  "score": 0.7236,
+  "theme": "christian_david_playing_harp"
+ },
+ "christian_jesus_with_children_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.186,
+  "score": 0.4986,
+  "theme": "christian_jesus_with_children"
+ },
+ "christian_joseph_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1639,
+  "score": 0.644,
+  "theme": "christian_joseph"
+ },
+ "christian_mary_and_joseph_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1694,
+  "score": 0.8306,
+  "theme": "christian_mary_and_joseph"
+ },
+ "christian_praying_child_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1409,
+  "score": 0.5324,
+  "theme": "christian_praying_child"
+ },
+ "christian_priest_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1422,
+  "score": 0.5434,
+  "theme": "christian_priest"
+ },
+ "christian_shepherd_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1566,
+  "score": 0.4179,
+  "theme": "christian_shepherd"
+ },
+ "christmas_boy_opening_gift_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1426,
+  "score": 0.7156,
+  "theme": "christmas_boy_opening_gift"
+ },
+ "christmas_boy_riding_sleigh_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1356,
+  "score": 0.3052,
+  "theme": "christmas_boy_riding_sleigh"
+ },
+ "christmas_girl_and_reindeer_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.126,
+  "score": 0.2576,
+  "theme": "christmas_girl_and_reindeer"
+ },
+ "christmas_reindeer_002": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0937,
+  "score": 0.1205,
+  "theme": "christmas_reindeer"
+ },
+ "christmas_santa_claus_list_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1406,
+  "score": 0.6968,
+  "theme": "christmas_santa_claus_list"
+ },
+ "christmas_tree_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1266,
+  "score": 0.2609,
+  "theme": "christmas_tree"
+ },
+ "christmas_winter_house_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1028,
+  "score": 0.1426,
+  "theme": "christmas_winter_house"
+ },
+ "coonhound_dog_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0974,
+  "score": 0.1271,
+  "theme": "coonhound_dog"
+ },
+ "corgi_dog_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1276,
+  "score": 0.6316,
+  "theme": "corgi_dog"
+ },
+ "cow_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1099,
+  "score": 0.1736,
+  "theme": "cow_animal"
+ },
+ "cowboy_american_indian_girl_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1435,
+  "score": 0.7189,
+  "theme": "cowboy_american_indian_girl"
+ },
+ "cowboy_boots_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1413,
+  "score": 0.5346,
+  "theme": "cowboy_boots"
+ },
+ "cowboy_bottle_tequila_lemon_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1422,
+  "score": 0.7123,
+  "theme": "cowboy_bottle_tequila_lemon"
+ },
+ "cowboy_bull_rider_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1446,
+  "score": 0.7311,
+  "theme": "cowboy_bull_rider"
+ },
+ "cowboy_bull_skull_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1309,
+  "score": 0.2775,
+  "theme": "cowboy_bull_skull"
+ },
+ "cowboy_campfire_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1247,
+  "score": 0.251,
+  "theme": "cowboy_campfire"
+ },
+ "cowboy_covered_wagon_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1379,
+  "score": 0.3206,
+  "theme": "cowboy_covered_wagon"
+ },
+ "cowboy_dance_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1461,
+  "score": 0.5733,
+  "theme": "cowboy_dance"
+ },
+ "cowboy_duel_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1348,
+  "score": 0.6658,
+  "theme": "cowboy_duel"
+ },
+ "cowboy_girl_with_a_rope_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1675,
+  "score": 0.6573,
+  "theme": "cowboy_girl_with_a_rope"
+ },
+ "cowboy_hat_cactus_bull_skull_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1415,
+  "score": 0.335,
+  "theme": "cowboy_hat_cactus_bull_skull"
+ },
+ "cowboy_horse_riding_saddle_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1294,
+  "score": 0.4705,
+  "theme": "cowboy_horse_riding_saddle"
+ },
+ "cowboy_horse_riding_with_gun_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1336,
+  "score": 0.4926,
+  "theme": "cowboy_horse_riding_with_gun"
+ },
+ "cowboy_horse_rodeo_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1323,
+  "score": 0.6526,
+  "theme": "cowboy_horse_rodeo"
+ },
+ "cowboy_in_the_desert_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1104,
+  "score": 0.3787,
+  "theme": "cowboy_in_the_desert"
+ },
+ "cowboy_playing_guitar_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1443,
+  "score": 0.3615,
+  "theme": "cowboy_playing_guitar"
+ },
+ "cowboy_pointing_gun_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1741,
+  "score": 0.845,
+  "theme": "cowboy_pointing_gun"
+ },
+ "cowboy_sheriff_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1445,
+  "score": 0.5644,
+  "theme": "cowboy_sheriff"
+ },
+ "cowboy_snake_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.136,
+  "score": 0.3085,
+  "theme": "cowboy_snake"
+ },
+ "cowboy_throwing_a_lasso_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1617,
+  "score": 0.6352,
+  "theme": "cowboy_throwing_a_lasso"
+ },
+ "cowboy_wanted_poster_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1311,
+  "score": 0.2786,
+  "theme": "cowboy_wanted_poster"
+ },
+ "crane_cartoon_vehicle_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1696,
+  "score": 0.6662,
+  "theme": "crane_cartoon_vehicle"
+ },
+ "crocodile_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1315,
+  "score": 0.4815,
+  "theme": "crocodile_animal"
+ },
+ "crocodile_animal_002": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.146,
+  "score": 0.3704,
+  "theme": "crocodile_animal"
+ },
+ "dalmatian_dog_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1244,
+  "score": 0.2466,
+  "theme": "dalmatian_dog"
+ },
+ "dancing_ballerina_girl_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.144,
+  "score": 0.356,
+  "theme": "dancing_ballerina_girl"
+ },
+ "dancing_mermaid_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1809,
+  "score": 0.4909,
+  "theme": "dancing_mermaid"
+ },
+ "dancing_skeleton_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1368,
+  "score": 0.3107,
+  "theme": "dancing_skeleton_halloween"
+ },
+ "david_and_goliath_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1688,
+  "score": 0.8273,
+  "theme": "david_and_goliath"
+ },
+ "diplodocus_dinosaur_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1439,
+  "score": 0.7211,
+  "theme": "diplodocus_dinosaur"
+ },
+ "dolphin_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.109,
+  "score": 0.1703,
+  "theme": "dolphin_animal"
+ },
+ "dolphin_animal_003": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1192,
+  "score": 0.5796,
+  "theme": "dolphin_animal"
+ },
+ "donkey_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1044,
+  "score": 0.3499,
+  "theme": "donkey_animal"
+ },
+ "duck_farm_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1353,
+  "score": 0.5047,
+  "theme": "duck_farm"
+ },
+ "dump_truck_vehicle_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1287,
+  "score": 0.2676,
+  "theme": "dump_truck_vehicle"
+ },
+ "eel_animal_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.147,
+  "score": 0.5821,
+  "theme": "eel_animal"
+ },
+ "eel_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2419,
+  "score": 0.9124,
+  "theme": "eel_animal"
+ },
+ "ekrixinatosaurus_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1092,
+  "score": 0.1725,
+  "theme": "ekrixinatosaurus_dinosaur"
+ },
+ "elephant_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1073,
+  "score": 0.1603,
+  "theme": "elephant_animal"
+ },
+ "excavator_vehicle_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1089,
+  "score": 0.1692,
+  "theme": "excavator_vehicle"
+ },
+ "fairy_holding_magic_wand_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.145,
+  "score": 0.3693,
+  "theme": "fairy_holding_magic_wand"
+ },
+ "falling_shooting_star_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0862,
+  "score": 0.1161,
+  "theme": "falling_shooting_star"
+ },
+ "falling_unicorn_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1171,
+  "score": 0.2034,
+  "theme": "falling_unicorn"
+ },
+ "falling_unicorn_002": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.0996,
+  "score": 0.3311,
+  "theme": "falling_unicorn"
+ },
+ "flying_bat_halloween_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1237,
+  "score": 0.2399,
+  "theme": "flying_bat_halloween"
+ },
+ "forklift_vehicle_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1601,
+  "score": 0.6264,
+  "theme": "forklift_vehicle"
+ },
+ "fox_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1115,
+  "score": 0.382,
+  "theme": "fox_animal"
+ },
+ "frankenstein_halloween_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.118,
+  "score": 0.573,
+  "theme": "frankenstein_halloween"
+ },
+ "french_bulldog_dog_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1035,
+  "score": 0.5111,
+  "theme": "french_bulldog_dog"
+ },
+ "frog_with_a_crown_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1228,
+  "score": 0.434,
+  "theme": "frog_with_a_crown"
+ },
+ "fukuiraptor_dinosaur_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.121,
+  "score": 0.4251,
+  "theme": "fukuiraptor_dinosaur"
+ },
+ "garbage_truck_vehicle_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1356,
+  "score": 0.6725,
+  "theme": "garbage_truck_vehicle"
+ },
+ "ghost_halloween_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0907,
+  "score": 0.1183,
+  "theme": "ghost_halloween"
+ },
+ "ghost_witch_halloween_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.113,
+  "score": 0.5542,
+  "theme": "ghost_witch_halloween"
+ },
+ "giant_squid_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1515,
+  "score": 0.398,
+  "theme": "giant_squid_animal"
+ },
+ "giraffe_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1441,
+  "score": 0.5589,
+  "theme": "giraffe_animal"
+ },
+ "girl_conserving_energy_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1615,
+  "score": 0.6297,
+  "theme": "girl_conserving_energy"
+ },
+ "girl_holding_a_teddy_bear_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1265,
+  "score": 0.2598,
+  "theme": "girl_holding_a_teddy_bear"
+ },
+ "girl_holding_earth_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.155,
+  "score": 0.4124,
+  "theme": "girl_holding_earth"
+ },
+ "girl_planting_vegetables_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2,
+  "score": 0.8792,
+  "theme": "girl_planting_vegetables"
+ },
+ "girl_playing_hockey_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1267,
+  "score": 0.4627,
+  "theme": "girl_playing_hockey"
+ },
+ "girl_playing_soccer_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1422,
+  "score": 0.7101,
+  "theme": "girl_playing_soccer"
+ },
+ "girl_playing_tennis_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1467,
+  "score": 0.7443,
+  "theme": "girl_playing_tennis"
+ },
+ "girl_with_pot_of_gold_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1473,
+  "score": 0.7488,
+  "theme": "girl_with_pot_of_gold"
+ },
+ "goat_farm_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.135,
+  "score": 0.5025,
+  "theme": "goat_farm"
+ },
+ "golden_retriever_dog_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0942,
+  "score": 0.1216,
+  "theme": "golden_retriever_dog"
+ },
+ "goose_farm_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1329,
+  "score": 0.2897,
+  "theme": "goose_farm"
+ },
+ "great_white_shark_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1242,
+  "score": 0.4428,
+  "theme": "great_white_shark_animal"
+ },
+ "grim_reaper_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1149,
+  "score": 0.3942,
+  "theme": "grim_reaper_halloween"
+ },
+ "hammerhead_shark_animal_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1475,
+  "score": 0.7499,
+  "theme": "hammerhead_shark_animal"
+ },
+ "hammerhead_shark_animal_002": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1773,
+  "score": 0.6872,
+  "theme": "hammerhead_shark_animal"
+ },
+ "happy_easter_bunny_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2256,
+  "score": 0.7424,
+  "theme": "happy_easter_bunny"
+ },
+ "happy_sun_in_space_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0949,
+  "score": 0.1238,
+  "theme": "happy_sun_in_space"
+ },
+ "haunted_house_halloween_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1423,
+  "score": 0.7134,
+  "theme": "haunted_house_halloween"
+ },
+ "haunted_house_halloween_002": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1601,
+  "score": 0.6252,
+  "theme": "haunted_house_halloween"
+ },
+ "haystack_farm_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1101,
+  "score": 0.1747,
+  "theme": "haystack_farm"
+ },
+ "hesperosaurus_dinosaur_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1446,
+  "score": 0.7322,
+  "theme": "hesperosaurus_dinosaur"
+ },
+ "hippo_animal_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1017,
+  "score": 0.1382,
+  "theme": "hippo_animal"
+ },
+ "hippo_animal_002": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0984,
+  "score": 0.1283,
+  "theme": "hippo_animal"
+ },
+ "hippo_animal_003": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.105,
+  "score": 0.1515,
+  "theme": "hippo_animal"
+ },
+ "horse_animal_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1018,
+  "score": 0.1393,
+  "theme": "horse_animal"
+ },
+ "iguanodon_dinosaur_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.117,
+  "score": 0.403,
+  "theme": "iguanodon_dinosaur"
+ },
+ "jack_in_the_box_halloween_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1734,
+  "score": 0.8439,
+  "theme": "jack_in_the_box_halloween"
+ },
+ "jack_russell_terrier_dog_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1419,
+  "score": 0.7045,
+  "theme": "jack_russell_terrier_dog"
+ },
+ "jobaria_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1297,
+  "score": 0.272,
+  "theme": "jobaria_dinosaur"
+ },
+ "jumping_mermaid_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2149,
+  "score": 0.5307,
+  "theme": "jumping_mermaid"
+ },
+ "jumping_unicorn_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1531,
+  "score": 0.4025,
+  "theme": "jumping_unicorn"
+ },
+ "kangaroo_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1083,
+  "score": 0.3665,
+  "theme": "kangaroo_animal"
+ },
+ "killer_whale_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1375,
+  "score": 0.5191,
+  "theme": "killer_whale_animal"
+ },
+ "killer_whale_animal_002": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1616,
+  "score": 0.6308,
+  "theme": "killer_whale_animal"
+ },
+ "knight_and_princess_horse_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1667,
+  "score": 0.6551,
+  "theme": "knight_and_princess_horse"
+ },
+ "knight_attacking_pose_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1531,
+  "score": 0.4014,
+  "theme": "knight_attacking_pose"
+ },
+ "knight_guarding_a_gate_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1705,
+  "score": 0.4688,
+  "theme": "knight_guarding_a_gate"
+ },
+ "knight_holding_axe_and_shield_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1375,
+  "score": 0.518,
+  "theme": "knight_holding_axe_and_shield"
+ },
+ "knight_in_a_fighting_pose_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1493,
+  "score": 0.3881,
+  "theme": "knight_in_a_fighting_pose"
+ },
+ "knight_on_a_horse_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1356,
+  "score": 0.6736,
+  "theme": "knight_on_a_horse"
+ },
+ "knight_with_an_eagle_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1511,
+  "score": 0.5954,
+  "theme": "knight_with_an_eagle"
+ },
+ "koala_animal_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1337,
+  "score": 0.6592,
+  "theme": "koala_animal"
+ },
+ "labrador_retriever_dog_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1191,
+  "score": 0.5785,
+  "theme": "labrador_retriever_dog"
+ },
+ "leprechaun_holding_shamrock_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1564,
+  "score": 0.6175,
+  "theme": "leprechaun_holding_shamrock"
+ },
+ "leprechaun_on_a_rainbow_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.137,
+  "score": 0.3118,
+  "theme": "leprechaun_on_a_rainbow"
+ },
+ "lhasa_apso_dog_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1135,
+  "score": 0.5564,
+  "theme": "lhasa_apso_dog"
+ },
+ "lufengosaurus_dinosaur_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.142,
+  "score": 0.7057,
+  "theme": "lufengosaurus_dinosaur"
+ },
+ "manatee_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1115,
+  "score": 0.1824,
+  "theme": "manatee_animal"
+ },
+ "manatee_animal_002": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.191,
+  "score": 0.5053,
+  "theme": "manatee_animal"
+ },
+ "manta_ray_animal_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1242,
+  "score": 0.6095,
+  "theme": "manta_ray_animal"
+ },
+ "mermaid_girls_playing_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.2585,
+  "score": 0.5528,
+  "theme": "mermaid_girls_playing"
+ },
+ "mermaid_holding_trident_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1659,
+  "score": 0.8162,
+  "theme": "mermaid_holding_trident"
+ },
+ "mermaid_princess_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2626,
+  "score": 0.9224,
+  "theme": "mermaid_princess"
+ },
+ "mermaid_reading_book_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2591,
+  "score": 0.9201,
+  "theme": "mermaid_reading_book"
+ },
+ "mermaid_riding_in_a_seashell_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2182,
+  "score": 0.534,
+  "theme": "mermaid_riding_in_a_seashell"
+ },
+ "mermaid_sleeping_in_a_shell_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2445,
+  "score": 0.9146,
+  "theme": "mermaid_sleeping_in_a_shell"
+ },
+ "mermaid_unicorn_mermaid_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.248,
+  "score": 0.5495,
+  "theme": "mermaid_unicorn_mermaid"
+ },
+ "mermaid_with_a_baby_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2652,
+  "score": 0.9235,
+  "theme": "mermaid_with_a_baby"
+ },
+ "mermaid_with_a_treasure_box_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.2593,
+  "score": 0.7557,
+  "theme": "mermaid_with_a_treasure_box"
+ },
+ "mermaid_with_friends_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.2748,
+  "score": 0.759,
+  "theme": "mermaid_with_friends"
+ },
+ "mermaid_with_whale_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.224,
+  "score": 0.7413,
+  "theme": "mermaid_with_whale"
+ },
+ "monkey_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1052,
+  "score": 0.3533,
+  "theme": "monkey_animal"
+ },
+ "moose_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1145,
+  "score": 0.5586,
+  "theme": "moose_animal"
+ },
+ "mosasaurus_dinosaur_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1366,
+  "score": 0.6758,
+  "theme": "mosasaurus_dinosaur"
+ },
+ "moses_with_ten_commandments_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1515,
+  "score": 0.3958,
+  "theme": "moses_with_ten_commandments"
+ },
+ "mouse_farm_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1209,
+  "score": 0.2233,
+  "theme": "mouse_farm"
+ },
+ "mummy_halloween_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1898,
+  "score": 0.8682,
+  "theme": "mummy_halloween"
+ },
+ "mummy_halloween_002": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1703,
+  "score": 0.6684,
+  "theme": "mummy_halloween"
+ },
+ "narwhal_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1994,
+  "score": 0.7126,
+  "theme": "narwhal_animal"
+ },
+ "octopus_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1976,
+  "score": 0.8759,
+  "theme": "octopus_animal"
+ },
+ "owl_on_a_tree_branch_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1504,
+  "score": 0.5921,
+  "theme": "owl_on_a_tree_branch"
+ },
+ "owl_witch_hat_halloween_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.125,
+  "score": 0.4539,
+  "theme": "owl_witch_hat_halloween"
+ },
+ "panda_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1236,
+  "score": 0.2388,
+  "theme": "panda_animal"
+ },
+ "penguin_animal_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1169,
+  "score": 0.5674,
+  "theme": "penguin_animal"
+ },
+ "pig_farm_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1016,
+  "score": 0.1371,
+  "theme": "pig_farm"
+ },
+ "pirate_at_the_helm_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1433,
+  "score": 0.3505,
+  "theme": "pirate_at_the_helm"
+ },
+ "pirate_captain_with_cannon_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1334,
+  "score": 0.4915,
+  "theme": "pirate_captain_with_cannon"
+ },
+ "pirate_holding_a_sword_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.142,
+  "score": 0.7068,
+  "theme": "pirate_holding_a_sword"
+ },
+ "pirate_sitting_on_a_barrel_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1387,
+  "score": 0.5257,
+  "theme": "pirate_sitting_on_a_barrel"
+ },
+ "pirate_with_guitar_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.134,
+  "score": 0.2952,
+  "theme": "pirate_with_guitar"
+ },
+ "pirate_with_sword_telescope_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.116,
+  "score": 0.1968,
+  "theme": "pirate_with_sword_telescope"
+ },
+ "planet_and_rocket_ship_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1243,
+  "score": 0.2455,
+  "theme": "planet_and_rocket_ship"
+ },
+ "planet_saturn_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1065,
+  "score": 0.157,
+  "theme": "planet_saturn"
+ },
+ "planet_saturn_002": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1166,
+  "score": 0.1979,
+  "theme": "planet_saturn"
+ },
+ "platypus_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1175,
+  "score": 0.2057,
+  "theme": "platypus_animal"
+ },
+ "platypus_animal_002": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1668,
+  "score": 0.4555,
+  "theme": "platypus_animal"
+ },
+ "playing_mermaid_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.2523,
+  "score": 0.5517,
+  "theme": "playing_mermaid"
+ },
+ "plesiosaurus_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1083,
+  "score": 0.167,
+  "theme": "plesiosaurus_dinosaur"
+ },
+ "police_badge_donuts_coffee_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1965,
+  "score": 0.8748,
+  "theme": "police_badge_donuts_coffee"
+ },
+ "police_car_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.185,
+  "score": 0.6982,
+  "theme": "police_car"
+ },
+ "police_car_vehicle_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1541,
+  "score": 0.7742,
+  "theme": "police_car_vehicle"
+ },
+ "police_dog_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1706,
+  "score": 0.6706,
+  "theme": "police_dog"
+ },
+ "police_hat_and_baton_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1444,
+  "score": 0.7289,
+  "theme": "police_hat_and_baton"
+ },
+ "police_motorcycle_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1605,
+  "score": 0.4279,
+  "theme": "police_motorcycle"
+ },
+ "police_officer_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1622,
+  "score": 0.8029,
+  "theme": "police_officer"
+ },
+ "police_officer_equipment_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1441,
+  "score": 0.56,
+  "theme": "police_officer_equipment"
+ },
+ "police_officer_with_old_woman_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1799,
+  "score": 0.4887,
+  "theme": "police_officer_with_old_woman"
+ },
+ "police_officers_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1718,
+  "score": 0.4732,
+  "theme": "police_officers"
+ },
+ "police_station_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2175,
+  "score": 0.5329,
+  "theme": "police_station"
+ },
+ "police_with_criminal_into_car_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1322,
+  "score": 0.6515,
+  "theme": "police_with_criminal_into_car"
+ },
+ "policewoman_chasing_thief_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1633,
+  "score": 0.8063,
+  "theme": "policewoman_chasing_thief"
+ },
+ "policewoman_reporting_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1576,
+  "score": 0.4201,
+  "theme": "policewoman_reporting"
+ },
+ "princess_shoes_with_heels_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0875,
+  "score": 0.1172,
+  "theme": "princess_shoes_with_heels"
+ },
+ "pterodactyl_dinosaur_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1183,
+  "score": 0.4096,
+  "theme": "pterodactyl_dinosaur"
+ },
+ "pufferfish_animal_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1415,
+  "score": 0.7023,
+  "theme": "pufferfish_animal"
+ },
+ "pufferfish_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2221,
+  "score": 0.9036,
+  "theme": "pufferfish_animal"
+ },
+ "pug_dog_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1434,
+  "score": 0.7178,
+  "theme": "pug_dog"
+ },
+ "pumpkin_head_man_halloween_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1279,
+  "score": 0.6327,
+  "theme": "pumpkin_head_man_halloween"
+ },
+ "qantassaurus_dinosaur_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1465,
+  "score": 0.377,
+  "theme": "qantassaurus_dinosaur"
+ },
+ "quail_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1242,
+  "score": 0.241,
+  "theme": "quail_animal"
+ },
+ "rabbit_farm_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1196,
+  "score": 0.4152,
+  "theme": "rabbit_farm"
+ },
+ "rabbit_hugging_easter_egg_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.122,
+  "score": 0.2289,
+  "theme": "rabbit_hugging_easter_egg"
+ },
+ "rabbit_painting_easter_egg_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1435,
+  "score": 0.5545,
+  "theme": "rabbit_painting_easter_egg"
+ },
+ "rabbit_sleeping_on_easter_egg_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1115,
+  "score": 0.5498,
+  "theme": "rabbit_sleeping_on_easter_egg"
+ },
+ "race_car_vehicle_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1441,
+  "score": 0.5611,
+  "theme": "race_car_vehicle"
+ },
+ "racoon_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1341,
+  "score": 0.497,
+  "theme": "racoon_animal"
+ },
+ "rainbow_unicorn_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.144,
+  "score": 0.3571,
+  "theme": "rainbow_unicorn"
+ },
+ "reaper_with_scythe_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1479,
+  "score": 0.3848,
+  "theme": "reaper_with_scythe_halloween"
+ },
+ "rhino_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1128,
+  "score": 0.1869,
+  "theme": "rhino_animal"
+ },
+ "river_otter_animal_002": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.132,
+  "score": 0.283,
+  "theme": "river_otter_animal"
+ },
+ "rottweiler_dog_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0829,
+  "score": 0.115,
+  "theme": "rottweiler_dog"
+ },
+ "royal_castle_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.156,
+  "score": 0.6142,
+  "theme": "royal_castle"
+ },
+ "sail_fish_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1422,
+  "score": 0.5423,
+  "theme": "sail_fish_animal"
+ },
+ "sail_fish_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2038,
+  "score": 0.7192,
+  "theme": "sail_fish_animal"
+ },
+ "sailboat_vehicle_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1294,
+  "score": 0.4716,
+  "theme": "sailboat_vehicle"
+ },
+ "saint_bernard_dog_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1068,
+  "score": 0.3588,
+  "theme": "saint_bernard_dog"
+ },
+ "saint_patrick_day_beer_barrel_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1834,
+  "score": 0.8615,
+  "theme": "saint_patrick_day_beer_barrel"
+ },
+ "saint_patricks_day_leprechaun_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1535,
+  "score": 0.4047,
+  "theme": "saint_patricks_day_leprechaun"
+ },
+ "saint_patricks_day_sun_flower_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1992,
+  "score": 0.7115,
+  "theme": "saint_patricks_day_sun_flower"
+ },
+ "saluting_police_officer_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1543,
+  "score": 0.6109,
+  "theme": "saluting_police_officer"
+ },
+ "schnauzer_dog_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1039,
+  "score": 0.1482,
+  "theme": "schnauzer_dog"
+ },
+ "scooter_vehicle_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1329,
+  "score": 0.2886,
+  "theme": "scooter_vehicle"
+ },
+ "sea_otter_animal_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.13,
+  "score": 0.2742,
+  "theme": "sea_otter_animal"
+ },
+ "sea_otter_animal_002": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1318,
+  "score": 0.2819,
+  "theme": "sea_otter_animal"
+ },
+ "seal_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1208,
+  "score": 0.2222,
+  "theme": "seal_animal"
+ },
+ "seal_animal_002": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1652,
+  "score": 0.4467,
+  "theme": "seal_animal"
+ },
+ "shamrock_fairy_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2056,
+  "score": 0.8859,
+  "theme": "shamrock_fairy"
+ },
+ "shamrock_mandala_001": {
+  "tier": "MEDIUM",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.2439,
+  "score": 0.5473,
+  "theme": "shamrock_mandala"
+ },
+ "shih_tzu_dog_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1037,
+  "score": 0.1471,
+  "theme": "shih_tzu_dog"
+ },
+ "siberian_husky_dog_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.101,
+  "score": 0.5011,
+  "theme": "siberian_husky_dog"
+ },
+ "sitting_unicorn_stuck_donut_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1343,
+  "score": 0.6647,
+  "theme": "sitting_unicorn_stuck_donut"
+ },
+ "skeleton_halloween_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1616,
+  "score": 0.633,
+  "theme": "skeleton_halloween"
+ },
+ "skull_and_tomb_halloween_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1465,
+  "score": 0.5766,
+  "theme": "skull_and_tomb_halloween"
+ },
+ "sleeping_crescent_moon_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.0792,
+  "score": 0.479,
+  "theme": "sleeping_crescent_moon"
+ },
+ "snail_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1056,
+  "score": 0.1537,
+  "theme": "snail_animal"
+ },
+ "snowman_christmas_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.0973,
+  "score": 0.3267,
+  "theme": "snowman_christmas"
+ },
+ "space_radar_satellite_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.0992,
+  "score": 0.33,
+  "theme": "space_radar_satellite"
+ },
+ "space_shuttle_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1184,
+  "score": 0.4119,
+  "theme": "space_shuttle"
+ },
+ "space_telescope_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1351,
+  "score": 0.5036,
+  "theme": "space_telescope"
+ },
+ "sperm_whale_animal_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1075,
+  "score": 0.5276,
+  "theme": "sperm_whale_animal"
+ },
+ "sperm_whale_animal_002": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1806,
+  "score": 0.6905,
+  "theme": "sperm_whale_animal"
+ },
+ "squirrel_animal_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1158,
+  "score": 0.1957,
+  "theme": "squirrel_animal"
+ },
+ "st_patrick_day_owl_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1111,
+  "score": 0.1802,
+  "theme": "st_patrick_day_owl"
+ },
+ "st_patrick_day_unicorn_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1484,
+  "score": 0.3859,
+  "theme": "st_patrick_day_unicorn"
+ },
+ "st_patricks_day_leprechaun_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1338,
+  "score": 0.4948,
+  "theme": "st_patricks_day_leprechaun"
+ },
+ "st_patricks_day_leprechaun_002": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1581,
+  "score": 0.6219,
+  "theme": "st_patricks_day_leprechaun"
+ },
+ "st_patricks_day_pot_of_gold_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1395,
+  "score": 0.3262,
+  "theme": "st_patricks_day_pot_of_gold"
+ },
+ "st_patricks_day_rainbow_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1403,
+  "score": 0.3273,
+  "theme": "st_patricks_day_rainbow"
+ },
+ "standing_unicorn_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2172,
+  "score": 0.5318,
+  "theme": "standing_unicorn"
+ },
+ "stegosaurus_dinosaur_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1214,
+  "score": 0.5918,
+  "theme": "stegosaurus_dinosaur"
+ },
+ "superhero_girl_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1184,
+  "score": 0.4107,
+  "theme": "superhero_girl"
+ },
+ "swamp_monster_halloween_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1298,
+  "score": 0.4738,
+  "theme": "swamp_monster_halloween"
+ },
+ "thanksgiving_acorn_fruit_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1463,
+  "score": 0.3737,
+  "theme": "thanksgiving_acorn_fruit"
+ },
+ "thanksgiving_autumn_leaves_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1906,
+  "score": 0.7049,
+  "theme": "thanksgiving_autumn_leaves"
+ },
+ "thanksgiving_baked_bread_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1654,
+  "score": 0.814,
+  "theme": "thanksgiving_baked_bread"
+ },
+ "thanksgiving_centerpiece_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.078,
+  "score": 0.1117,
+  "theme": "thanksgiving_centerpiece"
+ },
+ "thanksgiving_feast_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1228,
+  "score": 0.6006,
+  "theme": "thanksgiving_feast"
+ },
+ "thanksgiving_feast_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1901,
+  "score": 0.8693,
+  "theme": "thanksgiving_feast"
+ },
+ "thanksgiving_harvest_fruit_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1616,
+  "score": 0.7974,
+  "theme": "thanksgiving_harvest_fruit"
+ },
+ "thanksgiving_native_american_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1373,
+  "score": 0.314,
+  "theme": "thanksgiving_native_american"
+ },
+ "thanksgiving_native_american_003": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1234,
+  "score": 0.2377,
+  "theme": "thanksgiving_native_american"
+ },
+ "thanksgiving_owl_pilgrim_hat_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1233,
+  "score": 0.6028,
+  "theme": "thanksgiving_owl_pilgrim_hat"
+ },
+ "thanksgiving_pilgrim_boy_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1656,
+  "score": 0.4489,
+  "theme": "thanksgiving_pilgrim_boy"
+ },
+ "thanksgiving_pilgrim_boy_002": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1343,
+  "score": 0.4981,
+  "theme": "thanksgiving_pilgrim_boy"
+ },
+ "thanksgiving_pilgrim_children_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1268,
+  "score": 0.4638,
+  "theme": "thanksgiving_pilgrim_children"
+ },
+ "thanksgiving_pumpkin_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1649,
+  "score": 0.8118,
+  "theme": "thanksgiving_pumpkin"
+ },
+ "thanksgiving_pumpkin_pie_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.201,
+  "score": 0.7148,
+  "theme": "thanksgiving_pumpkin_pie"
+ },
+ "thanksgiving_turkey_animal_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1372,
+  "score": 0.6791,
+  "theme": "thanksgiving_turkey_animal"
+ },
+ "thanksgiving_turkey_head_hat_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1029,
+  "score": 0.1437,
+  "theme": "thanksgiving_turkey_head_hat"
+ },
+ "thanksgiving_turkey_with_pie_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1256,
+  "score": 0.4572,
+  "theme": "thanksgiving_turkey_with_pie"
+ },
+ "tiger_animal_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1626,
+  "score": 0.6396,
+  "theme": "tiger_animal"
+ },
+ "triceratops_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1307,
+  "score": 0.2764,
+  "theme": "triceratops_dinosaur"
+ },
+ "turkey_farm_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1218,
+  "score": 0.4273,
+  "theme": "turkey_farm"
+ },
+ "turtle_animal_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1381,
+  "score": 0.6891,
+  "theme": "turtle_animal"
+ },
+ "turtle_animal_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2082,
+  "score": 0.8925,
+  "theme": "turtle_animal"
+ },
+ "turtle_animal_003": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1103,
+  "score": 0.3776,
+  "theme": "turtle_animal"
+ },
+ "two_rabbit_holding_easter_egg_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1422,
+  "score": 0.345,
+  "theme": "two_rabbit_holding_easter_egg"
+ },
+ "ufo_alien_space_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1626,
+  "score": 0.8041,
+  "theme": "ufo_alien_space"
+ },
+ "ufo_and_asteroid_in_space_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1323,
+  "score": 0.4881,
+  "theme": "ufo_and_asteroid_in_space"
+ },
+ "ufo_vehicle_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.0502,
+  "score": 0.4757,
+  "theme": "ufo_vehicle"
+ },
+ "unicorn_astronaut_in_space_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 10,
+  "clutter": 0.1202,
+  "score": 0.5846,
+  "theme": "unicorn_astronaut_in_space"
+ },
+ "unicorn_astronaut_on_space_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1197,
+  "score": 0.4163,
+  "theme": "unicorn_astronaut_on_space"
+ },
+ "unicorn_ballerina_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1261,
+  "score": 0.4594,
+  "theme": "unicorn_ballerina"
+ },
+ "unicorn_castle_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1469,
+  "score": 0.7455,
+  "theme": "unicorn_castle"
+ },
+ "unicorn_eating_ice_cream_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1225,
+  "score": 0.23,
+  "theme": "unicorn_eating_ice_cream"
+ },
+ "unicorn_eating_ice_cream_002": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1714,
+  "score": 0.6728,
+  "theme": "unicorn_eating_ice_cream"
+ },
+ "unicorn_floating_on_balloons_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1026,
+  "score": 0.3422,
+  "theme": "unicorn_floating_on_balloons"
+ },
+ "unicorn_floating_on_balloons_002": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1592,
+  "score": 0.7886,
+  "theme": "unicorn_floating_on_balloons"
+ },
+ "unicorn_flower_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1742,
+  "score": 0.4799,
+  "theme": "unicorn_flower"
+ },
+ "unicorn_head_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1247,
+  "score": 0.2521,
+  "theme": "unicorn_head"
+ },
+ "unicorn_head_002": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1566,
+  "score": 0.419,
+  "theme": "unicorn_head"
+ },
+ "unicorn_holding_ice_cream_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1771,
+  "score": 0.6861,
+  "theme": "unicorn_holding_ice_cream"
+ },
+ "unicorn_hugging_a_heart_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1004,
+  "score": 0.1327,
+  "theme": "unicorn_hugging_a_heart"
+ },
+ "unicorn_lying_on_a_flower_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1523,
+  "score": 0.4002,
+  "theme": "unicorn_lying_on_a_flower"
+ },
+ "unicorn_lying_on_the_cloud_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1061,
+  "score": 0.1559,
+  "theme": "unicorn_lying_on_the_cloud"
+ },
+ "unicorn_mermaid_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.132,
+  "score": 0.6504,
+  "theme": "unicorn_mermaid"
+ },
+ "unicorn_on_a_skateboard_001": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1244,
+  "score": 0.4483,
+  "theme": "unicorn_on_a_skateboard"
+ },
+ "unicorn_on_the_beach_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1866,
+  "score": 0.7004,
+  "theme": "unicorn_on_the_beach"
+ },
+ "unicorn_on_the_candy_land_001": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2028,
+  "score": 0.8826,
+  "theme": "unicorn_on_the_candy_land"
+ },
+ "unicorn_on_the_ocean_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1733,
+  "score": 0.8428,
+  "theme": "unicorn_on_the_ocean"
+ },
+ "unicorn_on_the_roller_skates_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1228,
+  "score": 0.2322,
+  "theme": "unicorn_on_the_roller_skates"
+ },
+ "unicorn_on_the_space_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1035,
+  "score": 0.3466,
+  "theme": "unicorn_on_the_space"
+ },
+ "unicorn_playing_on_the_flower_001": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2221,
+  "score": 0.7369,
+  "theme": "unicorn_playing_on_the_flower"
+ },
+ "unicorn_princess_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.169,
+  "score": 0.8284,
+  "theme": "unicorn_princess"
+ },
+ "unicorn_princess_002": {
+  "tier": "EXTREME",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.2117,
+  "score": 0.8936,
+  "theme": "unicorn_princess"
+ },
+ "unicorn_princess_and_castle_001": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.183,
+  "score": 0.8604,
+  "theme": "unicorn_princess_and_castle"
+ },
+ "unicorn_sitting_on_a_mushroom_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1497,
+  "score": 0.3903,
+  "theme": "unicorn_sitting_on_a_mushroom"
+ },
+ "unicorn_skating_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.181,
+  "score": 0.492,
+  "theme": "unicorn_skating"
+ },
+ "unicorn_sleeping_on_a_moon_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1048,
+  "score": 0.351,
+  "theme": "unicorn_sleeping_on_a_moon"
+ },
+ "unicorn_sleeping_on_the_moon_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1564,
+  "score": 0.6164,
+  "theme": "unicorn_sleeping_on_the_moon"
+ },
+ "unicorn_sliding_on_rainbow_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.145,
+  "score": 0.3682,
+  "theme": "unicorn_sliding_on_rainbow"
+ },
+ "unicorn_sliding_on_rainbow_002": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1537,
+  "score": 0.4058,
+  "theme": "unicorn_sliding_on_rainbow"
+ },
+ "unicorn_standing_the_rainbow_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1896,
+  "score": 0.5009,
+  "theme": "unicorn_standing_the_rainbow"
+ },
+ "unicorn_together_with_friend_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.146,
+  "score": 0.5722,
+  "theme": "unicorn_together_with_friend"
+ },
+ "unicorn_walking_on_rainbow_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1376,
+  "score": 0.6857,
+  "theme": "unicorn_walking_on_rainbow"
+ },
+ "unicorn_walking_on_rainbow_002": {
+  "tier": "MEDIUM",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1647,
+  "score": 0.4445,
+  "theme": "unicorn_walking_on_rainbow"
+ },
+ "unicorn_wearing_sunglasses_001": {
+  "tier": "TINY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1245,
+  "score": 0.2499,
+  "theme": "unicorn_wearing_sunglasses"
+ },
+ "unicorn_with_a_flower_wreath_001": {
+  "tier": "HARD",
+  "difficulty": "HARD",
+  "nDiffs": 10,
+  "clutter": 0.1405,
+  "score": 0.6946,
+  "theme": "unicorn_with_a_flower_wreath"
+ },
+ "unicorn_with_a_flower_wreath_002": {
+  "tier": "EXTREME",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.2238,
+  "score": 0.7402,
+  "theme": "unicorn_with_a_flower_wreath"
+ },
+ "unicorn_with_a_friend_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1947,
+  "score": 0.5075,
+  "theme": "unicorn_with_a_friend"
+ },
+ "unicorn_with_cloud_star_moon_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1463,
+  "score": 0.5755,
+  "theme": "unicorn_with_cloud_star_moon"
+ },
+ "unicorn_with_heart_001": {
+  "tier": "HARD",
+  "difficulty": "EASY",
+  "nDiffs": 8,
+  "clutter": 0.1489,
+  "score": 0.5877,
+  "theme": "unicorn_with_heart"
+ },
+ "unicorn_with_sunglasses_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1926,
+  "score": 0.5064,
+  "theme": "unicorn_with_sunglasses"
+ },
+ "urial_animal_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1312,
+  "score": 0.6459,
+  "theme": "urial_animal"
+ },
+ "vampire_bat_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 6,
+  "clutter": 0.1546,
+  "score": 0.4113,
+  "theme": "vampire_bat_halloween"
+ },
+ "vampire_cat_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "HARD",
+  "nDiffs": 8,
+  "clutter": 0.1203,
+  "score": 0.4218,
+  "theme": "vampire_cat_halloween"
+ },
+ "vampire_owl_halloween_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1182,
+  "score": 0.2079,
+  "theme": "vampire_owl_halloween"
+ },
+ "velociraptor_dinosaur_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1374,
+  "score": 0.3162,
+  "theme": "velociraptor_dinosaur"
+ },
+ "vizsla_dog_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1117,
+  "score": 0.3853,
+  "theme": "vizsla_dog"
+ },
+ "walrus_animal_002": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1446,
+  "score": 0.3671,
+  "theme": "walrus_animal"
+ },
+ "wannanosaurus_dinosaur_001": {
+  "tier": "TINY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1091,
+  "score": 0.1714,
+  "theme": "wannanosaurus_dinosaur"
+ },
+ "waving_mermaid_on_the_beach_001": {
+  "tier": "MEDIUM",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.2211,
+  "score": 0.5351,
+  "theme": "waving_mermaid_on_the_beach"
+ },
+ "wheelbarrow_farm_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 6,
+  "clutter": 0.1469,
+  "score": 0.3803,
+  "theme": "wheelbarrow_farm"
+ },
+ "witch_girl_on_a_broomstick_001": {
+  "tier": "HARD",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1244,
+  "score": 0.615,
+  "theme": "witch_girl_on_a_broomstick"
+ },
+ "wolf_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1079,
+  "score": 0.3643,
+  "theme": "wolf_animal"
+ },
+ "yak_animal_001": {
+  "tier": "EASY",
+  "difficulty": "MEDIUM",
+  "nDiffs": 8,
+  "clutter": 0.1068,
+  "score": 0.3599,
+  "theme": "yak_animal"
+ },
+ "zeppelin_vehicle_001": {
+  "tier": "TINY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.0946,
+  "score": 0.1227,
+  "theme": "zeppelin_vehicle"
+ },
+ "zombie_halloween_002": {
+  "tier": "EXTREME",
+  "difficulty": "MEDIUM",
+  "nDiffs": 10,
+  "clutter": 0.1617,
+  "score": 0.7996,
+  "theme": "zombie_halloween"
+ },
+ "zombie_in_cemetery_halloween_001": {
+  "tier": "EASY",
+  "difficulty": "EASY",
+  "nDiffs": 6,
+  "clutter": 0.1381,
+  "score": 0.3217,
+  "theme": "zombie_in_cemetery_halloween"
+ }
+}
